@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement the CISA Zero Trust Maturity Model v2.0 across the five pillars
   of identity, devices, networks, applications, and data to achieve progressive organizational
@@ -343,8 +342,4 @@ class ZTMMAssessment:
 - [NSA Zero Trust Pillars Guidance](https://media.defense.gov/2024/Apr/09/2003434442/-1/-1/0/CSI_DATA_PILLAR_ZT.PDF)
 - [Microsoft Guidance for CISA ZTMM](https://www.microsoft.com/en-us/security/blog/2024/12/19/new-microsoft-guidance-for-the-cisa-zero-trust-maturity-model/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

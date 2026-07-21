@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements application whitelisting using Windows AppLocker to restrict
   unauthorized software execution on endpoints, reducing attack surface from malware,
@@ -261,8 +260,4 @@ Get-WinEvent -LogName "Microsoft-Windows-AppLocker/EXE and DLL" `
 - **Admin bypass**: Local administrators can bypass AppLocker by default. For full enforcement, combine with WDAC which enforces for all users including admins.
 - **DLL rule performance**: Enabling DLL rules creates significant performance overhead. Only enable in high-security environments where the tradeoff is justified.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

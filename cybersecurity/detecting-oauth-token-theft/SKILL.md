@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects and responds to OAuth token theft and replay attacks in cloud
   environments, focusing on Microsoft Entra ID (Azure AD) token protection, conditional
@@ -284,8 +283,4 @@ Policy: "Alert on mass file download (exfiltration via stolen token)"
 - [ ] Incident response runbook includes token revocation, password reset, and OAuth consent review steps
 - [ ] Mail forwarding rules and OAuth app grants are audited for compromised accounts
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

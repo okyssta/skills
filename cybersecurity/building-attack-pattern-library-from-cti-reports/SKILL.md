@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Extract and catalog attack patterns from cyber threat intelligence reports
   into a structured STIX-based library mapped to MITRE ATT&CK for detection engineering
@@ -324,8 +323,4 @@ templates = library.generate_detection_templates(mapped_behaviors)
 - [Sigma Rules Project](https://github.com/SigmaHQ/sigma)
 - [MITRE ATT&CK STIX Data](https://github.com/mitre/cti)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

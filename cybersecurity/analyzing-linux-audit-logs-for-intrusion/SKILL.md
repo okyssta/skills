@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Uses the Linux Audit framework (auditd) with ausearch and aureport utilities
   to detect intrusion attempts, unauthorized access, privilege escalation, and suspicious
@@ -275,8 +274,4 @@ transport = tcp
 - [ ] Logs are forwarding to central SIEM (verify with a test event and confirm receipt)
 - [ ] Audit rules persist across reboot (rules in `/etc/audit/rules.d/`, not only via `auditctl`)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

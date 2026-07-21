@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Automate phishing incident response using Splunk SOAR REST API to create
   containers, add artifacts, and trigger playbooks
@@ -94,8 +93,4 @@ Splunk SOAR orchestrates and automates security operations through playbooks tha
 }
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

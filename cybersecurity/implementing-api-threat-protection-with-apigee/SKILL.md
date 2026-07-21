@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement API threat protection using Google Apigee policies including
   JSON/XML threat protection, OAuth 2.0, SpikeArrest, and Advanced API Security for
@@ -335,8 +334,4 @@ gcloud apigee apis list-deployments \
 - Apigee OWASP API Top 10: https://docs.apigee.com/api-platform/faq/owasp-top-api-threats
 - Wallarm Apigee Security Policies Guide: https://lab.wallarm.com/what/apigee-api-security-policies-howto/
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

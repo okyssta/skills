@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Plans and facilitates tabletop exercises simulating ransomware incidents
   to test organizational readiness, decision-making, and communication procedures.
@@ -245,8 +244,4 @@ Produce an after-action report (AAR) within 5 business days:
 |------|---------------|--------------|-------|
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

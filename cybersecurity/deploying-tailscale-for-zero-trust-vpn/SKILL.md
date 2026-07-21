@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy and configure Tailscale as a WireGuard-based zero trust mesh VPN
   with identity-aware access controls, ACLs, and exit nodes for secure peer-to-peer
@@ -438,8 +437,4 @@ tailscale up --authkey=$TS_AUTHKEY --hostname=ci-runner-$CI_JOB_ID
 - [WireGuard Protocol](https://www.wireguard.com/protocol/)
 - [Tailscale SSH](https://tailscale.com/kb/1193/tailscale-ssh/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Automates the Privacy Impact Assessment (PIA) workflow including data
   flow mapping, privacy risk scoring matrices, GDPR Article 35 DPIA and CCPA/CPRA
@@ -288,8 +287,4 @@ for function_id, outcomes in profile["functions"].items():
         print(f"  [{status}] {outcome['subcategory']}: {outcome['description']}")
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

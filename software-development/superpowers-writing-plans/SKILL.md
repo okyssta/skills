@@ -180,7 +180,3 @@ After saving the plan, offer execution choice:
 - **REQUIRED SUB-SKILL:** Use superpowers:executing-plans
 - Batch execution with checkpoints for review
 
----
-
-*Adapted for Hermes Agent from the Superpowers methodology ([obra/superpowers](https://github.com/obra/superpowers)). Original concepts modified for the Hermes subagent/delegate_task workflow.*
-

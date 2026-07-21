@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Tests OAuth 2.0 and OpenID Connect implementations for security flaws
   including authorization code interception, redirect URI manipulation, CSRF in OAuth
@@ -410,8 +409,4 @@ resources the OAuth scope grants access to.
 6. Validate the audience (aud) claim in tokens before accepting them
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

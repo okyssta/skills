@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement SAML 2.0 Single Sign-On (SSO) using Okta as the Identity Provider
   (IdP). This skill covers end-to-end configuration of SAML authentication flows,
@@ -146,8 +145,4 @@ Implement SAML 2.0 Single Sign-On (SSO) using Okta as the Identity Provider (IdP
 - [ ] SLO properly terminates sessions on both IdP and SP
 - [ ] Certificate rotation tested without service interruption
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

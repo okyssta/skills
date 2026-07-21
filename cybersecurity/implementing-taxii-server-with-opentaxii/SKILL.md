@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy and configure an OpenTAXII server to share and consume STIX-formatted
   cyber threat intelligence using the TAXII 2.1 protocol for automated indicator exchange
@@ -377,8 +376,4 @@ def push_to_elasticsearch(iocs, es_url, index="threat-intel"):
 - [taxii2-client Python Library](https://github.com/oasis-open/cti-taxii-client)
 - [Kraven Security: STIX/TAXII Complete Guide](https://kravensecurity.com/stix-and-taxii-a-full-guide/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

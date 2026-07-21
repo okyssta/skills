@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Extract cached credentials, password hashes, Kerberos tickets, and authentication
   tokens from memory dumps using Volatility and Mimikatz for forensic investigation.
@@ -338,8 +337,4 @@ Credential Extraction Summary:
     - Medium: Audit DPAPI-protected data exposure
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

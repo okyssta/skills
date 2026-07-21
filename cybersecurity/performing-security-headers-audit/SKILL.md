@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Auditing HTTP security headers including CSP, HSTS, X-Frame-Options,
   and cookie attributes to identify missing or misconfigured browser-level protections.
@@ -325,8 +324,4 @@ No HSTS header is present. An attacker on the network can perform an SSL strippi
 7. **Low**: Add Permissions-Policy to restrict unused browser features
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

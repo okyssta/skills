@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Develops comprehensive threat actor profiles for APT groups, criminal
   organizations, and hacktivist collectives by aggregating TTP documentation, historical
@@ -144,8 +143,4 @@ Classify TLP:AMBER for internal distribution; seek ISAC approval before external
 - **Neglecting insider and criminal groups**: Overemphasis on nation-state APTs while ignoring ransomware groups (Cl0p, LockBit, ALPHV) which represent higher probability threats for most organizations.
 - **Profile staleness**: Adversary TTPs evolve. Profiles not updated quarterly may miss technique changes, new malware, or targeting shifts.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

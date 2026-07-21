@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Hunt for adversary abuse of legitimate cloud services for C2, data staging,
   and exfiltration including abuse of Azure, AWS, GCP services, and SaaS platforms.
@@ -97,8 +96,4 @@ Confidence: [High/Medium/Low]
 Recommended Action: [Containment, investigation, monitoring]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

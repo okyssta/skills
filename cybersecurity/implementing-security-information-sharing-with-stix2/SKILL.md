@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Create, validate, and share STIX 2.1 threat intelligence objects using
   the stix2 Python library. Covers indicators, malware, campaigns, relationships,
@@ -409,8 +408,4 @@ validate_stix_bundle("emotet_campaign_bundle.json")
 - Check that consuming systems (SIEM, SOAR, TIP) can ingest the bundle and create corresponding detection rules or enrichment data
 - Run `stix2-validator` CLI tool against exported bundles: `stix2_validator emotet_campaign_bundle.json`
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: MISP (Malware Information Sharing Platform) is an open-source threat
   intelligence platform for gathering, sharing, storing, and correlating Indicators
@@ -194,8 +193,4 @@ csv_output = misp.search(
 - [MISP OpenAPI Specification](https://www.misp-project.org/openapi/)
 - [CIRCL OSINT Feed](https://www.circl.lu/doc/misp/feed-osint/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

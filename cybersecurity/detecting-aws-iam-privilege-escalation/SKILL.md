@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect AWS IAM privilege escalation paths using boto3 and Cloudsplaining
   policy analysis to identify overly permissive policies, dangerous permission combinations,
@@ -66,8 +65,4 @@ This skill uses boto3 and Cloudsplaining-style analysis to identify IAM privileg
 - Wildcard resource policy audit results
 - Remediation recommendations for each finding
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

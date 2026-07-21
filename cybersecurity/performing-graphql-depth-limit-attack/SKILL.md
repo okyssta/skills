@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Execute and test GraphQL depth limit attacks using deeply nested recursive
   queries to identify denial-of-service vulnerabilities in GraphQL APIs.
@@ -424,8 +423,4 @@ GRAPHQL_CONFIG = {
 - Escape.tech Cyclic Queries: https://escape.tech/blog/cyclic-queries-and-depth-limit/
 - PortSwigger GraphQL Vulnerabilities: https://portswigger.net/web-security/graphql
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

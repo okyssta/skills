@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Produce and ingest CycloneDX and SPDX SBOMs and correlate them to vulnerability
   intelligence.
@@ -188,8 +187,4 @@ Feed Grype JSON into your vulnerability management workflow: deduplicate by CVE,
 - [ ] Stored SBOMs re-scanned on Grype DB updates
 - [ ] Findings correlated/prioritized (EPSS/KEV) and tracked to remediation
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

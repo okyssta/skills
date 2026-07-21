@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects insider data exfiltration by analyzing DLP policy violations,
   file access patterns, upload volume anomalies, and off-hours activity in endpoint
@@ -85,8 +84,4 @@ off_hours = df[(df["hour"] < 6) | (df["hour"] > 22)]
 suspicious = off_hours.groupby("user").size().sort_values(ascending=False)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

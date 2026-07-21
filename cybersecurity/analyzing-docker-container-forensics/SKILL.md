@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Investigate compromised Docker containers by analyzing images, layers,
   volumes, logs, and runtime artifacts to identify malicious activity and evidence.
@@ -346,8 +345,4 @@ Docker Container Forensics Summary:
   Evidence: /cases/case-2024-001/docker/
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements strategies to reduce SOC alert fatigue by tuning detection
   rules, consolidating duplicate alerts, implementing risk-based alerting, and measuring
@@ -338,8 +337,4 @@ Detection Coverage Impact: NONE — ATT&CK coverage maintained at 67%
 True Positive Detection Rate: IMPROVED — 12 additional true positives caught per week
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

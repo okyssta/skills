@@ -1,5 +1,4 @@
 ---
-author: andrewibrah
 category: cybersecurity
 description: 'Conduct a defensible cybersecurity risk assessment using the NIST SP
   800-30 Rev 1 methodology: prepare scope and a risk model, identify threat sources
@@ -144,8 +143,4 @@ Produce a **Risk Assessment Report** using `assets/template.md`, containing:
 
 Use `scripts/process.py` to score the register from a risk-input JSON (likelihood × impact → risk level on a configurable matrix), rank risks, and emit the register table.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

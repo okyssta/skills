@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing device posture assessment as a zero trust access control
   by integrating endpoint health signals from CrowdStrike ZTA, Microsoft Intune, and
@@ -457,8 +456,4 @@ POSTURE DRIFT ALERTS:
   OS downgraded:                  1
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

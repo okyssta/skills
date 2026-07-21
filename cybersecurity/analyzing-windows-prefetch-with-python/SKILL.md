@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Parse Windows Prefetch files using the windowsprefetch Python library
   to reconstruct application execution history, detect renamed or masquerading binaries,
@@ -118,8 +117,4 @@ Summary:
   JSON report: /analysis/prefetch_report/prefetch_timeline.json
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

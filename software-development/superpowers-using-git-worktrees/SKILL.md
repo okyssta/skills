@@ -208,7 +208,3 @@ Ready to implement <feature-name>
 - Auto-detect and run project setup
 - Verify clean test baseline
 
----
-
-*Adapted for Hermes Agent from the Superpowers methodology ([obra/superpowers](https://github.com/obra/superpowers)). Original concepts modified for the Hermes subagent/delegate_task workflow.*
-

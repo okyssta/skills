@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure Microsoft Entra Privileged Identity Management to enforce just-in-time
   role activation, approval workflows, and access reviews for Azure AD privileged
@@ -248,8 +247,4 @@ Enable PIM security alerts:
 - [Start Using PIM](https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-getting-started)
 - [Microsoft Graph PIM API](https://learn.microsoft.com/en-us/graph/api/resources/privilegedidentitymanagementv3-overview)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

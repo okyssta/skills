@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect data staging activity before exfiltration by monitoring for archive
   creation with 7-Zip/RAR, unusual temp folder access, large file consolidation, and
@@ -68,8 +67,4 @@ Before exfiltrating data, adversaries typically stage collected files in a centr
 - MITRE ATT&CK mapping (T1074.001, T1074.002, T1560)
 - Staging directory heat map showing suspicious write activity
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

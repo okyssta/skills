@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detect NTFS timestamp manipulation (MITRE T1070.006) by comparing $STANDARD_INFORMATION
   vs $FILE_NAME timestamps in the MFT. Uses analyzeMFT and Python to identify files
@@ -353,8 +352,4 @@ generate_report(stomped_files, "D:\\Evidence\\timestomping_report.json")
 - Test against known-clean system images to establish a false-positive baseline (some backup/imaging software legitimately resets timestamps)
 - Confirm the detection pipeline correctly handles deleted MFT entries (InUse=false) which may contain evidence of timestomped files that were later removed
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

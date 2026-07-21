@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects container escape attempts by analyzing namespace configurations,
   privileged container checks, dangerous capability assignments, and host path mounts
@@ -82,8 +81,4 @@ for vol in pod.spec.volumes or []:
         print(f"Docker socket exposed: {pod.metadata.name}")
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

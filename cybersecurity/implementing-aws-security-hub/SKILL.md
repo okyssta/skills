@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers deploying AWS Security Hub as a centralized cloud
   security posture management platform that aggregates findings from GuardDuty, Inspector,
@@ -234,8 +233,4 @@ FINDING SUMMARY:
   Suppressed: 23
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

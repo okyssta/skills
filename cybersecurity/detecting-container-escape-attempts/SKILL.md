@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Container escape is a critical attack technique where an adversary breaks
   out of container isolation to access the host system or other containers. Detection
@@ -321,8 +320,4 @@ ausearch -k container_escape --interpret
 - [MITRE ATT&CK T1611 - Escape to Host](https://attack.mitre.org/techniques/T1611/)
 - [Sysdig Container Security](https://sysdig.com/products/secure/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers deploying Microsoft Sentinel as a cloud-native SIEM
   and SOAR platform for centralized security operations. It details configuring data
@@ -316,8 +315,4 @@ AUTOMATION:
   False Positive Rate: 12%
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

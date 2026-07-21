@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Extract and defend system prompts plus embedded secrets and routing logic.
 domain: cybersecurity
@@ -212,8 +211,4 @@ Exposed?         Item                              Impact
 - [ ] Remediations applied (secrets externalized, authz server-side, output guardrail added).
 - [ ] Re-test confirms zero successful prompt-leak after remediation.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

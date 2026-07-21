@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze volatile memory dumps using Volatility 3 to extract running processes,
   network connections, loaded modules, and evidence of malicious activity.
@@ -302,8 +301,4 @@ Memory Forensics Analysis:
   Extracted Artifacts:   15 files dumped to /analysis/extracted/
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

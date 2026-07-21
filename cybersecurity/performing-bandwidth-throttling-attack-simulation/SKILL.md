@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Simulates bandwidth throttling and network degradation attacks using
   tc, iperf3, and Scapy in authorized environments to test quality-of-service controls,
@@ -335,8 +334,4 @@ iperf3 -c 10.10.20.10 -t 10 -f m -p 5201
 3. Set monitoring threshold at 80% bandwidth utilization for early warning
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

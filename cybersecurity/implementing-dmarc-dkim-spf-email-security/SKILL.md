@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: SPF, DKIM, and DMARC form the three pillars of email authentication.
   Together they prevent domain spoofing, validate message integrity, and define policies
@@ -132,8 +131,4 @@ Use the `scripts/process.py` to parse DMARC aggregate XML reports and identify a
 - DMARC record properly formatted and reporting enabled
 - Test emails pass all three checks in recipient's Authentication-Results header
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

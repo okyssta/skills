@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Stand up a Sliver C2 server and listeners, generate cross-platform implants
   and beacons, and run post-exploitation, pivoting, and BOF/.NET tooling via the armory
@@ -307,8 +306,4 @@ sliver > implants rm IMPLANT_NAME
 - [ ] A SOCKS proxy or port-forward is established for pivoting
 - [ ] Implants killed, listeners stopped, and artifacts removed at cleanup
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy Llama Guard, NeMo Guardrails, and LLM Guard input/output scanners
   as runtime defenses.
@@ -286,8 +285,4 @@ python scripts/agent.py llamaguard --model meta-llama/Llama-Guard-3-8B --input p
 - [ ] The validation script reports block rate and false-positive rate against the labeled corpus.
 - [ ] Guardrail decisions (verdict, category, score) are logged for audit and tuning.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

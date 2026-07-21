@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy FIDO2/WebAuthn passwordless authentication using security keys
   and platform authenticators. Covers WebAuthn API integration, FIDO2 server configuration,
@@ -72,8 +71,4 @@ Deploy FIDO2/WebAuthn passwordless authentication using security keys and platfo
 - [ ] Documentation and runbooks complete
 - [ ] Compliance evidence generated
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

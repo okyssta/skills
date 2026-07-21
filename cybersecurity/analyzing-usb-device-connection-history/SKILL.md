@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Investigate USB device connection history from Windows registry, event
   logs, and setupapi logs to track removable media usage and potential data exfiltration.
@@ -370,8 +369,4 @@ USB Device History Analysis:
   Timeline: /cases/case-2024-001/analysis/usb_timeline.csv
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

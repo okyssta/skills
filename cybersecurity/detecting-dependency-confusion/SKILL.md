@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and prevent public-over-private name resolution in npm, PyPI,
   and Maven.
@@ -226,8 +225,4 @@ python scripts/agent.py --path . --ecosystem npm \
 - [ ] CI job enforces the check on every push/PR.
 - [ ] Findings documented with owner and remediation status.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

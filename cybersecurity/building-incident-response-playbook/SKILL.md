@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Designs and documents structured incident response playbooks that define
   step-by-step procedures for specific incident types aligned with NIST SP 800-61r3
@@ -270,8 +269,4 @@ Target MTTC: 1 hour
 Target MTTR: 4 hours
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

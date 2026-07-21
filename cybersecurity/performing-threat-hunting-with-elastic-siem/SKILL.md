@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs proactive threat hunting in Elastic Security SIEM using KQL/EQL
   queries, detection rules, and Timeline investigation to identify threats that evade
@@ -280,8 +279,4 @@ Actions Taken:
 Verdict:      HYPOTHESIS CONFIRMED — 3 true positive findings escalated to IR
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

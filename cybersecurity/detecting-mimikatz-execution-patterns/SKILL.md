@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect Mimikatz execution through command-line patterns, LSASS access
   signatures, binary indicators, and in-memory detection of known modules.
@@ -98,8 +97,4 @@ Confidence: [High/Medium/Low]
 Recommended Action: [Containment, investigation, monitoring]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

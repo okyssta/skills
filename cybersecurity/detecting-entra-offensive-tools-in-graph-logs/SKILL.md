@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Hunt AADGraphActivityLogs and MicrosoftGraphActivityLogs in Microsoft
   Sentinel/Log Analytics for fingerprints of offensive Entra ID tools such as ROADtools,
@@ -197,8 +196,4 @@ Promote the highest-fidelity queries (Steps 2-4) to scheduled analytics rules. S
 - [ ] Best queries promoted to scheduled analytics rules with T1078.004 mapping and entity mappings
 - [ ] Known-good service principals/IPs excluded via watchlist to control false positives
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

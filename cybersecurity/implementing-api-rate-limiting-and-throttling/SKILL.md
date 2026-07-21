@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements API rate limiting and throttling controls using token bucket,
   sliding window, and fixed window algorithms to protect against brute force attacks,
@@ -485,8 +484,4 @@ class DistributedRateLimiter:
 - Response overhead: < 2ms added latency per request for rate limit check
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

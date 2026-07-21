@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploy and configure Tofino industrial firewalls from Belden/Hirschmann
   to protect SCADA systems and PLCs using deep packet inspection for OT protocols
@@ -358,8 +357,4 @@ MONITORING:
   DPI Violations (24h): [count]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Reverse engineers iOS applications using Frida dynamic instrumentation
   to understand internal logic, extract encryption keys, bypass security controls,
@@ -260,8 +259,4 @@ if (ObjC.available) {
 - **Stripped binaries**: Release builds strip debug symbols. Combine frida-trace with class-dump output for effective analysis.
 - **Anti-Frida measures**: Sophisticated apps check for Frida artifacts (frida-server process, Frida agent strings in memory, injected libraries in dyld). Use stealthy Frida builds or Frida Gadget injection.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

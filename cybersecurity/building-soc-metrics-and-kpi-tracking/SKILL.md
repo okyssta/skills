@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Builds SOC performance metrics and KPI tracking dashboards measuring
   Mean Time to Detect (MTTD), Mean Time to Respond (MTTR), alert quality ratios, analyst
@@ -306,8 +305,4 @@ AREAS FOR IMPROVEMENT:
   [3] 4 critical vulnerability scan tickets overdue on SLA
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

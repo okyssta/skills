@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploys deception technology including honeypots, honeytokens, and decoy
   systems to detect attackers who have bypassed perimeter defenses, providing high-fidelity
@@ -306,8 +305,4 @@ Automated Response:
   [PENDING] Tier 2 investigation — determine if workstation compromised or insider threat
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

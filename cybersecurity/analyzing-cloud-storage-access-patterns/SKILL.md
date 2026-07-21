@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect abnormal access patterns in AWS S3, GCS, and Azure Blob Storage
   by analyzing CloudTrail Data Events, GCS audit logs, and Azure Storage Analytics.
@@ -73,8 +72,4 @@ python scripts/agent.py --bucket my-sensitive-data --hours-back 24 --output s3_a
  "sourceIPAddress": "203.0.113.50", "userIdentity": {"arn": "arn:aws:iam::123456789012:user/analyst"}}
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

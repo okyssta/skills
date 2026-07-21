@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Red team engagement planning is the foundational phase that defines scope,
   objectives, rules of engagement (ROE), threat model selection, and operational timelines
@@ -158,8 +157,4 @@ Map organizational threats using MITRE ATT&CK Navigator to select relevant adver
 - performing-assumed-breach-red-team-exercise
 - building-red-team-infrastructure-with-redirectors
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

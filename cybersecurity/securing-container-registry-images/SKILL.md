@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Securing container registry images by implementing vulnerability scanning
   with Trivy and Grype, enforcing image signing with Cosign and Sigstore, configuring
@@ -310,8 +309,4 @@ REGISTRY CONFIGURATION:
   Image signing enforced:    8 / 24 repositories
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

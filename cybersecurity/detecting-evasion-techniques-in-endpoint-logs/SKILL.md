@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects defense evasion techniques used by adversaries in endpoint logs
   including log tampering, timestomping, process injection, and security tool disabling.
@@ -264,8 +263,4 @@ index=sysmon host=*
 - **Ignoring parent process context**: A suspicious command line from cmd.exe is concerning only if the parent of cmd.exe is unusual (e.g., Excel spawning cmd.exe).
 - **Not correlating across event types**: Single events are often benign. Combine multiple weak signals (process creation + network connection + file creation) for high-confidence detections.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

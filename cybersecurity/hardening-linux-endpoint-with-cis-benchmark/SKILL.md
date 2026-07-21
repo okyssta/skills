@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Hardens Linux endpoints using CIS Benchmark recommendations for Ubuntu,
   RHEL, and CentOS to reduce attack surface, enforce security baselines, and meet
@@ -239,8 +238,4 @@ oscap xccdf eval \
 - **Not testing firewall rules**: Enabling UFW without allowing SSH first will disconnect remote sessions permanently.
 - **Kernel parameter changes without testing**: Some sysctl settings can break application networking. Test in staging first.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

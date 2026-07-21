@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Collect, parse, and correlate system, application, and security logs
   to reconstruct events and establish timelines during forensic investigations.
@@ -326,8 +325,4 @@ Log Analysis Summary:
   Report: /cases/case-2024-001/analysis/log_analysis_report.txt
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

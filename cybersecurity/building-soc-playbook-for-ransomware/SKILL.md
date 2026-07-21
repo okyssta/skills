@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Builds a structured SOC incident response playbook for ransomware attacks
   covering detection, containment, eradication, and recovery phases with specific
@@ -282,8 +281,4 @@ Data Loss:      4 hours of file modifications (backup RPO)
 Exfiltration:   No evidence of data exfiltration confirmed
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

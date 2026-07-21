@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform forensic acquisition and analysis of cloud storage services including
   Google Drive, OneDrive, Dropbox, and Box by collecting both API-based remote data
@@ -352,8 +351,4 @@ Acquisition Summary:
   Completion Time:      2024-01-19 08:18:47 UTC
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

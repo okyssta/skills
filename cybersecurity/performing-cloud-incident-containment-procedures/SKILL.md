@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Execute cloud-native incident containment across AWS, Azure, and GCP
   by isolating compromised resources, revoking credentials, preserving forensic evidence,
@@ -305,8 +304,4 @@ gcloud compute instances delete-access-config compromised-instance \
 - [Wiz: Cloud Incident Response Checklist](https://www.wiz.io/academy/incident-response-checklist)
 - [Microsoft Cloud Security Benchmark - IR](https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

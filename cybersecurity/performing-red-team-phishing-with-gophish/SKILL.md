@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Automate GoPhish phishing simulation campaigns using the Python gophish
   library. Creates email templates with tracking pixels, configures SMTP sending profiles,
@@ -75,8 +74,4 @@ campaign = Campaign(name="Q1 Test", groups=[Group(name="Sales Team")],
 api.campaigns.post(campaign)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

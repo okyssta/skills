@@ -191,7 +191,3 @@ From debugging session (2025-10-03):
 - All fixes integrated successfully
 - Zero conflicts between agent changes
 
----
-
-*Adapted for Hermes Agent from the Superpowers methodology ([obra/superpowers](https://github.com/obra/superpowers)). Original concepts modified for the Hermes subagent/delegate_task workflow.*
-

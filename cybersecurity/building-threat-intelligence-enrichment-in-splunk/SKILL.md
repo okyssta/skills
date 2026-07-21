@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build automated threat intelligence enrichment pipelines in Splunk Enterprise
   Security using lookup tables, modular inputs, and the Threat Intelligence Framework.
@@ -313,8 +312,4 @@ index=firewall sourcetype=pan:traffic action=allowed
 - [Integrated Intelligence Enrichment - Splunk Blog](https://www.splunk.com/en_us/blog/security/integrated-intelligence-enrichment-with-threat-intelligence-management.html)
 - [Cisco Talos Threat Intelligence in Splunk](https://www.splunk.com/en_us/blog/security/cisco-talos-threat-intelligence-splunk-security.html)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

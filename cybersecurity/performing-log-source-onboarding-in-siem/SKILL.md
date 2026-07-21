@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform structured log source onboarding into SIEM platforms by configuring
   collectors, parsers, normalization, and validation for complete security visibility.
@@ -297,8 +296,4 @@ search = index=new_source sourcetype=new_sourcetype action=failure \
 - [SIEM Logging Best Practices - Coralogix](https://coralogix.com/guides/siem/siem-logging/)
 - [Huntress - SIEM Implementation Guide](https://www.huntress.com/siem-guide/siem-implementation-guide)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

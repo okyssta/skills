@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Detects and prevents code injection attacks targeting serverless functions
   (AWS Lambda, Azure Functions, Google Cloud Functions) through event source poisoning,
@@ -506,8 +505,4 @@ Deploy runtime protection controls to prevent injection at execution time:
 - Config rule: Lambda execution roles must not have wildcard resource permissions
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

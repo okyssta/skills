@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics,
   techniques, and procedures (TTPs) based on real-world observations. This skill covers
@@ -284,8 +283,4 @@ for gname, techs in group_techniques.items():
 - [ATT&CK STIX Data](https://github.com/mitre/cti)
 - [ATT&CK Groups](https://attack.mitre.org/groups/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detect anomalies in DNP3 (Distributed Network Protocol 3) communications
   used in SCADA systems by monitoring for unauthorized control commands, firmware
@@ -363,8 +362,4 @@ RECOMMENDATIONS:
   3. Enable DNP3 DPI on industrial firewall
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Execute web cache deception attacks by exploiting path normalization
   discrepancies between CDN caching layers and origin servers to cache and retrieve
@@ -225,8 +224,4 @@ curl -s "http://target.com/account/profile/x.css" | grep -i "email\|name\|token\
 - Enable consistent path normalization between CDN and origin
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

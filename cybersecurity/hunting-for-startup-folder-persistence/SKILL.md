@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect T1547.001 startup folder persistence by monitoring Windows startup
   directories for suspicious file creation, analyzing autoruns entries, and using
@@ -65,8 +64,4 @@ Attackers use Windows startup folders for persistence (MITRE ATT&CK T1547.001 â€
 - JSON report listing all startup folder contents with risk scores, file metadata, and suspicious indicators
 - Real-time monitoring alerts for new file creation in startup directories
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

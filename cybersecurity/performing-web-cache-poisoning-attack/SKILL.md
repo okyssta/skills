@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Exploiting web cache mechanisms to serve malicious content to other users
   by poisoning cached responses through unkeyed headers and parameters during authorized
@@ -327,8 +326,4 @@ Multiple applications are behind the same CDN. Manipulating the Host header caus
 5. Implement cache key normalization to prevent key manipulation
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

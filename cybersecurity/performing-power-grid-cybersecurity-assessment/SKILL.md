@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers conducting cybersecurity assessments of electric power
   grid infrastructure including generation facilities, transmission substations, distribution
@@ -316,8 +315,4 @@ NERC CIP COMPLIANCE:
   CIP-007: [Status]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: STIX (Structured Threat Information eXpression) and TAXII (Trusted Automated
   eXchange of Intelligence Information) are OASIS open standards for representing
@@ -317,8 +316,4 @@ def push_to_taxii(server_url, collection_id, stix_bundle, user, password):
 - [MITRE ATT&CK TAXII Server](https://cti-taxii.mitre.org/taxii2/)
 - [Medallion TAXII Server](https://github.com/oasis-open/cti-taxii-server)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

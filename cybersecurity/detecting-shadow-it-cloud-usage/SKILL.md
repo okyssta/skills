@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect unauthorized SaaS and cloud service usage (shadow IT) by analyzing
   proxy logs, DNS query logs, and netflow data using Python pandas for traffic pattern
@@ -65,8 +64,4 @@ Shadow IT refers to unauthorized SaaS applications and cloud services used witho
 - JSON report listing discovered cloud services with traffic volumes, user counts, risk scores, and approval status
 - Top unauthorized services ranked by data exfiltration risk
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

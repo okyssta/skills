@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Configures Microsoft Defender for Endpoint (MDE) advanced protection
   settings including attack surface reduction rules, controlled folder access, network
@@ -293,8 +292,4 @@ Dashboard monitoring:
 - **Running Defender alongside third-party AV**: Defender enters passive mode when third-party AV is present. Ensure you are using the intended AV solution and configure Defender appropriately (EDR-only mode if keeping third-party AV).
 - **Forgetting cloud connectivity requirements**: Cloud-delivered protection and BAFS require endpoints to reach Microsoft cloud services. Verify proxy/firewall rules allow Defender cloud traffic.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

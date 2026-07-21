@@ -218,7 +218,3 @@ Verify. Question. Then implement.
 
 No performative agreement. Technical rigor always.
 
----
-
-*Adapted for Hermes Agent from the Superpowers methodology ([obra/superpowers](https://github.com/obra/superpowers)). Original concepts modified for the Hermes subagent/delegate_task workflow.*
-

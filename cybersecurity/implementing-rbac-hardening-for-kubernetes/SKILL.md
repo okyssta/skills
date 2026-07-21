@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Harden Kubernetes Role-Based Access Control by implementing least-privilege
   policies, auditing role bindings, eliminating cluster-admin sprawl, and integrating
@@ -267,8 +266,4 @@ kubectl access-matrix --sa payments:payment-processor
 - [Kubernetes Security Hardening Guide 2025](https://sealos.io/blog/a-practical-guide-to-kubernetes-security-hardening-your-cluster-in-2025/)
 - [OWASP Kubernetes Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

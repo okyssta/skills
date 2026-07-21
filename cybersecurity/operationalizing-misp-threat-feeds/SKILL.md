@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Run MISP, curate feeds, and auto-generate detections for Wazuh, Sigma,
   and Suricata.
@@ -222,8 +221,4 @@ python scripts/agent.py --url https://localhost --key YOUR_AUTH_KEY \
 - [ ] Generated detections confirmed to load (and fire on a test IOC).
 - [ ] Pipeline scheduled and logging successfully.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

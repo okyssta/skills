@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Identify poisoned training data and backdoored models across the ML pipeline.
 domain: cybersecurity
@@ -216,8 +215,4 @@ Remove flagged samples (intersection of Cleanlab + ART signals is highest-confid
 - [ ] Findings mapped to MITRE ATLAS AML.T0020 / AML.T0018 and OWASP LLM04:2025
 - [ ] Report delivered with remediation (provenance, signed weights, pipeline scanning)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

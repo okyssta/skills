@@ -1,5 +1,4 @@
 ---
-author: team-cybersecurity
 category: cybersecurity
 description: 'Automates the enrichment of raw indicators of compromise with multi-source
   threat intelligence context using SOAR platforms, Python pipelines, or TIP playbooks
@@ -219,8 +218,4 @@ Track pipeline performance weekly:
 - **Ignoring API failures silently**: Failed enrichment calls should be logged and trigger fallback logic, not silently produce empty results that appear as clean IOCs.
 - **Automating blocks on enrichment score alone**: Composite scores contain false positives; require human confirmation for blocking decisions against shared infrastructure.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

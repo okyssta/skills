@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Enumerate Entra ID with ROADrecon and acquire and exchange tokens with
   roadtx.
@@ -204,8 +203,4 @@ roadtx describe < .roadtools_auth | jq .
 - [ ] Token claims inspected with `roadtx describe`.
 - [ ] Findings and access documented for the engagement report.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements comprehensive Google Workspace security hardening including
   admin console configuration, phishing-resistant MFA enforcement, DLP policies, email
@@ -489,8 +488,4 @@ External Group Members: DISABLED
 Shared Drive Creation:  ADMIN ONLY
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

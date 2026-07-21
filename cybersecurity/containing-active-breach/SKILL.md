@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Executes containment strategies to stop active adversary operations
   and prevent lateral movement during a confirmed security breach. Implements short-term
@@ -231,8 +230,4 @@ BUSINESS IMPACT
 - Estimated restoration: pending eradication completion
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

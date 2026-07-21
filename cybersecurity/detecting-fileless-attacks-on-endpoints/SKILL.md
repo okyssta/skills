@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects fileless malware and in-memory attacks that execute entirely
   in RAM without writing persistent files to disk, evading traditional antivirus.
@@ -183,8 +182,4 @@ index=sysmon EventCode=13
 - **AMSI bypass not detected**: Sophisticated attackers bypass AMSI before executing payloads. Detect AMSI bypass attempts as a high-priority alert.
 - **Not monitoring WMI events**: WMI persistence is a favored technique of APT groups. Sysmon events 19-21 must be enabled.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

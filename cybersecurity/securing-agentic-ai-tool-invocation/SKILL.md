@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Apply least-privilege tool allowlisting, identity binding, and human-in-the-loop
   controls for agent tool calls.
@@ -266,8 +265,4 @@ Every decision from steps 4-6 is logged with actor, tool, argument hash, and dec
 - [ ] SIEM alerting on deny/approval spikes configured
 - [ ] Controls mapped to MITRE ATLAS AML.T0053 and OWASP Agentic AI Top 10
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

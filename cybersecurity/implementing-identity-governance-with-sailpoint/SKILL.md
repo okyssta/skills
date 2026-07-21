@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy SailPoint IdentityNow or IdentityIQ for identity governance and
   administration. Covers identity lifecycle management, access request workflows,
@@ -72,8 +71,4 @@ Deploy SailPoint IdentityNow or IdentityIQ for identity governance and administr
 - [ ] Documentation and runbooks complete
 - [ ] Compliance evidence generated
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy AI and NLP-powered detection systems to identify business email
   compromise attacks by analyzing writing style, behavioral patterns, and contextual
@@ -103,8 +102,4 @@ AI-powered BEC detection uses machine learning, NLP, and behavioral analytics to
 - False positive rate below 0.05% after baseline training
 - Detection rate exceeds traditional rule-based filters by 25%+
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

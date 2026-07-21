@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Analyzes Windows Security, System, and Sysmon event logs in Splunk to
   detect authentication attacks, privilege escalation, persistence mechanisms, and
@@ -301,8 +300,4 @@ ATT&CK Mapping:
   T1059.001 — PowerShell (encoded execution)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detect malicious scheduled task creation and modification using Sysmon
   Event IDs 1 (Process Create for schtasks.exe), 11 (File Create for task XML), and
@@ -81,8 +80,4 @@ targeting remote systems.
   MITRE: T1053.005 - Scheduled Task/Job
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

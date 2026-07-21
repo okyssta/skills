@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy and monitor Canary Tokens via the Thinkst Canary API for deception-based
   breach detection using web bug tokens, DNS tokens, document tokens, and AWS key
@@ -65,8 +64,4 @@ Canary Tokens are lightweight tripwire mechanisms that alert when an attacker ac
 - JSON report listing all deployed Canary Tokens, trigger history, alert details, and coverage analysis
 - Deployment map showing token types across network segments
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

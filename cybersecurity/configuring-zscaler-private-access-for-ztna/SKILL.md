@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Configuring Zscaler Private Access (ZPA) to replace traditional VPN
   with zero trust network access by deploying App Connectors, defining application
@@ -317,8 +316,4 @@ VPN MIGRATION:
   VPN decommission date: 2026-03-15
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

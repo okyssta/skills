@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Simulates SSL stripping attacks using sslstrip, Bettercap, and mitmproxy
   in authorized environments to test HSTS enforcement, certificate validation, and
@@ -270,8 +269,4 @@ ping -c 1 192.168.1.1
 4. Implement certificate transparency monitoring for the domain
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

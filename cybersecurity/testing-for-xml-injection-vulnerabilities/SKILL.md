@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Test web applications for XML injection vulnerabilities including XXE,
   XPath injection, and XML entity attacks to identify data exposure and server-side
@@ -227,8 +226,4 @@ curl "http://target.com/search?query=' or substring(//user[1]/password,1,1)='a' 
 - Block outbound connections from XML processing services
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

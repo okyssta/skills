@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Identifies lateral movement techniques in enterprise networks by analyzing
   authentication logs, network flows, SMB traffic, and RDP sessions using Zeek, Velociraptor,
@@ -447,8 +446,4 @@ sudo iptables -I FORWARD -s 10.10.5.23 -j DROP
 3. 30-minute gap between first lateral movement and alert
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

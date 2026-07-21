@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect container escape attempts in real-time using Falco runtime security
   rules that monitor syscalls, file access, and privilege escalation.
@@ -336,8 +335,4 @@ kubectl logs -n falco -l app.kubernetes.io/name=falco --tail=50 | grep -i escape
 7. **Tune false positives** by adding exception lists for known good processes
 8. **Monitor Falco health** with Prometheus metrics endpoint
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

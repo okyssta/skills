@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detect cyber attacks targeting OT historian servers (OSIsoft PI, Ignition,
   Wonderware) that sit at the IT/OT boundary and serve as pivot points for lateral
@@ -295,8 +294,4 @@ LATERAL MOVEMENT INDICATORS:
   Anomalous Authentication: [found/not found]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

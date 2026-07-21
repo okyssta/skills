@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detecting compromised cloud credentials across AWS, Azure, and GCP by
   analyzing anomalous API activity, impossible travel patterns, unauthorized resource
@@ -346,8 +345,4 @@ CONTAINMENT ACTIONS TAKEN:
   MFA re-enrolled:                4
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

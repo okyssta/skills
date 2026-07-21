@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers implementing a structured patch management program
   for OT/ICS environments where traditional IT patching approaches can cause process
@@ -352,8 +351,4 @@ COMPLIANCE:
   Deferred with compensating controls: [N]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

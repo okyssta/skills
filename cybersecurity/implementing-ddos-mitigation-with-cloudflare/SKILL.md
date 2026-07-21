@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure Cloudflare DDoS protection with managed rulesets, rate limiting,
   WAF rules, Bot Management, and origin protection to mitigate volumetric, protocol,
@@ -452,8 +451,4 @@ curl -X POST "https://api.cloudflare.com/client/v4/accounts/$ACCOUNT_ID/alerting
 - [Cloudflare Rate Limiting](https://developers.cloudflare.com/waf/rate-limiting-rules/)
 - [Cloudflare IP Ranges](https://www.cloudflare.com/ips/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

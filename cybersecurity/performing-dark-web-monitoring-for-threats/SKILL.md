@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Dark web monitoring involves systematically scanning Tor hidden services,
   underground forums, paste sites, and dark web marketplaces to identify threats targeting
@@ -271,8 +270,4 @@ def generate_dark_web_report(findings, organization):
 - [Intel 471](https://intel471.com/)
 - [Flare Systems](https://flare.io/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

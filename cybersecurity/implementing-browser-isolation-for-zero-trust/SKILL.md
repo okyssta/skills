@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Deploys remote browser isolation (RBI) as a core component of a Zero
   Trust architecture. Implements isolation policies with URL categorization and risk-based
@@ -391,8 +390,4 @@ print(f"DLP violations blocked: {report['dlp_violations_blocked']}")
 print(f"Zero-day attacks prevented: {report['zero_day_blocked']}")
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

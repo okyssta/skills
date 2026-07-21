@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Automates Indicator of Compromise (IOC) enrichment by orchestrating
   lookups across VirusTotal, AbuseIPDB, Shodan, MISP, and other intelligence sources
@@ -434,8 +433,4 @@ IP: 45.33.32[.]156
   Action:       No action required (known scanner)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

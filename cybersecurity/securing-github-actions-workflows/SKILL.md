@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers hardening GitHub Actions workflows against supply
   chain attacks, credential theft, and privilege escalation. It addresses pinning
@@ -263,8 +262,4 @@ SECRETS:
 SCORE: 6/10 (Remediate 5 HIGH findings)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs runtime dynamic analysis of Android applications using Frida,
   Objection, and Android Debug Bridge to observe application behavior during execution,
@@ -254,8 +253,4 @@ memory search "api_key" --string
 - **Obfuscated class names**: When ProGuard/R8 is applied, class and method names are shortened (e.g., `a.b.c.d()`). Use `android hooking search classes` to discover actual runtime names.
 - **Multi-DEX apps**: Large apps split across multiple DEX files may not have all classes loaded at startup. Hook class loaders or use `Java.enumerateLoadedClasses()` after app is fully initialized.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build network traffic baselines from NetFlow/IPFIX data using Python
   pandas for statistical analysis, z-score anomaly detection, and hourly/daily traffic
@@ -63,8 +62,4 @@ Network traffic baselining establishes normal communication patterns by analyzin
 
 JSON report containing traffic baselines (hourly/daily profiles), per-host statistics, detected anomalies with z-scores, and top talker rankings with deviation indicators.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

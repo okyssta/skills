@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Monitor Certificate Transparency logs using crt.sh and Certstream to
   detect phishing domains, lookalike certificates, and unauthorized certificate issuance
@@ -342,8 +341,4 @@ generate_ct_report(suspicious, alerts if 'alerts' in dir() else [], "mycompany.c
 - [SSLMate Cert Spotter](https://sslmate.com/certspotter/)
 - [CyberSierra: CT Logs as Early Warning System](https://cybersierra.co/blog/ssl-certificate-transparency-logs/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

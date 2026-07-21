@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Securing AWS Lambda execution roles by implementing least-privilege
   IAM policies, applying permission boundaries, restricting resource-based policies,
@@ -379,8 +378,4 @@ POLICY VALIDATION RESULTS:
   Policies with suggestions:        12
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

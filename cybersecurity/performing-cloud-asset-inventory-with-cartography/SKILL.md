@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform comprehensive cloud asset inventory and relationship mapping
   using Cartography to build a Neo4j security graph of infrastructure assets, IAM
@@ -255,8 +254,4 @@ volumes:
 - CNCF Sandbox Project
 - Neo4j Cypher Query Language Reference
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

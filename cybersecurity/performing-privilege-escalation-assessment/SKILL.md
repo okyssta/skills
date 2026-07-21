@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs privilege escalation assessments on compromised Linux and Windows
   systems to identify paths from low-privilege access to root or SYSTEM-level control.
@@ -214,8 +213,4 @@ read access to 75,000 customer records including names, emails, and addresses.
 4. Implement sudo logging with auditd for all privileged command execution
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

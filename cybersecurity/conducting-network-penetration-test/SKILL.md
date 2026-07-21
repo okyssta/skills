@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Conducts comprehensive network penetration tests against authorized
   target environments by performing host discovery, port scanning, service enumeration,
@@ -208,8 +207,4 @@ ultimately accessing the customer database containing 50,000+ records.
 4. Implement network segmentation between web servers and database tier
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

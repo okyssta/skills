@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Design and implement network segmentation using firewall security zones,
   VLANs, ACLs, and microsegmentation policies to restrict lateral movement and enforce
@@ -347,8 +346,4 @@ if __name__ == "__main__":
 - [PCI DSS v4.0 - Network Segmentation](https://www.pcisecuritystandards.org/)
 - [Faddom Network Segmentation Best Practices 2025](https://faddom.com/10-network-segmentation-best-practices-to-know-in-2025/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

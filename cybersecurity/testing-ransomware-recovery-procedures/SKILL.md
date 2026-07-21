@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Test and validate ransomware recovery procedures including backup restore
   operations, RTO/RPO target verification, recovery sequencing, and clean restore
@@ -181,8 +180,4 @@ Recovery Test Report:
 - Veeam RTO/RPO Best Practices: https://www.veeam.com/blog/recovery-time-recovery-point-objectives.html
 - NIST CSF 2.0 RC.RP (Recovery Planning)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

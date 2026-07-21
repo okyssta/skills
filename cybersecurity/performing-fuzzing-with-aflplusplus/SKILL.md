@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Perform coverage-guided fuzzing of compiled binaries using AFL++ (American
   Fuzzy Lop Plus Plus) to discover memory corruption, crashes, and security vulnerabilities.
@@ -81,8 +80,4 @@ and persistent mode for high-throughput fuzzing.
   exec speed: 2145/sec
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

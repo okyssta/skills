@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Systematically hunt for adversary persistence mechanisms across Windows
   endpoints including registry, services, startup folders, and WMI subscriptions.
@@ -110,8 +109,4 @@ Risk Level: [Critical/High/Medium/Low]
 Verdict: [Malicious/Suspicious/Benign]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

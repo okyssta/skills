@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement Zero Trust Network Access using Zscaler Private Access (ZPA)
   to replace traditional VPN with identity-based, context-aware access to private
@@ -179,8 +178,4 @@ ZPA supports clientless browser-based access for web applications, enabling ZTNA
 - Zscaler Private Access Architecture Guide
 - CSA Software-Defined Perimeter and Zero Trust Specification v2.0
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

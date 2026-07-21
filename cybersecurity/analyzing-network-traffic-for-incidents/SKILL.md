@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Analyzes network traffic captures and flow data to identify adversary
   activity during security incidents, including command-and-control communications,
@@ -268,8 +267,4 @@ PCAP File:        INC-2025-1547_capture.pcap (SHA-256: ...)
 Zeek Logs:        /logs/zeek/2025-11-15/ (conn.log, ssl.log, dns.log)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect DCSync attacks by analyzing Windows Event ID 4662 for unauthorized
   DS-Replication-Get-Changes requests from non-domain-controller accounts.
@@ -93,8 +92,4 @@ Risk Level: [Critical/High/Medium/Low]
 Recommended Action: [Disable account, reset krbtgt, investigate]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

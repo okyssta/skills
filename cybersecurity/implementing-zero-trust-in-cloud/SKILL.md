@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill guides organizations through implementing zero trust architecture
   in cloud environments following NIST SP 800-207 and Google BeyondCorp principles.
@@ -325,8 +324,4 @@ RECOMMENDATIONS:
   4. [MEDIUM] Deploy service mesh for east-west mTLS encryption
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

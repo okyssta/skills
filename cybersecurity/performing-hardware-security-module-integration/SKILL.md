@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Integrate Hardware Security Modules (HSMs) using PKCS#11 interface for
   cryptographic key management, signing operations, and secure key storage with python-pkcs11,
@@ -66,8 +65,4 @@ Hardware Security Modules (HSMs) provide tamper-resistant cryptographic key stor
 - JSON report listing HSM slots, tokens, stored keys, supported mechanisms, and compliance status
 - Signing test results with key metadata and algorithm details
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

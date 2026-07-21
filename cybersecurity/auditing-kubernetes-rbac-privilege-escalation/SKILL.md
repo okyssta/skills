@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Find over-permissive RBAC roles and service-account token abuse paths
   in Kubernetes using kubectl auth can-i, rbac-police, kubectl-who-can, and rakkess
@@ -264,8 +263,4 @@ Remediation: replace wildcards with explicit verbs/resources; remove `escalate`/
 - [ ] Findings report with least-privilege remediation produced
 - [ ] All testing stayed within authorized scope
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

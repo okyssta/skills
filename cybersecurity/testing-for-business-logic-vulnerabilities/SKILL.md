@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Identifying flaws in application business logic that allow price manipulation,
   workflow bypass, and privilege escalation beyond what technical vulnerability scanners
@@ -361,8 +360,4 @@ The password reset flow generates a one-time token but does not invalidate it af
 5. Rate-limit and log coupon applications, referral submissions, and transfers
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Captures WPA/WPA2 handshakes and performs offline password cracking
   using aircrack-ng, hashcat, and dictionary attacks during authorized wireless security
@@ -284,8 +283,4 @@ sha256sum handshake_capture-01.cap > evidence_hashes.txt
 5. Enable 802.11w Protected Management Frames to prevent deauth attacks
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

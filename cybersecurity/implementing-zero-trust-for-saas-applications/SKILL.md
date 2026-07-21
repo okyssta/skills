@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing zero trust access controls for SaaS applications using
   CASB, SSPM, conditional access policies, OAuth app governance, and session controls
@@ -327,8 +326,4 @@ SSPM FINDINGS:
   Remediated this month: 18
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

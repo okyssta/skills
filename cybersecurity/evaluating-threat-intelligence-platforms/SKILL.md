@@ -1,5 +1,4 @@
 ---
-author: team-cybersecurity
 category: cybersecurity
 description: 'Evaluates and selects Threat Intelligence Platform (TIP) products based
   on organizational requirements including feed integration capability, STIX/TAXII
@@ -170,8 +169,4 @@ Plan 90-day implementation:
 - **Ignoring data migration costs**: Moving historical intelligence from one TIP to another is costly and often impractical for legacy systems.
 - **Not testing SIEM integration in PoC**: TIP value depends heavily on downstream integration quality; always test SIEM/SOAR connectivity during evaluation.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

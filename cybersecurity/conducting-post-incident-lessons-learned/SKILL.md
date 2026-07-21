@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Facilitate structured post-incident reviews to identify root causes,
   document what worked and failed, and produce actionable recommendations to improve
@@ -191,8 +190,4 @@ tags:
 - Updated IR playbooks and detection rules
 - Executive summary for leadership
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

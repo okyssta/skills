@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and respond to Adversary-in-the-Middle (AiTM) phishing attacks
   that use reverse proxy kits like EvilProxy, Evilginx, and Tycoon 2FA to bypass MFA
@@ -129,8 +128,4 @@ Adversary-in-the-Middle (AiTM) phishing attacks use reverse-proxy infrastructure
 - Web proxy blocks connections to known PhaaS infrastructure
 - Post-compromise rules detect inbox rule creation after suspicious auth
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

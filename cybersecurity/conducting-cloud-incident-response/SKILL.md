@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Responds to security incidents in cloud environments (AWS, Azure, GCP)
   by performing identity-based containment, cloud-native log analysis, resource isolation,
@@ -295,8 +294,4 @@ POST-INCIDENT HARDENING
 4. GuardDuty auto-remediation Lambda configured
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

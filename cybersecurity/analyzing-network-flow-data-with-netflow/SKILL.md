@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Parse NetFlow v9 and IPFIX records to detect volumetric anomalies, port
   scanning, data exfiltration, and C2 beaconing patterns. Uses the Python netflow
@@ -71,8 +70,4 @@ for flow in data.flows:
     print(flow.IPV4_SRC_ADDR, flow.IPV4_DST_ADDR, flow.IN_BYTES)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

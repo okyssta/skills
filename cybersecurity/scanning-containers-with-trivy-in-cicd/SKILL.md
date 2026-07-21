@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers integrating Aqua Security''s Trivy scanner into CI/CD
   pipelines for comprehensive container image vulnerability detection. It addresses
@@ -330,8 +329,4 @@ MISCONFIGURATION:
 QUALITY GATE: FAILED (2 Critical, 5 High findings)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

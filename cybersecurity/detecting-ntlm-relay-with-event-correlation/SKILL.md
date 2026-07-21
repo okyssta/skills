@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Detect NTLM relay attacks through Windows Security Event correlation
   by analyzing Event 4624 LogonType 3 for IP-to-hostname mismatches, identifying Responder/LLMNR
@@ -757,8 +756,4 @@ Recommended Actions:
   - Long-term: [Migrate to Kerberos, enforce EPA, restrict NTLM via GPO]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

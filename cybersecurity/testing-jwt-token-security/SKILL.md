@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Assessing JSON Web Token implementations for cryptographic weaknesses,
   algorithm confusion attacks, and authorization bypass vulnerabilities during security
@@ -354,8 +353,4 @@ The `kid` header parameter is used in a SQL query to look up signing keys. Injec
 5. Use a minimum key length of 256 bits for HMAC secrets
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

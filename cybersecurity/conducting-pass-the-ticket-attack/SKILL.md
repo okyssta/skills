@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Pass-the-Ticket (PtT) is a lateral movement technique that uses stolen
   Kerberos tickets (TGT or TGS) to authenticate to services without knowing the user's
@@ -102,8 +101,4 @@ Pass-the-Ticket (PtT) is a lateral movement technique that uses stolen Kerberos 
 - [ ] Lateral movement demonstrated using stolen tickets
 - [ ] Evidence captured for reporting
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

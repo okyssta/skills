@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement HashiCorp Boundary for identity-aware zero trust infrastructure
   access management with dynamic credential brokering, session recording, and Vault
@@ -504,8 +503,4 @@ resource "boundary_host_set_plugin" "web_tier" {
 - [Boundary Terraform Provider](https://registry.terraform.io/providers/hashicorp/boundary/latest/docs)
 - [Zero Trust with Vault, Consul, and Boundary](https://www.hashicorp.com/en/resources/zero-trust-security-with-hashicorp-vault-consul-and-boundary)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

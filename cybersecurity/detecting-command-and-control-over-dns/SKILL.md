@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Detects command-and-control (C2) communications tunneled through DNS
   protocol including DNS tunneling tools (Iodine, dnscat2, dns2tcp, Cobalt Strike
@@ -1382,8 +1381,4 @@ RECOMMENDED ACTIONS
 [MEDIUM]   Deploy Suricata rules for dnscat2 and Cobalt Strike DNS signatures
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

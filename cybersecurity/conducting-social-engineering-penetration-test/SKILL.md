@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Design and execute a social engineering penetration test including phishing,
   vishing, smishing, and physical pretexting campaigns to measure human security resilience
@@ -335,8 +334,4 @@ Physical Assessment:
 - Verizon DBIR: https://www.verizon.com/business/resources/reports/dbir/
 - NIST SP 800-61: Computer Security Incident Handling Guide
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

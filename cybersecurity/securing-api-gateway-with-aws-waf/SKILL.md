@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Securing API Gateway endpoints with AWS WAF by configuring managed rule
   groups for OWASP Top 10 protection, creating custom rate limiting rules, implementing
@@ -457,8 +456,4 @@ WAF RULE HEALTH:
   False positive rate:    < 0.1%
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

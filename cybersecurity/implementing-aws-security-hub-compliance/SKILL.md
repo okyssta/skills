@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing AWS Security Hub to aggregate security findings across
   AWS accounts, enable compliance standards like CIS AWS Foundations and PCI DSS,
@@ -316,8 +315,4 @@ AUTO-REMEDIATION ACTIONS (Last 30 Days):
   Total auto-remediated findings:    25
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

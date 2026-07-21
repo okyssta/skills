@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploys canary tokens and honeytokens (fake AWS credentials, DNS canaries,
   document beacons, database records) that trigger alerts when accessed by attackers.
@@ -83,8 +82,4 @@ with open("/opt/backup/.aws/credentials", "w") as f:
     f.write(aws_creds)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

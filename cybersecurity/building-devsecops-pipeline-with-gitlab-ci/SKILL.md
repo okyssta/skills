@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Design and implement a comprehensive DevSecOps pipeline in GitLab CI/CD
   integrating SAST, DAST, container scanning, dependency scanning, and secret detection.
@@ -264,8 +263,4 @@ Every merge request displays a security scanning widget showing:
 - [GitLab Security Policies](https://docs.gitlab.com/ee/user/application_security/policies/)
 - [GitLab Vulnerability Management](https://docs.gitlab.com/ee/user/application_security/vulnerability_report/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

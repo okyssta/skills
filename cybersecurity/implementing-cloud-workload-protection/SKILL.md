@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements cloud workload protection using boto3 and google-cloud APIs
   for runtime security monitoring, process anomaly detection, and file integrity checking
@@ -84,8 +83,4 @@ ssm.send_command(
 )
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

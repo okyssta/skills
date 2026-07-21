@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Harbor is an open-source container registry that provides security features
   including vulnerability scanning (integrated Trivy), image signing (Notary/Cosign),
@@ -246,8 +245,4 @@ curl -k "https://harbor.example.com/api/v2.0/audit-logs?page=1&page_size=10" \
 - [Harbor Security Best Practices](https://goharbor.io/docs/2.10.0/administration/vulnerability-scanning/)
 - [Harbor GitHub Repository](https://github.com/goharbor/harbor)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

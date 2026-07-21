@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze Microsoft Outlook PST and OST files for email forensic evidence
   including message content, headers, attachments, deleted items, and metadata using
@@ -354,8 +353,4 @@ Summary:
   Report: /analysis/email_report/pst_forensic_report.json
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

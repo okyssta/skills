@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects anomalous authentication patterns using UEBA analytics, statistical
   baselines, and machine learning models to identify impossible travel, credential
@@ -724,8 +723,4 @@ Password Spray Campaign #1:
   Pattern:           2 attempts per user, 3-second interval
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

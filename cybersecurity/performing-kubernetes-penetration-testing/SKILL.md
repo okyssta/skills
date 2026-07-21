@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Kubernetes penetration testing systematically evaluates cluster security
   by simulating attacker techniques against the API server, kubelet, etcd, pods, RBAC,
@@ -282,8 +281,4 @@ kubectl delete pod test-netpol test-egress test-metadata
 - [MITRE ATT&CK Containers Matrix](https://attack.mitre.org/matrices/enterprise/containers/)
 - [Kubernetes Threat Matrix - Microsoft](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

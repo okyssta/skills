@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Hunt for malicious PowerShell activity by analyzing Script Block Logging
   (Event 4104), Module Logging (Event 4103), and process creation events. The analyst
@@ -82,8 +81,4 @@ and fileless attack techniques even when the attacker uses obfuscation layers.
 }
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

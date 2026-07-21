@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill guides practitioners through hardening AWS Identity and Access
   Management configurations to enforce least privilege access across cloud accounts.
@@ -322,8 +321,4 @@ SUMMARY:
   Compliance Score: 62% (CIS AWS Foundations Benchmark v3.0)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects early-stage ransomware indicators in network traffic before
   encryption begins, including initial access broker activity, command-and-control
@@ -305,8 +304,4 @@ Define triage procedures based on precursor confidence level:
 - [ ] Escalate to incident response team
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

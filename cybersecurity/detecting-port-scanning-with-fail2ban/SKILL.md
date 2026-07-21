@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Configures Fail2ban with custom filters and actions to detect port scanning
   activity, SSH brute force attempts, and network reconnaissance, automatically banning
@@ -378,8 +377,4 @@ sudo netfilter-persistent save
 | 203.0.113.100 | sshd | 6 | 05:12 | 21:33 |
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

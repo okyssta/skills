@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform security testing of SOAP web services by analyzing WSDL definitions
   and testing for XML injection, XXE, WS-Security bypass, and SOAPAction spoofing.
@@ -459,8 +458,4 @@ if __name__ == "__main__":
 - SoapUI Web Service Hacking: https://www.soapui.org/docs/soap-and-wsdl/tips-and-tricks/web-service-hacking/
 - PortSwigger XXE Tutorial: https://portswigger.net/web-security/xxe
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

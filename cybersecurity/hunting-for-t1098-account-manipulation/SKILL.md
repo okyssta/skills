@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Hunt for MITRE ATT&CK T1098 account manipulation including shadow admin
   creation, SID history injection, group membership changes, and credential modifications
@@ -68,8 +67,4 @@ Cross-reference account changes with authentication events to identify initial c
 
 JSON report with detected account manipulation events, privileged group changes, shadow admin indicators, and timeline correlation.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

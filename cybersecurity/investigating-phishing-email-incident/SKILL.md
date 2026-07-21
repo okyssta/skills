@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Investigates phishing email incidents from initial user report through
   header analysis, URL/attachment detonation, impacted user identification, and containment
@@ -304,8 +303,4 @@ Containment:
 Status:       RESOLVED — No evidence of lateral movement post-compromise
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

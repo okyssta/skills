@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect abuse of service accounts through anomalous interactive logons,
   privilege escalation, lateral movement, and unauthorized access patterns.
@@ -95,8 +94,4 @@ Confidence: [High/Medium/Low]
 Recommended Action: [Containment, investigation, monitoring]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

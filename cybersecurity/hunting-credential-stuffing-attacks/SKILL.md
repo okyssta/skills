@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects credential stuffing attacks by analyzing authentication logs
   for login velocity anomalies, ASN diversity, password spray patterns, and geographic
@@ -83,8 +82,4 @@ spray = df[df["status"] == "failed"].groupby(["source_ip", "password_hash"]).agg
 sprays = spray[spray["accounts"] > 10]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

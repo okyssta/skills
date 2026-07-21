@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure AIDE (Advanced Intrusion Detection Environment) for file integrity
   monitoring including baseline creation, scheduled integrity checks, change detection,
@@ -65,8 +64,4 @@ AIDE (Advanced Intrusion Detection Environment) is a host-based intrusion detect
 - JSON report of file changes (added/removed/changed) with severity
 - Cron job configuration for automated monitoring
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Conducts penetration testing of iOS and Android mobile applications
   following the OWASP Mobile Application Security Testing Guide (MASTG) to identify
@@ -219,8 +218,4 @@ and view financial data without biometric verification.
 4. Implement step-up authentication for high-risk operations (transfers > threshold)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

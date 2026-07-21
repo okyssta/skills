@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect malicious email forwarding rules created by adversaries to maintain
   persistent access to email communications for intelligence collection and BEC attacks.
@@ -97,8 +96,4 @@ Confidence: [High/Medium/Low]
 Recommended Action: [Containment, investigation, monitoring]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

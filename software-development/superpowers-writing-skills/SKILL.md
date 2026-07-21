@@ -24,7 +24,7 @@ You write test cases (pressure scenarios with subagents), watch them fail (basel
 
 **REQUIRED BACKGROUND:** You MUST understand superpowers:test-driven-development before using this skill. That skill defines the fundamental RED-GREEN-REFACTOR cycle. This skill adapts TDD to documentation.
 
-**Official guidance:** For Anthropic's official skill authoring best practices, see anthropic-best-practices.md. This document provides additional patterns and guidelines that complement the TDD-focused approach in this skill.
+**Official guidance:** For skill authoring best practices, see anthropic-best-practices.md (included for reference). This document provides additional patterns and guidelines that complement the TDD-focused approach in this skill.
 
 ## What is a Skill?
 
@@ -694,8 +694,4 @@ Same cycle: RED (baseline) → GREEN (write skill) → REFACTOR (close loopholes
 Same benefits: Better quality, fewer surprises, bulletproof results.
 
 If you follow TDD for code, follow it for skills. It's the same discipline applied to documentation.
-
----
-
-*Adapted for Hermes Agent from the Superpowers methodology ([obra/superpowers](https://github.com/obra/superpowers)). Original concepts modified for the Hermes subagent/delegate_task workflow.*
 

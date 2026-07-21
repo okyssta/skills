@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs comprehensive security assessments of IoT devices and their
   ecosystems by testing hardware interfaces, firmware, network communications, cloud
@@ -203,8 +202,4 @@ network entry point with root-level command execution capability.
 4. Deploy cameras on an isolated VLAN with no access to the corporate network
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

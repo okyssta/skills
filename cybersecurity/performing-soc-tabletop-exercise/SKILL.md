@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs tabletop exercises for SOC teams simulating security incidents
   through discussion-based scenarios to test incident response procedures, communication
@@ -409,8 +408,4 @@ ACTION ITEMS: 5 (Critical: 2, High: 2, Medium: 1)
 NEXT EXERCISE: TTX-2024-Q2 (June 2024) — Insider Threat Scenario
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

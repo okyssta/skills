@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy a Velociraptor server and agents and write VQL hunts across a
   fleet.
@@ -199,8 +198,4 @@ For unmanaged/air-gapped hosts, build a standalone collector from the GUI ("Serv
 - [ ] Custom VQL artifact authored and tested
 - [ ] Offline collector produced for unmanaged hosts where needed
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

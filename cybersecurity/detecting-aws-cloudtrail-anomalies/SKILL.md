@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect unusual API call patterns in AWS CloudTrail logs using boto3,
   statistical baselining, and behavioral analysis to identify credential compromise,
@@ -68,8 +67,4 @@ Produce a JSON report with anomaly scores, top suspicious users, and recommended
 
 JSON report with event statistics, baseline deviations, anomalous users/IPs, sensitive API calls, and error rate analysis.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

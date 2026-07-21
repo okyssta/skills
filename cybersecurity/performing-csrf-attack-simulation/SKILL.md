@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Testing web applications for Cross-Site Request Forgery vulnerabilities
   by crafting forged requests that exploit authenticated user sessions during authorized
@@ -365,8 +364,4 @@ A settings page changes state via GET request (`/settings?disable_2fa=true`). Si
 5. Use custom request headers (X-Requested-With) for AJAX endpoints
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

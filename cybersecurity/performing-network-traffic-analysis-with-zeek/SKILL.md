@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy Zeek network security monitor to capture, parse, and analyze network
   traffic metadata for threat detection, anomaly identification, and forensic investigation.
@@ -423,8 +422,4 @@ cat ssl.log | zeek-cut server_name not_valid_after | awk -F'\t' '$2 < systime()'
 - [CISA Zeek Resources](https://www.cisa.gov/resources-tools/services/kismet)
 - [Zeek GitHub Repository](https://github.com/zeek/zeek)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

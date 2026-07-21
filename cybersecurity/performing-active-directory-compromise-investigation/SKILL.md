@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Investigate Active Directory compromise by analyzing authentication logs,
   replication metadata, Group Policy changes, and Kerberos ticket anomalies to identify
@@ -204,8 +203,4 @@ Track modifications to these critical groups:
 - [Semperis: Top 10 Active Directory Risks](https://www.semperis.com/blog/10-ad-risks-caught-by-identity-forensics-and-incident-response/)
 - [Fidelis: Active Directory Compromise Response](https://fidelissecurity.com/threatgeek/active-directory-security/respond-after-an-active-directory-compromise/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

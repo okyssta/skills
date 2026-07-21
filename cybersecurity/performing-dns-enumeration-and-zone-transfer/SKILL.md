@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Enumerates DNS records, attempts zone transfers, brute-forces subdomains,
   and maps DNS infrastructure during authorized reconnaissance to identify attack
@@ -276,8 +275,4 @@ cat all_subdomains.txt | httpx -screenshot -o screenshots/
 5. **Weak SPF Record** (Low): SPF uses ~all (soft fail) instead of -all (hard fail)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

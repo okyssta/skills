@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing and auditing GCP VPC firewall rules to enforce network
   segmentation, restrict ingress and egress traffic, apply hierarchical firewall policies
@@ -319,8 +318,4 @@ REMEDIATION ACTIONS COMPLETED:
   Flow logs enabled: 6 subnets
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

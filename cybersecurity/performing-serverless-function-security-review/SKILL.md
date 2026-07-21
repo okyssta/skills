@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performing security reviews of serverless functions across AWS Lambda,
   Azure Functions, and GCP Cloud Functions to identify overly permissive execution
@@ -306,8 +305,4 @@ SUMMARY:
   Functions with wildcard permissions: 12 / 34
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

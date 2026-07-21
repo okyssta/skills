@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Tests API authentication mechanisms for weaknesses including broken
   token validation, missing authentication on endpoints, weak password policies, credential
@@ -457,8 +456,4 @@ and the 7-day expiration means stolen tokens remain valid for extended periods.
 5. Add `iss` and `aud` claims validation to prevent token misuse across services
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

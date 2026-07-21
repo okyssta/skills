@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Parse and analyze email headers to trace the origin of phishing emails,
   verify sender authenticity, and identify spoofing through SPF, DKIM, and DMARC validation.
@@ -329,8 +328,4 @@ Email Header Analysis Report:
   Risk Level: HIGH
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

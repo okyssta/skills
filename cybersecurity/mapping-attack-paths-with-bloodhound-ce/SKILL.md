@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Collect Active Directory data with SharpHound and Entra ID data with
   AzureHound, ingest into BloodHound Community Edition, and analyze on-prem, cloud,
@@ -231,8 +230,4 @@ Rank paths by hop count, stealth (avoid noisy edges like HasSession requiring ho
 - [ ] At least one custom Cypher query (including a hybrid query where applicable) executed
 - [ ] Paths prioritized by hops/stealth and documented with remediation
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

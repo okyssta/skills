@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect WMI-based lateral movement by analyzing Windows Event ID 4688
   process creation and Sysmon Event ID 1 for WmiPrvSE.exe child process patterns,
@@ -68,8 +67,4 @@ Parse WMI-Activity/Operational log for event consumer creation indicating persis
 
 JSON report with WMI-spawned processes, suspicious command lines, WMI event subscription alerts, and timeline of lateral movement activity.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

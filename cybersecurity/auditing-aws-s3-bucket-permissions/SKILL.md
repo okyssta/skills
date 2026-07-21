@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Systematically audit AWS S3 bucket permissions to identify publicly
   accessible buckets, overly permissive ACLs, misconfigured bucket policies, and missing
@@ -274,8 +273,4 @@ SUMMARY:
   Buckets with overly broad policies:   7 / 47
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Establish a structured operational process to triage, test, and deploy
   Microsoft Patch Tuesday security updates within risk-based remediation SLAs.
@@ -225,8 +224,4 @@ Post-Deployment Validation:
 - implementing-vulnerability-remediation-sla
 - implementing-patch-management-workflow
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

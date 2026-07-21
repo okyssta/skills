@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Parse registry, prefetch, shellbags, and MFT with EZ Tools and Timeline
   Explorer.
@@ -172,8 +171,4 @@ Build a working theory by correlating PECmd (execution time) with MFTECmd (file 
 - [ ] Output loaded and reviewed in Timeline Explorer
 - [ ] Cross-artifact correlation performed on UTC timestamps
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

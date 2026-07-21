@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure and deploy Palo Alto Networks next-generation firewalls with
   App-ID, User-ID, zone-based policies, SSL decryption, and threat prevention profiles
@@ -281,8 +280,4 @@ show system resources
 - [Palo Alto Firewall Best Practices Checklist](https://www.paloaltonetworks.com/cyberpedia/firewall-best-practices)
 - [NIST SP 800-41 Rev 1 - Firewall and Policy Guidelines](https://csrc.nist.gov/publications/detail/sp/800-41/rev-1/final)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

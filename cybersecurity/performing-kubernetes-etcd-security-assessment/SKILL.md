@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Assess the security posture of Kubernetes etcd clusters by evaluating
   encryption at rest, TLS configuration, access controls, backup encryption, and network
@@ -225,8 +224,4 @@ kubectl get secrets --all-namespaces -o json | \
 - [Securing etcd - K8s Security Guide](https://k8s-security.geek-kb.com/docs/best_practices/cluster_setup_and_hardening/control_plane_security/etcd_security_mitigation/)
 - [Infosec: Encryption and etcd](https://www.infosecinstitute.com/resources/cryptography/encryption-and-etcd-the-key-to-securing-kubernetes/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

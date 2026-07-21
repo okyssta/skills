@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: End-to-end encryption (E2EE) ensures that only the communicating parties
   can read messages, with no intermediary (including the server) able to decrypt them.
@@ -89,8 +88,4 @@ Each message uses a unique encryption key derived from a ratcheting chain. After
 - [ ] Out-of-order messages can be decrypted
 - [ ] Tampered messages are rejected by authentication
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

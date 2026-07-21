@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Systematically assessing REST and GraphQL API endpoints against the OWASP
   API Security Top 10 risks using automated and manual testing techniques.
@@ -353,8 +352,4 @@ Tested range: 1-1000, 847 valid orders accessible.
 PII exposure: names, addresses, payment details.
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

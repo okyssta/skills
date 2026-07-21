@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Map advanced persistent threat (APT) group tactics, techniques, and
   procedures (TTPs) to the MITRE ATT&CK framework using the ATT&CK Navigator and attackcti
@@ -79,8 +78,4 @@ multiple groups, and assess detection coverage gaps against known adversaries.
 }
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and prevent QR code phishing (quishing) attacks that bypass traditional
   email security by embedding malicious URLs in QR code images within emails.
@@ -121,8 +120,4 @@ QR code phishing (quishing) is a rapidly growing attack vector where malicious U
 - User reporting rate for quishing simulations exceeds 50%
 - False positive rate for QR detection below 1%
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

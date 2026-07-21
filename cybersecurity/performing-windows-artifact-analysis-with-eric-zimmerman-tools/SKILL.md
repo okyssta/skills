@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform comprehensive Windows forensic artifact analysis using Eric Zimmerman's
   open-source EZ Tools suite including KAPE, MFTECmd, PECmd, LECmd, JLECmd, and Timeline
@@ -295,8 +294,4 @@ All EZ Tools produce CSV output that can be:
 - SANS FOR508: Advanced Incident Response and Threat Hunting
 - SANS FOR498: Battlefield Forensics & Data Acquisition
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build effective detection rules using Splunk Search Processing Language
   (SPL) correlation searches to identify security threats in SOC environments.
@@ -255,8 +254,4 @@ index=notable
 - [Configure Correlation Searches - Splunk Documentation](https://help.splunk.com/en/splunk-enterprise-security-8/splunk-app-for-pci-compliance/installation-and-configuration-manual/6.1/configure-correlation-searches/configure-correlation-searches)
 - [SOC Prime - Correlation Events in Splunk](https://socprime.com/blog/creating-correlation-events-in-splunk-using-alerts/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

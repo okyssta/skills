@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Test web applications for HTTP Host header injection vulnerabilities
   to identify password reset poisoning, web cache poisoning, SSRF, and virtual host
@@ -236,8 +235,4 @@ curl -H "Host: management.internal" http://target.com/
 - Set absolute URLs in application configuration instead of deriving from Host
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Parses Kubernetes API server audit logs (JSON lines) to detect exec-into-pod,
   secret access, RBAC modifications, privileged pod creation, and anonymous API access.
@@ -82,8 +81,4 @@ if verb in ("get", "list") and resource == "secrets":
     print(f"Secret access: {user} -> {event['objectRef'].get('name')}")
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

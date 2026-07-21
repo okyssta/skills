@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect Living Off the Land Binaries (LOLBins/LOLBAS) abuse including
   certutil, regsvr32, mshta, and rundll32 via process telemetry, Sigma rules, and
@@ -66,8 +65,4 @@ Living Off the Land Binaries, Scripts, and Libraries (LOLBAS) are legitimate sys
 - Parent-child process anomaly analysis
 - Sigma rule match details with raw event data
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

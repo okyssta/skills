@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements HashiCorp Vault dynamic secrets engines for database credentials,
   AWS IAM keys, and PKI certificates with automatic generation, lease management,
@@ -597,8 +596,4 @@ Audit Logging:                  ENABLED (file + syslog)
 Policy Violations (24h):        7 (permission denied)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

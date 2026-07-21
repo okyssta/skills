@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Conduct forensic investigations in cloud environments by collecting and
   analyzing logs, snapshots, and metadata from AWS, Azure, and GCP services.
@@ -347,8 +346,4 @@ Cloud Forensics Summary:
     Estimated Cost: $4,500 in unauthorized compute
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

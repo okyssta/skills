@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Collects and synthesizes open-source intelligence (OSINT) about threat
   actors, malicious infrastructure, and attack campaigns using publicly available
@@ -152,8 +151,4 @@ python sf.py -s evil-domain.com -m sfp_shodan,sfp_virustotal,sfp_passivetotal \
 - **Attribution overconfidence**: Infrastructure overlap does not guarantee same threat actor. False flag operations deliberately share indicators across groups.
 - **Legal boundaries**: Some OSINT tools perform active scans (port scanning, banner grabbing). Confirm tool behavior before use against external targets without authorization.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

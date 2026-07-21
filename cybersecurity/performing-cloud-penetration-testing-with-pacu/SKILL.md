@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performing authorized AWS penetration testing using Pacu, the open-source
   AWS exploitation framework, to enumerate IAM configurations, discover privilege
@@ -306,8 +305,4 @@ RECOMMENDATIONS:
   4. Implement SCP blocking iam:CreatePolicyVersion in non-admin OUs
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

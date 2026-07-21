@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Develop and apply a multi-factor asset criticality scoring model to weight
   vulnerability prioritization based on business impact, data sensitivity, and operational
@@ -171,8 +170,4 @@ def apply_criticality_to_vulns(vulns_df, asset_scores):
 - performing-business-impact-analysis
 - implementing-asset-management-program
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

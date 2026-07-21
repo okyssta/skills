@@ -1,5 +1,4 @@
 ---
-author: juliosuas
 category: cybersecurity
 description: Hunt for threats in AWS environments using Detective behavior graphs,
   entity investigation timelines, GuardDuty finding correlation, and automated entity
@@ -173,8 +172,4 @@ Indicators are retrieved separately via `list-indicators` and include types such
 4. Verify finding group correlations match manual investigation conclusions
 5. Confirm automated alerts trigger for HIGH/CRITICAL severity investigations
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

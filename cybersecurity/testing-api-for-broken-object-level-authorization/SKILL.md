@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Tests REST and GraphQL APIs for Broken Object Level Authorization (BOLA/IDOR)
   vulnerabilities where an authenticated user can access or modify resources belonging
@@ -395,8 +394,4 @@ enumeration trivial.
 5. Implement rate limiting per user to slow enumeration attempts
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform static analysis of malicious PDF documents using peepdf, pdfid,
   and pdf-parser to extract embedded JavaScript, shellcode, and suspicious objects.
@@ -93,8 +92,4 @@ VirusTotal Detections: [X/Y engines]
 Risk Level: [Critical/High/Medium/Low]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

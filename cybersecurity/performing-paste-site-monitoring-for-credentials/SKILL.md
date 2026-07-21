@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Monitor paste sites like Pastebin and GitHub Gists for leaked credentials,
   API keys, and sensitive data dumps using automated scraping and keyword matching
@@ -349,8 +348,4 @@ def generate_credential_leak_alert(alert_data):
 - [zSecurity: Pastebin Monitoring](https://zsecurity.org/glossary/pastebin-monitoring/)
 - [SecurityBoulevard: Need to Monitor Paste Sites](https://securityboulevard.com/2019/11/orvis-data-leak-and-the-need-to-monitor-paste-sites/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detecting data exfiltration attempts from AWS S3 buckets by analyzing
   CloudTrail S3 data events, VPC Flow Logs, GuardDuty findings, Amazon Macie alerts,
@@ -344,8 +343,4 @@ CONTAINMENT ACTIONS:
   [x] TruffleHog scan initiated on developer repositories
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

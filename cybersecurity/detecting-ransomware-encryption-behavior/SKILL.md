@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects ransomware encryption activity in real time using entropy analysis,
   file system I/O monitoring, and behavioral heuristics. Identifies mass file modification
@@ -215,8 +214,4 @@ Automated Response Actions:
 - **Elastic Endpoint**: Commercial endpoint protection with built-in ransomware behavioral detection using canary files
 - **Wazuh**: Open-source security platform with file integrity monitoring and active response capabilities
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

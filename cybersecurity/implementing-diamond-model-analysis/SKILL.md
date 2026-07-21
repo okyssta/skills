@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: The Diamond Model of Intrusion Analysis provides a structured framework
   for analyzing cyber intrusions by examining four core features - Adversary, Capability,
@@ -186,8 +185,4 @@ class DiamondAnalysis:
 - [MITRE ATT&CK](https://attack.mitre.org/)
 - [STIX 2.1 Campaign Object](https://docs.oasis-open.org/cti/stix/v2.1/stix-v2.1.html)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

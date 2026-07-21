@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Analyzes encryption algorithms, key management, and file encryption
   routines used by ransomware families to assess decryption feasibility, identify
@@ -343,8 +342,4 @@ RECOVERY OPTIONS
 4. Negotiate with attacker (last resort - no guarantee of decryption)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

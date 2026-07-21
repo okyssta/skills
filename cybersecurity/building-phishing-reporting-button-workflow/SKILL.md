@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement a phishing report button in email clients with automated triage
   workflow that analyzes user-reported suspicious emails and provides feedback to
@@ -103,8 +102,4 @@ A phishing reporting button empowers users to flag suspicious emails directly fr
 - Reporter receives feedback notification with classification
 - Metrics dashboard shows report volume and accuracy trends
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

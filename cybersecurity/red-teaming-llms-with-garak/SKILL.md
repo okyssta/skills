@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Run NVIDIA garak probe suites against an LLM endpoint to test for jailbreaks,
   prompt injection, data leakage, and toxic generation, then interpret the hit-rate
@@ -224,8 +223,4 @@ This skill uses MITRE ATLAS (the adversarial-ML companion to ATT&CK) technique I
 - [ ] A mitigation applied and a comparison re-run completed showing changed hit rates.
 - [ ] Findings documented against OWASP LLM Top 10 and MITRE ATLAS for the risk assessment.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

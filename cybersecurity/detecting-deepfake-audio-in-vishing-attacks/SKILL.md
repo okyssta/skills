@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Detects AI-generated deepfake audio used in voice phishing (vishing)
   attacks by extracting spectral features (MFCC, spectral centroid, spectral contrast,
@@ -238,8 +237,4 @@ file with chain of custody documentation for potential legal action.
 - Highly sophisticated voice cloning (e.g., fine-tuned VALL-E with 30+ minutes of training data) may evade basic feature analysis
 - Genuine speech transmitted through VoIP may exhibit spectral artifacts similar to deepfakes
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

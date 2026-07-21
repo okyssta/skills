@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Systematically testing web applications for broken access control vulnerabilities
   including privilege escalation, missing function-level checks, and insecure direct
@@ -367,8 +366,4 @@ The user profile update endpoint at `PUT /api/users/{id}` accepts a `role` field
 6. Implement audit logging for all access control decisions
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

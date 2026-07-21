@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: The Common Vulnerability Scoring System (CVSS) is the industry standard
   framework maintained by FIRST (Forum of Incident Response and Security Teams) for
@@ -194,8 +193,4 @@ Combine CVSS with additional prioritization factors:
 - implementing-risk-based-vulnerability-management
 - implementing-vulnerability-remediation-sla
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

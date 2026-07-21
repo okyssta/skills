@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Uses Rekall memory forensics framework to analyze memory dumps for process
   hollowing, injected code via VAD anomalies, hidden processes, and rootkit detection.
@@ -94,8 +93,4 @@ hidden = psscan_pids - pslist_pids
 print(f"Hidden PIDs: {hidden}")
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

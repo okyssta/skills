@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and prevent API enumeration attacks including BOLA and IDOR exploitation
   by monitoring sequential identifier access patterns and authorization failures.
@@ -427,8 +426,4 @@ plugins:
 - Cloudflare API Shield BOLA Detection: https://community.cloudflare.com/t/api-shield-new-bola-vulnerability-detection-for-api-shield/883021
 - Sycope IDOR Detection via HTTP Traffic Analysis: https://www.sycope.com/post/idor-vulnerability-how-to-detect-an-attack-on-web-applications-through-http-traffic-analysis
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

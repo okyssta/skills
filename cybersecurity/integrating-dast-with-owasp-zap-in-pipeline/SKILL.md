@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers integrating OWASP ZAP (Zed Attack Proxy) for Dynamic
   Application Security Testing in CI/CD pipelines. It addresses configuring baseline,
@@ -262,8 +261,4 @@ FAILING ALERTS:
 QUALITY GATE: FAILED (1 HIGH, 2 MEDIUM findings)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Enumerate and audit Active Directory forest trust relationships using
   impacket for SID filtering analysis, trust key extraction, cross-forest SID history
@@ -68,8 +67,4 @@ Active Directory forest trusts enable authentication across organizational bound
 - JSON report listing all trust relationships, SID filtering status, foreign principals, trust direction/transitivity, and risk assessment
 - Cross-forest attack path analysis with remediation recommendations
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

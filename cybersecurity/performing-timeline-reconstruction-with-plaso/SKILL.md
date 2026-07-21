@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build comprehensive forensic super-timelines using Plaso (log2timeline)
   to correlate events across file systems, logs, and artifacts into a unified chronological
@@ -332,8 +331,4 @@ Timeline Reconstruction Summary:
     Timesketch Import: /timeline/timeline.jsonl
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

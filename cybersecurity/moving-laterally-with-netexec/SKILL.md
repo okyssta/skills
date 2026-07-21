@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Use NetExec for SMB, WinRM, LDAP, and MSSQL enumeration, password spraying,
   and execution.
@@ -201,8 +200,4 @@ nxc smb 192.168.1.0/24 -u jsmith -p 'Summer2025!' --shares --log spray_results.l
 - [ ] LDAP attacks (Kerberoasting/ASREPRoast/LAPS/BloodHound) executed where in scope.
 - [ ] Workspace results exported and included in the engagement report.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

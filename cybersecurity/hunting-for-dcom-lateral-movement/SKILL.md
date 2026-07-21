@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Hunt for DCOM-based lateral movement by detecting abuse of MMC20.Application,
   ShellBrowserWindow, and ShellWindows COM objects through Sysmon Event ID 1 (process
@@ -679,8 +678,4 @@ Risk Assessment: [Critical/High/Medium]
 Recommended Action: [Isolate, investigate source, reset credentials, restrict DCOM]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

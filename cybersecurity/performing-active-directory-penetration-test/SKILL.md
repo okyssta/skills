@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Conduct a focused Active Directory penetration test to enumerate domain
   objects, discover attack paths with BloodHound, exploit Kerberos weaknesses, escalate
@@ -288,8 +287,4 @@ mimikatz# misc::skeleton
 - SpecterOps AD Security: https://specterops.io/blog/
 - MITRE ATT&CK: https://attack.mitre.org/
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

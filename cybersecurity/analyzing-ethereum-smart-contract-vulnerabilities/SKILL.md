@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform static and symbolic analysis of Solidity smart contracts using
   Slither and Mythril to detect reentrancy, integer overflow, access control, and
@@ -71,8 +70,4 @@ Produce a structured audit report with vulnerability descriptions, affected code
 
 JSON report listing vulnerabilities with SWC (Smart Contract Weakness Classification) identifiers, severity ratings, affected functions, and suggested fixes.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

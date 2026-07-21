@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Docker Bench for Security is an open-source script that checks dozens
   of common best practices around deploying Docker containers in production. Based
@@ -151,8 +150,4 @@ docker run --rm docker/docker-bench-security 2>&1 | grep -c "WARN"
 - [CIS Docker Benchmark](https://www.cisecurity.org/benchmark/docker)
 - [Docker Security Best Practices](https://docs.docker.com/engine/security/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

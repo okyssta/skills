@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Extract stored credentials from compromised endpoints using the LaZagne
   post-exploitation tool to recover passwords from browsers, databases, system vaults,
@@ -225,8 +224,4 @@ LaZagne is an open-source post-exploitation tool designed to retrieve credential
 - [ ] Lateral movement opportunities identified from recovered creds
 - [ ] Evidence documented with appropriate handling procedures
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

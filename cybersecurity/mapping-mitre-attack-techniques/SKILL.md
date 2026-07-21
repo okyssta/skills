@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Maps observed adversary behaviors, security alerts, and detection rules
   to MITRE ATT&CK techniques and sub-techniques to quantify detection coverage and
@@ -152,8 +151,4 @@ Summarize coverage by tactic category (Initial Access, Execution, Persistence, e
 - **Static mapping without updates**: ATT&CK releases major versions annually. Coverage maps go stale as techniques are added, revised, or deprecated.
 - **Not mapping to adversary groups**: Generic coverage maps don't distinguish between techniques used by APTs targeting your sector vs. commodity malware.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

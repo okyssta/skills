@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement GCP Binary Authorization to enforce deploy-time security controls
   that ensure only trusted, attested container images are deployed to Google Kubernetes
@@ -290,8 +289,4 @@ spec:
 - Sigstore/Cosign for container signing
 - Google Software Supply Chain Security Best Practices
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

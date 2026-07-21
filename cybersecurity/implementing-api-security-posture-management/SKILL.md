@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement API Security Posture Management to continuously discover, classify,
   and score APIs based on risk while enforcing security policies across the API lifecycle.
@@ -414,8 +413,4 @@ policies:
 - AppSentinels API Security Posture Management: https://appsentinels.ai/blog/api-security-posture-management-from-reactive-protection-to-continuous-governance/
 - Palo Alto Networks ASPM: https://www.paloaltonetworks.com/cyberpedia/aspm-application-security-posture-management
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

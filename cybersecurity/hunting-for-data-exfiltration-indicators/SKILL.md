@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Hunt for data exfiltration through network traffic analysis, detecting
   unusual data flows, DNS tunneling, cloud storage uploads, and encrypted channel
@@ -109,8 +108,4 @@ Risk Level: [Critical/High/Medium/Low]
 Confidence: [High/Medium/Low]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

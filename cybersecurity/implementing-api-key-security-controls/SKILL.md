@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements secure API key generation, storage, rotation, and revocation
   controls to protect API authentication credentials from leakage, brute force, and
@@ -410,8 +409,4 @@ def process_leaked_keys(leaks_file):
 - Keys detected in CI/CD pre-commit: 7 (prevented)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement BGP route origin validation using RPKI with Route Origin Authorizations,
   RPKI-to-Router protocol, and ROV policies on Cisco and Juniper routers to prevent
@@ -336,8 +335,4 @@ if __name__ == "__main__":
 - [RFC 6480 - RPKI Architecture](https://www.rfc-editor.org/rfc/rfc6480)
 - [RFC 6811 - BGP Origin AS Validation](https://www.rfc-editor.org/rfc/rfc6811)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

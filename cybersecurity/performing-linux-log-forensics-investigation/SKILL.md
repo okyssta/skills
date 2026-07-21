@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform forensic investigation of Linux system logs including syslog,
   auth.log, systemd journal, kern.log, and application logs to reconstruct user activity,
@@ -300,8 +299,4 @@ if __name__ == "__main__":
 - HackTricks Linux Forensics: https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/linux-forensics
 - Log Sources for Digital Forensics: https://letsdefend.io/blog/log-sources-for-digital-forensics-windows-and-linux
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

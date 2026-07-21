@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect kernel-level rootkits in Linux memory dumps using Volatility3
   linux plugins (check_syscall, lsmod, hidden_modules), rkhunter system scanning,
@@ -140,8 +139,4 @@ Summary:
   Risk Level:           CRITICAL
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

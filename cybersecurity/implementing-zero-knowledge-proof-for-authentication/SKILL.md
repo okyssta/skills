@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Zero-Knowledge Proofs (ZKPs) allow a prover to demonstrate knowledge
   of a secret (such as a password or private key) without revealing the secret itself.
@@ -89,8 +88,4 @@ Zero-Knowledge Proofs (ZKPs) allow a prover to demonstrate knowledge of a secret
 - [ ] Multiple authentications produce different transcripts
 - [ ] Protocol resists replay attacks
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

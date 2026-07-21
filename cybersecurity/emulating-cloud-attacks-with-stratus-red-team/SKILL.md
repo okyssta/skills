@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detonate granular AWS, Azure, GCP, and Kubernetes attack techniques to
   validate detections with Stratus Red Team.
@@ -222,8 +221,4 @@ did not, you have found a coverage gap; document it before cleaning up.
 - [ ] `stratus cleanup --all` run and status returns COLD for every technique
 - [ ] No orphaned billable resources remain in the account
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

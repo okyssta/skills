@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Automate OSINT collection using SpiderFoot REST API and CLI for target
   profiling, module-based reconnaissance, and structured result analysis across 200+
@@ -64,8 +63,4 @@ SpiderFoot is an open-source OSINT automation tool with 200+ modules that integr
 
 JSON report containing OSINT findings organized by data type (domains, IPs, emails, credentials, DNS records), module source attribution, and target profile summary with risk indicators.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

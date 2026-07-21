@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Tests WebSocket API implementations for security vulnerabilities including
   missing authentication on WebSocket upgrade, Cross-Site WebSocket Hijacking (CSWSH),
@@ -452,8 +451,4 @@ and typing indicators for any user who visits the attacker's page.
 5. Add rate limiting on WebSocket message volume per connection
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Recover deleted files from disk images and storage media using PhotoRec's
   file signature-based carving engine regardless of file system damage.
@@ -243,8 +242,4 @@ PhotoRec Recovery Summary:
   Hash Manifest:    /cases/case-2024-001/recovered/recovered_hashes.txt
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

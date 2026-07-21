@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Intercepts and analyzes HTTP/HTTPS traffic from mobile applications
   using Burp Suite proxy to identify insecure API communications, authentication flaws,
@@ -203,8 +202,4 @@ android sslpinning disable
 - **Non-HTTP protocols**: Burp Suite only handles HTTP/HTTPS. Use Wireshark for WebSocket, MQTT, gRPC, or custom binary protocols.
 - **VPN-based apps**: Apps using VPN tunnels bypass device proxy settings. May need iptables rules on a rooted device to redirect traffic.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

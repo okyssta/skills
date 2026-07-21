@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs initial triage of security incidents to determine severity,
   scope, and required response actions using the NIST SP 800-61r3 and SANS PICERL
@@ -225,8 +224,4 @@ Routed To:       [Team/Individual]
 SLA Target:      [Containment deadline]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

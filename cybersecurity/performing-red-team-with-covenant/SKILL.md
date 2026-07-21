@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Conduct red team operations using the Covenant C2 framework for authorized
   adversary simulation, including listener setup, grunt deployment, task execution,
@@ -70,8 +69,4 @@ Generate an operations report documenting all actions, timestamps, and findings.
 
 JSON report with listener configuration, active grunts, executed tasks, and task output for engagement documentation.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

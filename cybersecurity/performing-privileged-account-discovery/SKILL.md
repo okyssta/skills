@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Discover and inventory all privileged accounts across enterprise infrastructure
   including domain admins, local admins, service accounts, database admins, cloud
@@ -72,8 +71,4 @@ Discover and inventory all privileged accounts across enterprise infrastructure 
 - [ ] Documentation and runbooks complete
 - [ ] Compliance evidence generated
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

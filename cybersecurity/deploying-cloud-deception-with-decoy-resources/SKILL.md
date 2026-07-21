@@ -1,5 +1,4 @@
 ---
-author: andrewibrah
 category: cybersecurity
 description: 'Deploy cloud-native deception across AWS, Azure, and GCP using decoy
   (honey) resources whose only purpose is to generate a high-fidelity alert the instant
@@ -169,8 +168,4 @@ Produce a **Cloud Deception Deployment Record** using `assets/template.md`, cont
 
 Use `scripts/process.py` to render the deployment record and a per-decoy detection checklist from a decoy-inventory JSON, and to flag decoys missing detection wiring or validation.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Tenable Nessus is the industry-leading vulnerability scanner used to
   identify security weaknesses across network infrastructure including servers, workstations,
@@ -181,8 +180,4 @@ curl -k -X POST "https://localhost:8834/scans/<SCAN_ID>/export" \
 - implementing-continuous-vulnerability-monitoring
 - performing-network-vulnerability-assessment
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

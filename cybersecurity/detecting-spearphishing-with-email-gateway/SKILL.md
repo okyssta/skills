@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Spearphishing targets specific individuals using personalized, researched
   content that bypasses generic spam filters. Email security gateways (SEGs) like
@@ -118,8 +117,4 @@ Use the `scripts/process.py` to analyze email gateway logs, identify spearphishi
 - Custom rules trigger on known spearphishing patterns
 - SIEM integration receives gateway alerts
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

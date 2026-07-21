@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Crafts and injects custom network packets using Scapy, hping3, and Nemesis
   during authorized security assessments to test firewall rules, IDS detection, protocol
@@ -335,8 +334,4 @@ EOF
 2. TCP RST injection not detected -- create custom rule for out-of-window RST
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build a structured SOC escalation matrix defining severity tiers, response
   SLAs, escalation paths, and notification procedures for security incidents.
@@ -220,8 +219,4 @@ auto_escalation_rules:
 - [Vectra - SOC Operations Guide](https://www.vectra.ai/topics/soc-operations)
 - [Runframe - Incident Priority Levels Explained](https://runframe.io/learn/incident-priority)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

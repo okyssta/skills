@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect PowerShell Empire framework artifacts in Windows event logs by
   identifying Base64 encoded launcher patterns, default user agents, staging URL structures,
@@ -64,8 +63,4 @@ PowerShell Empire is a post-exploitation framework consisting of listeners, stag
 
 JSON report with matched IOCs, decoded Base64 payloads, timeline of suspicious events, MITRE ATT&CK technique mappings, and severity scores.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

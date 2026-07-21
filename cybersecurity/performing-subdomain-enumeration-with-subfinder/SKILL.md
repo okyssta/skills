@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Enumerate subdomains of target domains using ProjectDiscovery's Subfinder
   passive reconnaissance tool to map the attack surface during security assessments.
@@ -199,8 +198,4 @@ subfinder -d example.com -silent | httpx -silent | gowitness file -f - -P screen
 - Restrict access to development and staging environments
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

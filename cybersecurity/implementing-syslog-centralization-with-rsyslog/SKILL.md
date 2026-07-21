@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure rsyslog for centralized log collection with TLS encryption,
   custom templates, and log rotation. Generates server and client configuration files
@@ -82,8 +81,4 @@ action(type="omfwd" target="10.0.0.1" port="6514" protocol="tcp"
        action.resumeRetryCount="-1")
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

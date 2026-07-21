@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Execute a phased DMARC rollout from p=none monitoring through p=quarantine
   to p=reject enforcement, ensuring all legitimate email sources are authenticated
@@ -137,8 +136,4 @@ v=DMARC1; p=quarantine; pct=25; rua=mailto:dmarc-agg@company.com; ruf=mailto:dma
 - No legitimate mail blocked after full p=reject enforcement
 - Subdomain policy (sp=) also set to reject
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

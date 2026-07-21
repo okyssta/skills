@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure microsegmentation policies to enforce least-privilege workload-to-workload
   access using tools like VMware NSX, Illumio, and Calico, preventing lateral movement
@@ -178,8 +177,4 @@ Isolate critical applications (PCI cardholder data environment, SWIFT financial 
 - VMware NSX Distributed Firewall Configuration Guide
 - Forrester Zero Trust eXtended (ZTX) Framework
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

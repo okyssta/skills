@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Analyzes RAM memory dumps from compromised systems using the Volatility
   framework to identify malicious processes, injected code, network connections, loaded
@@ -314,8 +313,4 @@ TIMELINE
 14:20:00  Credential dump from LSASS process
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

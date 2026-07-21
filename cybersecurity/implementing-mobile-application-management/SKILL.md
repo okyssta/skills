@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements Mobile Application Management (MAM) policies to protect enterprise
   data on managed and unmanaged mobile devices through app-level controls including
@@ -184,8 +183,4 @@ Configure MAM monitoring dashboards:
 - **App wrapping limitations**: Wrapped apps cannot use certain features (push notifications on some platforms). SDK integration is preferred for full functionality.
 - **User experience friction**: Overly restrictive policies cause user frustration and shadow IT. Start with Tier 1 and escalate based on data sensitivity.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

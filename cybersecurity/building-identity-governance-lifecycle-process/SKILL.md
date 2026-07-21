@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Builds comprehensive identity governance and lifecycle management processes
   including joiner-mover-leaver automation, role mining, access request workflows,
@@ -694,8 +693,4 @@ Average Approval Time:     6.2 hours
 SOD Violations Flagged:    12
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

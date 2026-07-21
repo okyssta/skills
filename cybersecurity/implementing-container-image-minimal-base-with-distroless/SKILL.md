@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Reduce container attack surface by building application images on Google
   distroless base images that contain only the application runtime with no shell,
@@ -216,8 +215,4 @@ trivy image myapp:distroless
 - [Alpine, Distroless, or Scratch? - Google Cloud](https://medium.com/google-cloud/alpine-distroless-or-scratch-caac35250e0b)
 - [Docker Hardened Images](https://www.infoq.com/news/2025/12/docker-hardened-images/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

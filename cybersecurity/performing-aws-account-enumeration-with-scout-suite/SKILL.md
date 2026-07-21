@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform comprehensive security posture assessment of AWS accounts using
   ScoutSuite to enumerate resources, identify misconfigurations, and generate actionable
@@ -264,8 +263,4 @@ scout aws --profile production
 - CIS AWS Foundations Benchmark
 - AWS Well-Architected Security Pillar
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

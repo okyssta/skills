@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Test vector stores for embedding inversion, cross-tenant leakage, and
   poisoning.
@@ -235,8 +234,4 @@ for hit in client.search("docs", model.encode(["help"])[0].tolist(), limit=10):
 - [ ] Findings reported with remediation for each weakness class.
 - [ ] No production corpus modified during the assessment.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

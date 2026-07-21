@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform comprehensive forensic analysis of disk images using Autopsy
   to recover files, examine artifacts, and build investigation timelines.
@@ -269,8 +268,4 @@ Autopsy Case Analysis Summary:
   Report:          /cases/case-2024-001/reports/autopsy_report.html
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

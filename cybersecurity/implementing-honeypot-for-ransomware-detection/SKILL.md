@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploys canary files, honeypot shares, and decoy systems to detect ransomware
   activity at the earliest possible stage. Configures canary tokens embedded in strategic
@@ -371,8 +370,4 @@ def send_ransomware_alert(source_ip: str, canary_path: str, action: str):
 |-----------|----------|-----------------|----------------|---------------------|---------------|
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

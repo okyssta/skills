@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Configures host-based intrusion detection systems (HIDS) to monitor
   endpoint file integrity, system calls, and configuration changes for security violations.
@@ -231,8 +230,4 @@ output.elasticsearch:
 - **Active response without testing**: Auto-blocking IPs or disabling accounts can cause outages. Test active response rules in a non-production environment first.
 - **Agent enrollment failures**: Agents must successfully enroll with the manager before monitoring begins. Verify firewall rules allow port 1514 and 1515 traffic.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

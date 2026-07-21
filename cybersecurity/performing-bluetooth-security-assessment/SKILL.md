@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Assess Bluetooth Low Energy device security by scanning, enumerating
   GATT services, and detecting vulnerabilities
@@ -88,8 +87,4 @@ The agent uses bleak's asyncio API to discover nearby BLE devices, connect to ta
 }
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

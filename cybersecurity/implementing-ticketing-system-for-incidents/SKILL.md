@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements an integrated incident ticketing system connecting SIEM alerts
   to ServiceNow, Jira, or TheHive for structured incident tracking, SLA management,
@@ -431,8 +430,4 @@ Metrics:
   SLA Status:          MET (within 4-hour resolution target)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

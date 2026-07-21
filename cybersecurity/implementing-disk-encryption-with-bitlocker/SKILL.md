@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements full disk encryption using Microsoft BitLocker on Windows
   endpoints to protect data at rest from unauthorized access in case of device loss
@@ -229,8 +228,4 @@ if ($vol.ProtectionStatus -eq "On" -and $vol.VolumeStatus -eq "FullyEncrypted") 
 - **Forgetting removable drives**: USB drives and external disks are common data loss vectors. Enforce BitLocker To Go for removable media.
 - **No pre-provisioning for SCCM deployments**: Pre-provision BitLocker during OSD task sequence to encrypt before OS deployment, avoiding the lengthy post-deployment encryption process.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

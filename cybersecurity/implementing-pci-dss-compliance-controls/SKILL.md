@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: PCI DSS 4.0.1 establishes 12 requirements across 6 control objectives
   for organizations that store, process, or transmit cardholder data. With PCI DSS
@@ -148,8 +147,4 @@ PCI DSS 4.0.1 establishes 12 requirements across 6 control objectives for organi
 - PCI DSS 4.0 Summary of Changes
 - UpGuard PCI DSS 4.0 Guide: https://www.upguard.com/blog/pci-compliance
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

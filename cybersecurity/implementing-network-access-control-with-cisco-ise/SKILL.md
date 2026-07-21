@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy Cisco Identity Services Engine for 802.1X wired and wireless authentication,
   MAC Authentication Bypass, posture assessment, and dynamic VLAN assignment for network
@@ -348,8 +347,4 @@ test aaa server radius ISE-PRIMARY username testuser password testpass
 - [CiscoLive ISE Deployment Guide 2025](https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2025/pdf/BRKSEC-2660.pdf)
 - [Cisco ISE Wired 802.1X Configuration](https://www.networkcomputing.com/network-security/cisco-ise-wired-802-1x-configuration)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Triage npm packages for install-script malware, exfiltration, and worming
   behavior.
@@ -201,8 +200,4 @@ python scripts/agent.py --tarball ./some-pkg.tgz --output verdict.json
 - [ ] Documented verdict (benign / suspicious / malicious) with supporting evidence.
 - [ ] Malicious findings reported to the registry and shared as threat intel.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

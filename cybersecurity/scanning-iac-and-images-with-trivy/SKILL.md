@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Scan container images, IaC, and SBOMs for vulnerabilities and misconfigurations
   in CI/CD with Trivy.
@@ -262,8 +261,4 @@ trivy k8s --report summary --severity HIGH,CRITICAL cluster
 - [ ] CI/CD gate fails the build on HIGH/CRITICAL findings via `--exit-code 1`.
 - [ ] `.trivyignore` configured for accepted-risk findings with documented justification.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

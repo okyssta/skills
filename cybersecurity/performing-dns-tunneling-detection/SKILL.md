@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects DNS tunneling by computing Shannon entropy of DNS query names,
   analyzing query length distributions, inspecting TXT record payloads, and identifying
@@ -92,8 +91,4 @@ for pkt in packets:
             print(f"Suspicious: {query} (entropy={entropy:.2f})")
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

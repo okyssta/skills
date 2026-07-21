@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements SIEM detection use cases by designing correlation rules,
   threshold alerts, and behavioral analytics mapped to MITRE ATT&CK techniques across
@@ -314,8 +313,4 @@ Health Metrics:
   Use Cases Deprecated:      3 (replaced by improved versions)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

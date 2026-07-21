@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers detecting anomalies in Modbus/TCP and Modbus RTU communications
   in industrial control systems. It addresses function code monitoring, register range
@@ -396,8 +395,4 @@ ANOMALIES: [N]
   BROADCAST_WRITE: [N]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Identify and test open redirect vulnerabilities in web applications by
   analyzing URL redirection parameters, bypass techniques, and exploitation chains
@@ -211,8 +210,4 @@ ffuf -w open-redirect-payloads.txt -u "http://target.com/redirect?url=FUZZ" -mr 
 - Use indirect reference maps instead of direct URL parameters
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

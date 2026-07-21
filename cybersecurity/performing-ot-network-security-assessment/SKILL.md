@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers conducting comprehensive security assessments of Operational
   Technology (OT) networks including SCADA systems, DCS architectures, and industrial
@@ -601,8 +600,4 @@ DETAILED FINDINGS:
     Remediation: [specific technical remediation steps]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

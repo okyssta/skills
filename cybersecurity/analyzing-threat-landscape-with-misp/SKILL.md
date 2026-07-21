@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze the threat landscape using MISP (Malware Information Sharing
   Platform) by querying event statistics, attribute distributions, threat actor galaxy
@@ -75,8 +74,4 @@ Top MITRE technique: T1566 Phishing (89 events)
 Top threat actor: APT28 (34 events)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

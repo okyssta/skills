@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy Aqua Security's Trivy scanner to detect vulnerabilities, misconfigurations,
   secrets, and license issues in container images across CI/CD pipelines and registries.
@@ -265,8 +264,4 @@ trivy sbom sbom-cyclonedx.json
 - [Aqua Security Platform](https://www.aquasec.com/products/)
 - [CycloneDX SBOM Specification](https://cyclonedx.org/specification/overview/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

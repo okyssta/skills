@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Test web application email functionality for SMTP header injection vulnerabilities
   that allow attackers to inject additional email headers, modify recipients, and
@@ -232,8 +231,4 @@ curl -X POST http://target.com/api/send-email \
 - Implement rate limiting on email-sending functionality
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

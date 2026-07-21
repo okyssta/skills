@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performing comprehensive security assessments of Google Cloud Platform
   environments using Forseti Security, Security Command Center, and gcloud CLI to
@@ -290,8 +289,4 @@ TOP REMEDIATION PRIORITIES:
   4. Enable VPC flow logs on 22 subnets (MEDIUM)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

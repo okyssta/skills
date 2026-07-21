@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Hunt for adversary persistence and execution via Windows scheduled tasks
   by analyzing task creation events, suspicious task properties, and unusual execution
@@ -109,8 +108,4 @@ Run As: [Execution account]
 Risk Level: [Critical/High/Medium/Low]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

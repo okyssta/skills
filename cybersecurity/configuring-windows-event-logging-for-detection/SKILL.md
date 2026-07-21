@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Configures Windows Event Logging with advanced audit policies to generate
   high-fidelity security events for threat detection and forensic investigation. Use
@@ -195,8 +194,4 @@ Lateral Movement Indicators:
 - **Missing command line logging**: Event 4688 without command line content has minimal detection value. Always enable ProcessCreationIncludeCmdLine_Enabled.
 - **Not forwarding logs**: Local event logs are lost when endpoints are wiped by ransomware. Forward to centralized SIEM immediately.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

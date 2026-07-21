@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy CyberArk Privileged Access Management to discover, vault, rotate,
   and monitor privileged credentials across enterprise infrastructure. This skill
@@ -152,8 +151,4 @@ Deploy CyberArk Privileged Access Management to discover, vault, rotate, and mon
 - [ ] Break-glass procedure tested and documented
 - [ ] DR vault failover tested successfully
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

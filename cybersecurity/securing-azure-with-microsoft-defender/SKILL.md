@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill instructs security practitioners on deploying Microsoft Defender
   for Cloud as a cloud-native application protection platform for Azure, multi-cloud,
@@ -268,8 +267,4 @@ ALERT SUMMARY (Last 30 Days):
     - Anomalous resource deployment (12)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

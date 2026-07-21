@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Reverse engineer ransomware encryption routines to identify cryptographic
   algorithms, key generation flaws, and potential decryption opportunities using static
@@ -290,8 +289,4 @@ def calculate_entropy(data):
 - [No More Ransom Project](https://www.nomoreransom.org/)
 - [MITRE ATT&CK T1486 - Data Encrypted for Impact](https://attack.mitre.org/techniques/T1486/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

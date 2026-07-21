@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Correlates security events in IBM QRadar SIEM using AQL (Ariel Query
   Language), custom rules, building blocks, and offense management to detect multi-stage
@@ -296,8 +295,4 @@ Disposition:    TRUE POSITIVE — Escalated to Incident Response
 Ticket:         IR-2024-0432
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

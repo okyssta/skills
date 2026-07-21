@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect OS credential dumping techniques targeting LSASS memory, SAM database,
   NTDS.dit, and cached credentials using EDR telemetry, Sysmon process access monitoring,
@@ -156,8 +155,4 @@ Risk Level: [Critical/High/Medium]
 Credentials at Risk: [Scope assessment]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Identifying and exploiting Cross-Origin Resource Sharing misconfigurations
   that allow unauthorized cross-domain data access and credential theft during security
@@ -349,8 +348,4 @@ The server uses regex `target\.example\.com` to validate origins, but fails to a
 5. Set Access-Control-Max-Age to a reasonable value (600 seconds)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze advanced persistent threat (APT) group techniques using MITRE
   ATT&CK Navigator to create layered heatmaps of adversary TTPs for detection gap
@@ -287,8 +286,4 @@ for tactic in tactic_order:
 - [CISA Best Practices for MITRE ATT&CK Mapping](https://www.cisa.gov/sites/default/files/2023-01/Best%20Practices%20for%20MITRE%20ATTCK%20Mapping.pdf)
 - [Picus: Leverage MITRE ATT&CK for Threat Intelligence](https://www.picussecurity.com/how-to-leverage-the-mitre-attack-framework-for-threat-intelligence)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

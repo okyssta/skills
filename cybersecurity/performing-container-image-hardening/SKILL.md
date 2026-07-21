@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers hardening container images by minimizing attack surface,
   removing unnecessary packages, implementing multi-stage builds, configuring non-root
@@ -263,8 +262,4 @@ VULNERABILITY COMPARISON:
   Reduction: 92.3%
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

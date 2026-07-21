@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: TLS 1.3 (RFC 8446) is the latest version of the Transport Layer Security
   protocol, providing significant improvements over TLS 1.2 in both security and performance.
@@ -112,8 +111,4 @@ TLS 1.3 (RFC 8446) is the latest version of the Transport Layer Security protoco
 - [ ] Certificate chain is valid and complete
 - [ ] testssl.sh reports no vulnerabilities
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

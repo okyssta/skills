@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers designing and implementing security zones and conduits
   for industrial automation and control systems (IACS) per IEC 62443-3-2. It addresses
@@ -535,8 +534,4 @@ VALIDATION RESULTS:
   Protocol enforcement: [function code filtering verified]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

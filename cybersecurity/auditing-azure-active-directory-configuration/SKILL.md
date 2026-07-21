@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Auditing Microsoft Entra ID (Azure Active Directory) configuration to
   identify risky authentication policies, overly permissive role assignments, stale
@@ -275,8 +274,4 @@ CRITICAL FINDINGS:
   4. 2 guest users with Privileged Role Administrator role
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

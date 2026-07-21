@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Use Intel CHIPSEC to assess platform firmware configuration, SPI flash
   write protection, BIOS lock, SMM/SMRR, and Secure Boot variable state, dump SPI
@@ -212,8 +211,4 @@ sudo chipsec_main -p <PLATFORM> # force platform code if auto-detect fails
 - [ ] All FAIL/WARNING findings documented with platform/BIOS version
 - [ ] Write/modify modules NOT run on production hardware
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

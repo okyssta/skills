@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Extract, parse, and analyze Windows Event Logs (EVTX) using Chainsaw,
   Hayabusa, and EvtxECmd to detect lateral movement, persistence, and privilege escalation.
@@ -344,8 +343,4 @@ Windows Event Log Analysis Summary:
     Critical Events: /analysis/critical_events.json
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

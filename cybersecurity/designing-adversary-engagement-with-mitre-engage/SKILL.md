@@ -1,5 +1,4 @@
 ---
-author: andrewibrah
 category: cybersecurity
 description: 'Plan, run, and measure an adversary engagement operation using the MITRE
   Engage framework so that deployed deception is driven by strategy instead of deployed
@@ -163,8 +162,4 @@ Produce an **Adversary Engagement Operation Plan** using `assets/template.md`, c
 
 Use `scripts/process.py` to validate technique→Activity coverage and generate the operation-plan skeleton from a threat-model input.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

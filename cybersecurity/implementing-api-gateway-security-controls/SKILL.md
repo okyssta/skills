@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements security controls at the API gateway layer including authentication
   enforcement, rate limiting, request validation, IP allowlisting, TLS termination,
@@ -472,8 +471,4 @@ cloudwatch.put_metric_alarm(
 - WAF: SQL injection payloads blocked (tested top 100 SQLi patterns)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

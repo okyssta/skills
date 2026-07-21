@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Automate credential rotation for service accounts across Active Directory,
   cloud platforms, and application databases to eliminate stale secrets and reduce
@@ -277,8 +276,4 @@ def verify_service_health(service_endpoints, max_retries=3, delay=10):
 - [Microsoft gMSA Documentation](https://learn.microsoft.com/en-us/windows-server/security/group-managed-service-accounts/group-managed-service-accounts-overview)
 - [HashiCorp Vault Database Secrets Engine](https://developer.hashicorp.com/vault/docs/secrets/databases)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

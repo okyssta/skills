@@ -1,5 +1,4 @@
 ---
-author: andrewibrah
 category: cybersecurity
 description: 'Prepare a defense-contractor environment for CMMC Level 2 certification:
   scope CUI and FCI, implement the 110 NIST SP 800-171 Rev 2 security requirements
@@ -142,8 +141,4 @@ Produce a **CMMC Level 2 Readiness Report** using `assets/template.md`, containi
 
 Use `scripts/process.py` to compute the SPRS score from a control-status JSON, flag POA&M-eligibility concerns, and report the gap to the conditional-certification threshold.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

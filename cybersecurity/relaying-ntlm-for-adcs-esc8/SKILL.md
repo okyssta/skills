@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Run ntlmrelayx into ADCS web enrollment to obtain a domain controller
   certificate via ESC8.
@@ -196,8 +195,4 @@ Confirm the environment is hardened against ESC8 after testing:
 - [ ] Domain compromise validated via DCSync (in scope only).
 - [ ] EPA/HTTPS and coercion-patch mitigations verified and documented.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

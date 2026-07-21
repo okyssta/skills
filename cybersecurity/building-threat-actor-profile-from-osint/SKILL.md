@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build comprehensive threat actor profiles using open-source intelligence
   (OSINT) techniques to document adversary motivations, capabilities, infrastructure,
@@ -383,8 +382,4 @@ generate_dossier("APT29", {
 - [ShadowDragon: OSINT Techniques](https://shadowdragon.io/blog/osint-techniques/)
 - [ISACA: Building a Threat-Led Cybersecurity Program](https://www.isaca.org/resources/white-papers/2025/building-a-threat-led-cybersecurity-program)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

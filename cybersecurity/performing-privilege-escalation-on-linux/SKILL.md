@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Linux privilege escalation involves elevating from a low-privilege user
   account to root access on a compromised system. Red teams exploit misconfigurations,
@@ -115,8 +114,4 @@ Linux privilege escalation involves elevating from a low-privilege user account 
 - [ ] Evidence documented (screenshots, command output)
 - [ ] Alternative escalation paths identified
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

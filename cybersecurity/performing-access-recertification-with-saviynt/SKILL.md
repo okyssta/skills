@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure and execute access recertification campaigns in Saviynt Enterprise
   Identity Cloud to validate user entitlements, revoke excessive access, and maintain
@@ -261,8 +260,4 @@ After campaign closes:
 - [Saviynt Advanced Access Reviews](https://oxfordcomputergroup.com/resources/saviynt-advanced-access-reviews/)
 - [ISACA Access Recertification Best Practices](https://www.isaca.org/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

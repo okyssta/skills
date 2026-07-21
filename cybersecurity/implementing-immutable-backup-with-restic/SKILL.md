@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements immutable backup strategy using restic with S3-compatible
   storage and object lock for ransomware-resistant data protection. Automates backup
@@ -104,8 +103,4 @@ Object Lock: Compliance mode, 90-day retention
 Restore Test: PASSED (15 files verified)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

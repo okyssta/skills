@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Simulates ARP spoofing attacks in authorized lab or pentest environments
   using arpspoof, Ettercap, and Scapy to demonstrate man-in-the-middle risks, test
@@ -280,8 +279,4 @@ arp -a
 3. Deploy 802.1X port authentication to complement ARP inspection
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

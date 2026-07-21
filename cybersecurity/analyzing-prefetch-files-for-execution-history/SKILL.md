@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Parse Windows Prefetch files to determine program execution history including
   run counts, timestamps, and referenced files for forensic investigation.
@@ -328,8 +327,4 @@ Prefetch Analysis Summary:
   Report: /cases/case-2024-001/analysis/execution_timeline.csv
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

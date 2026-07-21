@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Execute HTTP Parameter Pollution attacks to bypass input validation,
   WAF rules, and security controls by injecting duplicate parameters that are processed
@@ -209,8 +208,4 @@ python3 hpp_tester.py --url http://target.com/api/action \
 - Validate all parameters server-side regardless of client-side checks
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

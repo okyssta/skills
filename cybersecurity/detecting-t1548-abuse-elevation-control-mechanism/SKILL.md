@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect abuse of elevation control mechanisms including UAC bypass, sudo
   exploitation, and setuid/setgid manipulation by monitoring registry modifications,
@@ -136,8 +135,4 @@ Risk Level: [Critical/High/Medium]
 ATT&CK Technique: [T1548.00x]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

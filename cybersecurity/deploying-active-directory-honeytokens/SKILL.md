@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Deploys deception-based honeytokens in Active Directory including fake
   privileged accounts with AdminCount=1, fake SPNs for Kerberoasting detection (honeyroasting),
@@ -260,8 +259,4 @@ SecurityEvent
 - APT29a Blog - Deploying Honeytokens in AD: https://apt29a.blogspot.com/2019/11/deploying-honeytokens-in-active.html
 - ADSecurity.org - Detecting Kerberoasting Activity: https://adsecurity.org/?p=3458
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

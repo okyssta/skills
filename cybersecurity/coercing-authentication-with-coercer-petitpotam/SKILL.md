@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Trigger machine account authentication with PetitPotam (MS-EFSR) and
   Coercer across MS-RPRN, MS-DFSNM, and MS-FSRVP to feed NTLM relay into AD CS Web
@@ -178,8 +177,4 @@ coercer fuzz -u 'attacker' -p 'Passw0rd!' -d corp.local \
 - [ ] Coercible methods documented with affected host and patch recommendation
 - [ ] Relay mitigations (SMB/LDAP signing, EPA, RPC filters) validated or flagged
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

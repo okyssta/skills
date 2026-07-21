@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Parse Apache and Nginx access logs to detect SQL injection attempts,
   local file inclusion, directory traversal, web scanner fingerprints, and brute-force
@@ -78,8 +77,4 @@ python scripts/agent.py --log-file /var/log/nginx/access.log --geoip-db GeoLite2
 Nikto/2.1.6, sqlmap/1.7, DirBuster-1.0-RC1, gobuster/3.1.0
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

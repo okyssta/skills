@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Wire Promptfoo and DeepTeam into CI/CD for automated regression red-teaming
   of LLM apps against OWASP LLM Top 10 and OWASP Agentic presets, failing the build
@@ -212,8 +211,4 @@ promptfoo redteam run --filter-failing results.json
 - [ ] `results.json` artifact archived per run for regression tracking.
 - [ ] Attack-success-rate per OWASP category trended across releases.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

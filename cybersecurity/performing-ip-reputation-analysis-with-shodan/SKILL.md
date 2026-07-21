@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze IP address reputation using the Shodan API to identify open ports,
   running services, known vulnerabilities, and hosting context for threat intelligence
@@ -306,8 +305,4 @@ def correlate_infrastructure(enricher, ip_address):
 - [Torq: Shodan IP Enrichment Workflow](https://kb.torq.io/en/articles/9350284-shodan-ip-address-enrichment-with-cache-workflow-template)
 - [Recorded Future: Shodan Integration](https://support.recordedfuture.com/hc/en-us/articles/115001403928-Shodan)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

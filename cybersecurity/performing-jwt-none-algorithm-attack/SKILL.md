@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Execute and test the JWT none algorithm attack to bypass signature verification
   by manipulating the alg header field in JSON Web Tokens.
@@ -345,8 +344,4 @@ def verify_token_secure(token: str, secret_key: str) -> dict:
 - HackTricks JWT Vulnerabilities: https://book.hacktricks.xyz/pentesting-web/hacking-jwt-json-web-tokens
 - Invicti JWT Signature Bypass: https://www.invicti.com/web-vulnerability-scanner/vulnerabilities/jwt-signature-bypass-via-none-algorithm
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

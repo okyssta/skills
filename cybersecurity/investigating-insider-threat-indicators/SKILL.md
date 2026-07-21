@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Investigates insider threat indicators including data exfiltration attempts,
   unauthorized access patterns, policy violations, and pre-departure behaviors using
@@ -313,8 +312,4 @@ Recommendation:       Immediate access revocation recommended
                       Evidence package prepared for Legal review
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

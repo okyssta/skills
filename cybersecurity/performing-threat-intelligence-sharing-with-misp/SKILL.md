@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Use PyMISP to create, enrich, and share threat intelligence events on
   a MISP platform, including IOC management, feed integration, STIX export, and community
@@ -69,8 +68,4 @@ MISP (Malware Information Sharing Platform) is an open-source threat intelligenc
 
 A JSON report summarizing events created, attributes added, tags applied, feed sync status, and any correlation hits against existing intelligence, with event IDs and distribution metadata.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

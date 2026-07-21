@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Conduct authorized physical penetration testing using tailgating, badge
   cloning, lock bypassing, and rogue device deployment to evaluate facility security
@@ -218,8 +217,4 @@ Search external waste containers and recycling bins for:
 - Deviant Ollam - Physical Security Assessment methodology
 - MITRE ATT&CK T1200: https://attack.mitre.org/techniques/T1200/
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

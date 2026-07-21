@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Configures pfSense firewall rules, NAT policies, VPN tunnels, and traffic
   shaping to enforce network segmentation, control traffic flow, and protect internal
@@ -353,8 +352,4 @@ Enable automatic backups to Netgate cloud or local storage
 - Logging: All traffic forwarded to SIEM (10.10.20.15)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

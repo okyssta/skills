@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Conducts authorized wireless network penetration tests to assess the
   security of WiFi infrastructure by testing for weak encryption protocols, captive
@@ -189,8 +188,4 @@ the WPA2-Enterprise authentication required for employee access.
 5. Deploy WIDS to detect deauthentication attacks and rogue access points
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

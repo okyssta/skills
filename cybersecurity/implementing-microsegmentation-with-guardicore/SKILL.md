@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing microsegmentation using Akamai Guardicore Segmentation
   to map application dependencies, create granular network policies, visualize east-west
@@ -351,8 +350,4 @@ PCI CDE ISOLATION:
   Lateral movement paths blocked: 95%
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

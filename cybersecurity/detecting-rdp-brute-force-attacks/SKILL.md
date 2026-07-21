@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect RDP brute force attacks by analyzing Windows Security Event Logs
   for failed authentication patterns (Event ID 4625), successful logons after failures
@@ -78,8 +77,4 @@ JSON report containing:
 - Successful logons following brute force attempts (potential compromises)
 - Time-series analysis of attack intensity
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

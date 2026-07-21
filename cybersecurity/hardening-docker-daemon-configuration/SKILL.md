@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Harden the Docker daemon by configuring daemon.json with user namespace
   remapping, TLS authentication, rootless mode, and CIS benchmark controls.
@@ -331,8 +330,4 @@ docker run --rm --net host --pid host \
 9. **Run Docker Bench regularly** - Automate CIS benchmark checks
 10. **Keep Docker updated** - Apply security patches promptly
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

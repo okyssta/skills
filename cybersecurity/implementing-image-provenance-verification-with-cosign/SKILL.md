@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Sign and verify container image provenance using Sigstore Cosign with
   keyless OIDC-based signing, attestations, and Kubernetes admission enforcement.
@@ -332,8 +331,4 @@ cosign verify ghcr.io/myorg/myapp:v1.0.0 \
 7. **Verify the full chain**: signature + certificate + Rekor inclusion
 8. **Include build metadata** as annotations on signatures
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

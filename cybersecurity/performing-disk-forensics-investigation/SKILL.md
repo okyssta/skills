@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Conducts disk forensics investigations using forensic imaging, file
   system analysis, artifact recovery, and timeline reconstruction to support incident
@@ -273,8 +272,4 @@ TOOLS USED
 - MFTECmd 1.2.2 (MFT analysis)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Probe RAG applications for prompt injection via poisoned retrieved context
   and embedding manipulation.
@@ -272,8 +271,4 @@ Collect garak's HTML/JSONL report, Promptfoo's report, and PyRIT memory transcri
 - [ ] Remediation recommendations provided (context isolation, output filtering, corpus provenance)
 - [ ] Report delivered with severity ratings and reproduction steps
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

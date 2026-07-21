@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Campaign attribution analysis involves systematically evaluating evidence
   to determine which threat actor or group is responsible for a cyber operation. This
@@ -244,8 +243,4 @@ def generate_attribution_report(analyzer):
 - [Analysis of Competing Hypotheses](https://www.cia.gov/static/9a5f1162fd0932c29e985f0159f56c07/Tradecraft-Primer-apr09.pdf)
 - [Threat Attribution Framework](https://www.mandiant.com/resources/reports)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

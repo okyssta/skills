@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Proactively hunt for adversary abuse of legitimate system binaries (LOLBins)
   to execute malicious payloads while evading detection.
@@ -115,8 +114,4 @@ Detection Rules Created/Updated: [List]
 Recommendations: [Next steps]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Extract DPAPI-protected secrets such as credentials and browser data
   offline and online.
@@ -211,8 +210,4 @@ donpapi collect -u alice -p 'Password123!' -d corp.local --target 10.0.0.0/24
 - [ ] Domain DPAPI backup key retrieved with Domain Admin (if in scope) and reused offline.
 - [ ] All recovered secrets documented with source host/user and ROE adherence confirmed.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

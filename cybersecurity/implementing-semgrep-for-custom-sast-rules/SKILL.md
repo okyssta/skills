@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Write custom Semgrep SAST rules in YAML to detect application-specific
   vulnerabilities, enforce coding standards, and integrate into CI/CD pipelines.
@@ -331,8 +330,4 @@ vendor/
 7. **Version control rules** in a shared repository
 8. **Run in CI as a blocking check** for ERROR severity findings
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

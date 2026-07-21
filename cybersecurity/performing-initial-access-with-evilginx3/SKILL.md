@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform authorized initial access using EvilGinx3 adversary-in-the-middle
   phishing framework to capture session tokens and bypass multi-factor authentication
@@ -184,8 +183,4 @@ EvilGinx3 is a man-in-the-middle attack framework used for phishing login creden
 - [ ] Post-authentication access to target service confirmed
 - [ ] Evidence documented with screenshots and session logs
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: team-cybersecurity
 category: cybersecurity
 description: 'Generates structured cyber threat intelligence reports at strategic,
   operational, and tactical levels tailored to specific audiences including executives,
@@ -156,8 +155,4 @@ Before dissemination, apply these checks:
 - **Stale intelligence**: Publishing a report on a threat campaign that was resolved 2 weeks ago creates alarm without utility. Include freshness dating on all claims.
 - **Over-classification**: Applying TLP:RED to information that could be TLP:GREEN impedes community sharing and limits defensive value across the sector.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

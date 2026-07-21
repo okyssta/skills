@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Craft, send, sniff, and dissect network packets using Scapy for protocol
   analysis, network reconnaissance, and traffic anomaly detection in authorized security
@@ -63,8 +62,4 @@ Scapy is a Python packet manipulation library that enables crafting, sending, sn
 
 JSON report containing packet statistics, protocol distribution, top source/destination IPs, detected anomalies (SYN floods, DNS tunneling indicators, fragmentation attacks), and per-flow summaries.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect bootkits such as BlackLotus and Bootkitty and Secure Boot bypass
   via DBX and binary checks.
@@ -190,8 +189,4 @@ sudo python scripts/agent.py --check-chipsec --output secureboot_report.json
 - [ ] ESP inspected for unauthorized or recently modified binaries.
 - [ ] Findings documented with remediation (dbx update / firmware update) per host.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

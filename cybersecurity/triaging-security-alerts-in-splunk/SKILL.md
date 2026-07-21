@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Triages security alerts in Splunk Enterprise Security by classifying
   severity, investigating notable events, correlating related telemetry, and making
@@ -225,8 +224,4 @@ Action:       Escalated to Tier 2, ticket IR-2024-0431 created
               Account jsmith disabled pending password reset
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

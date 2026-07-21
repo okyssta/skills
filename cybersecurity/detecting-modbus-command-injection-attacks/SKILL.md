@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detect command injection attacks against Modbus TCP/RTU protocol in
   ICS environments by monitoring for unauthorized write operations, anomalous function
@@ -518,8 +517,4 @@ RECOMMENDED ACTIONS:
   3. Validate PLC register values against known-good state
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

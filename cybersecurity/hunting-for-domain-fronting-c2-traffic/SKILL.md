@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect domain fronting C2 traffic by analyzing SNI vs HTTP Host header
   mismatches in proxy logs and TLS certificate discrepancies using pyOpenSSL for certificate
@@ -65,8 +64,4 @@ Domain fronting (MITRE ATT&CK T1090.004) is a technique where attackers use diff
 
 JSON report containing detected domain fronting indicators with SNI-Host pairs, certificate details, CDN provider identification, confidence scores, and MITRE ATT&CK technique mapping.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

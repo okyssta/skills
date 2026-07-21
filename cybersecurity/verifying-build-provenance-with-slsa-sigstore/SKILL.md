@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Verify signed artifacts and SLSA build provenance with Sigstore cosign
   and slsa-verifier, enforce keyless OIDC identity, and apply SLSA Build levels to
@@ -194,8 +193,4 @@ Document the level each consumed artifact achieves:
 - [ ] Verification wired as a fail-closed CI/admission gate
 - [ ] Each consumed artifact assigned a SLSA Build level
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

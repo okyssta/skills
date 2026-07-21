@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploy and configure the Dragos Platform for OT network monitoring,
   leveraging its 600+ industrial protocol parsers, intelligence-driven threat detection
@@ -367,8 +366,4 @@ SIEM INTEGRATION:
   Events Forwarded (Last 24h): [count]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

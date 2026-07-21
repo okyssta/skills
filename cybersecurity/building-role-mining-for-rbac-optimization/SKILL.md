@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Apply bottom-up and top-down role mining techniques to discover optimal
   RBAC roles from existing user-permission assignments, reducing role explosion and
@@ -260,8 +259,4 @@ After mining candidate roles:
 - [Formal Concept Analysis for Role Engineering](https://link.springer.com/chapter/10.1007/978-3-540-73070-6_7)
 - [scikit-learn Clustering Documentation](https://scikit-learn.org/stable/modules/clustering.html)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

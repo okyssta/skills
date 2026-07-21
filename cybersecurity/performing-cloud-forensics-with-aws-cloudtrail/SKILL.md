@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform forensic investigation of AWS environments using CloudTrail logs
   to reconstruct attacker activity, identify compromised credentials, and analyze
@@ -94,8 +93,4 @@ Data Accessed: [S3 objects, secrets, etc.]
 Persistence Mechanisms: [New users, keys, roles]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

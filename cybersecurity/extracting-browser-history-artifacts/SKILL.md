@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Extract and analyze browser history, cookies, cache, downloads, and bookmarks
   from Chrome, Firefox, and Edge for forensic evidence of user web activity.
@@ -352,8 +351,4 @@ Browser Forensics Summary:
     Full Report:      /analysis/hindsight_report.xlsx
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

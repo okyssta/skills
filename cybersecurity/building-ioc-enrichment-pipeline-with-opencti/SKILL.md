@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: OpenCTI is an open-source platform for managing cyber threat intelligence
   knowledge, built on STIX 2.1 as its native data model. This skill covers building
@@ -275,8 +274,4 @@ class CustomEnrichmentConnector:
 if __name__ == "__main__":
     connector = CustomEnrichmentConnector()
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

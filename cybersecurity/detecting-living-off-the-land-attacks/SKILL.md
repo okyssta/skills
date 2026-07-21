@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detect abuse of legitimate Windows binaries (LOLBins) used for living
   off the land attacks. Monitors process creation, command-line arguments, and parent-child
@@ -518,8 +517,4 @@ foreach ($binary in $lolbins_to_restrict) {
 - Validate false positive rates by running detection rules against 7 days of baseline telemetry from a clean environment
 - Cross-reference detections against the LOLBAS project database at https://lolbas-project.github.io/ for completeness
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

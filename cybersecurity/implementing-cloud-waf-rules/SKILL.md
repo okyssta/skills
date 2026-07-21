@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers deploying and tuning Web Application Firewall rules
   on AWS WAF, Azure WAF, and Cloudflare to protect cloud-hosted applications against
@@ -319,8 +318,4 @@ FALSE POSITIVE ANALYSIS:
   Action Taken: Rule exclusion applied
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

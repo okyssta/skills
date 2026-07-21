@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Traces ransomware cryptocurrency payment flows using blockchain analysis
   tools such as Chainalysis Reactor, WalletExplorer, and blockchain.com APIs. Identifies
@@ -178,8 +177,4 @@ CLUSTER ANALYSIS:
 - **blockchain.com API**: Free API for querying Bitcoin address balances and transaction histories
 - **OFAC SDN List**: U.S. Treasury sanctioned address list for compliance checking
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Analyzes UEFI bootkit persistence mechanisms including firmware implants
   in SPI flash, EFI System Partition (ESP) modifications, Secure Boot bypass techniques,
@@ -365,8 +364,4 @@ REMEDIATION
 8. Monitor MeasuredBoot logs for anomalous boot component loading
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

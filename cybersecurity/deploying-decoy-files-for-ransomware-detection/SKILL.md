@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploys canary files (honeytokens) across file systems to detect ransomware
   encryption activity in real time. Uses strategically placed decoy documents monitored
@@ -199,8 +198,4 @@ mv /path/to/canary/report.xlsx /path/to/canary/report.xlsx.locked
 - **Elastic Endpoint**: Uses canary files internally for ransomware protection and key capture
 - **Sysmon**: Windows system monitor that logs file creation events (Event ID 11) for canary file monitoring
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

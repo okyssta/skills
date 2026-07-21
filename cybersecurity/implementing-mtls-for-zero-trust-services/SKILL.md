@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Configures mutual TLS (mTLS) authentication between microservices using
   Python cryptography library for certificate generation and ssl module for TLS verification.
@@ -84,8 +83,4 @@ context.load_verify_locations("ca.pem")
 context.verify_mode = ssl.CERT_REQUIRED
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

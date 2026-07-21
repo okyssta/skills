@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements privileged session monitoring and recording using Privileged
   Access Management (PAM) solutions, focusing on CyberArk Privileged Session Manager
@@ -341,8 +340,4 @@ Example CEF Event:
 - [ ] Auditors can search, review, and annotate sessions through the PVWA interface
 - [ ] Terminated sessions leave a complete recording up to the point of termination
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill details how to conduct cloud security audits using Center
   for Internet Security benchmarks for AWS, Azure, and GCP. It covers interpreting
@@ -267,8 +266,4 @@ REMEDIATION PRIORITY:
   Low (Fix within 90 days):      Level 2 controls, informational items
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

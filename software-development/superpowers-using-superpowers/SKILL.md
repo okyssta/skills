@@ -59,15 +59,11 @@ These thoughts mean STOP—you're rationalizing:
 
 If your harness appears here, read its reference file for special instructions:
 
-- Codex: `references/codex-tools.md`
+- Hermes: `references/hermes-tools.md`
 - Pi: `references/pi-tools.md`
-- Hermes: `references/antigravity-tools.md`
+- Hermes: `references/hermes-tools.md`
 
 ## User Instructions
 
-User instructions (CLAUDE.md, AGENTS.md, GEMINI.md, etc, direct requests) take precedence over skills, which in turn override default behavior. Only skip skill workflows or instructions when your human partner has explicitly told you to.
-
----
-
-*Adapted for Hermes Agent from the Superpowers methodology ([obra/superpowers](https://github.com/obra/superpowers)). Original concepts modified for the Hermes subagent/delegate_task workflow.*
+User instructions, explicit requests, and project conventions take precedence over skills. Only skip skill workflows when the user has explicitly told you to.
 

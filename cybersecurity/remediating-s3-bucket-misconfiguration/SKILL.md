@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill provides step-by-step procedures for identifying and remediating
   Amazon S3 bucket misconfigurations that expose sensitive data to unauthorized access.
@@ -319,8 +318,4 @@ SUMMARY:
   Block Public Access: 156/156 buckets
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Implements FIDO2/WebAuthn hardware security key authentication including
   registration ceremonies, authentication flows, YubiKey enrollment, and passkey migration
@@ -223,8 +222,4 @@ Plan and execute migration from passwords to passkeys:
 | bob | YubiKey Primary | 2fc0579f... | 2026-02-16 | 2026-03-19 | 631 |
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

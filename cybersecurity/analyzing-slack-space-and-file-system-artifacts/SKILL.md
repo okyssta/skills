@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Examine file system slack space, MFT entries, USN journal, and alternate
   data streams to recover hidden data and reconstruct file activity on NTFS volumes.
@@ -401,8 +400,4 @@ File System Artifact Analysis:
   Reports: /cases/case-2024-001/analysis/
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

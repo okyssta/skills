@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Auditing Kubernetes cluster RBAC configurations to identify overly permissive
   roles, wildcard permissions, dangerous ClusterRoleBindings, service account abuse,
@@ -331,8 +330,4 @@ SUMMARY:
   Privileged containers: 8
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

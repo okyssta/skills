@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy and configure Wazuh SIEM/XDR for endpoint detection including
   agent management, custom decoder and rule XML creation, alert querying via the Wazuh
@@ -68,8 +67,4 @@ Use the /logtest endpoint to validate decoder and rule logic against sample log 
 
 JSON report with agent inventory, alert statistics, rule coverage, and logtest validation results.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

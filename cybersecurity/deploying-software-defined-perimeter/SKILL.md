@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy a Software-Defined Perimeter using the CSA v2.0 specification
   with Single Packet Authorization, mutual TLS, and SDP controller/gateway configuration
@@ -193,8 +192,4 @@ SDP connections are provisioned on-demand based on real-time policy evaluation. 
 - CISA Zero Trust Maturity Model v2.0
 - fwknop: Single Packet Authorization implementation
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

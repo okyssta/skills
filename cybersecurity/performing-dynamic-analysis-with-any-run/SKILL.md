@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs interactive dynamic malware analysis using the ANY.RUN cloud
   sandbox to observe real-time execution behavior, interact with malware prompts,
@@ -277,8 +276,4 @@ payload.dll  SHA-256: abc123... Detection: 48/72 (VirusTotal)
 config.dat   SHA-256: def456... (encrypted configuration)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

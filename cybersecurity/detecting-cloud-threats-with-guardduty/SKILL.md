@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill teaches security teams how to deploy and operationalize Amazon
   GuardDuty for continuous threat detection across AWS accounts and workloads. It
@@ -297,8 +296,4 @@ STATISTICS:
   Pending Investigation: 2
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

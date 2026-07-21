@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Tests API rate limiting implementations for bypass vulnerabilities by
   manipulating request headers, IP addresses, HTTP methods, API versions, and encoding
@@ -423,8 +422,4 @@ At 1000 attempts per minute, a 6-digit PIN can be brute-forced in under
 6. Implement progressive delays (exponential backoff) in addition to hard limits
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

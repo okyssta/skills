@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs Linux memory acquisition using LiME (Linux Memory Extractor)
   kernel module and analysis with Volatility 3 framework. Extracts process lists,
@@ -91,8 +90,4 @@ vol3 -f memory.lime linux.malfind
 vol3 -f memory.lime linux.lsmod
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

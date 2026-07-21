@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: GoPhish is an open-source phishing simulation framework used by security
   teams to conduct authorized phishing awareness campaigns. It provides campaign management,
@@ -121,8 +120,4 @@ Use the automation script to pull campaign data via GoPhish API and generate det
 - Generate campaign report with open/click/submit rates
 - Redirect users to awareness training after interaction
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: A Certificate Authority (CA) is the trust anchor in a PKI hierarchy,
   responsible for issuing, signing, and revoking digital certificates. This skill
@@ -101,8 +100,4 @@ Root CA (offline, air-gapped)
 - [ ] Revoked certificates appear in CRL
 - [ ] Certificate policies are correctly embedded
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

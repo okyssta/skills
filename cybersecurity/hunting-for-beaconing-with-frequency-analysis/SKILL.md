@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Identify command-and-control beaconing patterns in network traffic by
   applying statistical frequency analysis, jitter calculation, and coefficient of
@@ -171,8 +170,4 @@ Risk Level: [Critical/High/Medium/Low]
 Indicators: [List of triggered risk factors]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

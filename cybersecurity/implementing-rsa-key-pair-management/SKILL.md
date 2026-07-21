@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: RSA (Rivest-Shamir-Adleman) is the most widely deployed asymmetric cryptographic
   algorithm, used for digital signatures, key exchange, and encryption. This skill
@@ -101,8 +100,4 @@ RSA (Rivest-Shamir-Adleman) is the most widely deployed asymmetric cryptographic
 - [ ] Key fingerprint is computed correctly
 - [ ] Key rotation maintains old key access for verification
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

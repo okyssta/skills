@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Business Email Compromise (BEC) is a sophisticated fraud scheme where
   attackers impersonate executives, vendors, or trusted partners to trick employees
@@ -105,8 +104,4 @@ Business Email Compromise (BEC) is a sophisticated fraud scheme where attackers 
 - Account compromise detection catches simulated attacks
 - Reduced BEC susceptibility in awareness assessments
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

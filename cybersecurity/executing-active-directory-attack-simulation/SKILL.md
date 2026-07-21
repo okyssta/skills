@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Executes authorized attack simulations against Active Directory environments
   to identify misconfigurations, weak credentials, dangerous privilege paths, and
@@ -192,8 +191,4 @@ could access all 5,000 user accounts, 800 computer objects, and all data within 
 6. Deploy Microsoft Defender for Identity to detect Kerberoasting and DCSync attacks
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

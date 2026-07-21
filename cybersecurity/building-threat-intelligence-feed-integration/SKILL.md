@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Builds automated threat intelligence feed integration pipelines connecting
   STIX/TAXII feeds, open-source threat intel, and commercial TI platforms into SIEM
@@ -343,8 +342,4 @@ Actions Today:
   False positives:      3 (CDN IPs removed from feed)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

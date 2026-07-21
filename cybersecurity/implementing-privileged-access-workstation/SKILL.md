@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Design and implement Privileged Access Workstations (PAWs) with device
   hardening, just-in-time access, and integration with CyberArk or BeyondTrust for
@@ -64,8 +63,4 @@ A Privileged Access Workstation (PAW) is a hardened device dedicated to performi
 - JSON report listing device compliance status, hardening checks, JIT access windows, and PAM integration verification
 - Risk scoring per workstation with remediation recommendations
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

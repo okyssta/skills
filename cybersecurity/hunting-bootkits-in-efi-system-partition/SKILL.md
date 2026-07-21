@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Baseline the EFI System Partition and hunt malicious EFI binaries (ESPecter,
   BlackLotus, Bootkitty, Glupteba) by mounting the ESP, hashing and verifying boot
@@ -225,8 +224,4 @@ Record every anomalous binary (path, hash, signature status, baseline diff resul
 - [ ] TPM PCR 0/2/4 measurements compared to baseline (where TPM present)
 - [ ] Forensic ESP image preserved and all findings documented
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

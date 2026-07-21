@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze WAF (ModSecurity/AWS WAF/Cloudflare) logs to detect SQL injection
   attack campaigns. Parses ModSecurity audit logs and JSON WAF event logs to identify
@@ -71,8 +70,4 @@ Source IP: 203.0.113.42 (47 requests in 5 minutes)
 Classification: UNION-based SQLi campaign
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

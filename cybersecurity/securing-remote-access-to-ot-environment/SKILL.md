@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers implementing secure remote access to OT/ICS environments
   for operators, engineers, and vendors while preventing unauthorized access that
@@ -391,8 +390,4 @@ VENDOR ACCESS:
   Recorded: [N]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy MISP (Malware Information Sharing Platform) to aggregate, correlate,
   and distribute threat intelligence feeds from multiple sources for centralized IOC
@@ -346,8 +345,4 @@ exporter.export_ioc_list("blocklist_ips.txt", ioc_types=["ip-dst"], days=7)
 - [Kraven Security: MISP Using Feeds](https://kravensecurity.com/threat-intelligence-with-misp-part-4-using-feeds/)
 - [Cosive: What is MISP](https://www.cosive.com/blog/what-is-misp-the-ultimate-introduction)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

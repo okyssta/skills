@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Simulates VLAN hopping attacks using switch spoofing and double tagging
   techniques in authorized environments to test VLAN segmentation effectiveness and
@@ -334,8 +333,4 @@ EOF
 6. Set VTP to transparent mode on all switches
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

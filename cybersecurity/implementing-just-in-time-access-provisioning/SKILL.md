@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement Just-In-Time (JIT) access provisioning to eliminate standing
   privileges by granting temporary, time-bound access only when needed. This skill
@@ -133,8 +132,4 @@ Implement Just-In-Time (JIT) access provisioning to eliminate standing privilege
 - [ ] Standing privileges reduced by measurable percentage
 - [ ] Mean time to access meets business SLA
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Pod Security Standards (PSS) define three levels of security policies
   -- Privileged, Baseline, and Restricted -- enforced by the Pod Security Admission
@@ -269,8 +268,4 @@ kubescape scan framework nsa --namespace production
 - [Migrate from PodSecurityPolicy](https://kubernetes.io/docs/tasks/configure-pod-container/migrate-from-psp/)
 - [Kubescape PSS Scanner](https://github.com/kubescape/kubescape)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

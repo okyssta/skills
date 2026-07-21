@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect Kerberoasting attacks by monitoring for anomalous Kerberos TGS
   requests targeting service accounts with SPNs for offline password cracking.
@@ -97,8 +96,4 @@ Confidence: [High/Medium/Low]
 Recommended Action: [Containment, investigation, monitoring]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

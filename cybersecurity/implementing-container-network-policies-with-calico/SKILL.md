@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Enforce Kubernetes network segmentation using Calico CNI network policies
   and global network policies to control pod-to-pod traffic, restrict egress, and
@@ -67,8 +66,4 @@ Test connectivity between pods to verify policies are correctly enforced.
 
 JSON audit report listing all network policies, unprotected namespaces, policy rule counts, and connectivity test results.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: team-cybersecurity
 category: cybersecurity
 description: 'Analyzes intrusion activity against the Lockheed Martin Cyber Kill Chain
   framework to identify which phases an adversary has completed, where defenses succeeded
@@ -149,8 +148,4 @@ Structure findings as:
 - **Missing insider threats**: The kill chain was designed for external adversaries. Insider threats may skip directly to Phase 7 without traversing earlier phases.
 - **Confusing with ATT&CK tactics**: The 7-phase kill chain and 14 ATT&CK tactics are complementary but not directly equivalent. Maintain distinction to prevent analytic confusion.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

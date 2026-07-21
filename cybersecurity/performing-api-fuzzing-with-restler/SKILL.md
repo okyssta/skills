@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Uses Microsoft RESTler to perform stateful REST API fuzzing by automatically
   generating and executing test sequences that exercise API endpoints, discover producer-consumer
@@ -383,8 +382,4 @@ EOF
   PUT /config/advanced, POST /webhooks/test
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

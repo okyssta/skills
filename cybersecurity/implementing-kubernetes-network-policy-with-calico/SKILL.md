@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement Kubernetes network segmentation using Calico NetworkPolicy
   and GlobalNetworkPolicy for zero-trust pod-to-pod communication.
@@ -332,8 +331,4 @@ kubectl exec -n production frontend-pod -- wget -qO- --timeout=2 http://backend-
 7. **Monitor denied traffic** - Enable Calico flow logs for visibility into blocked connections
 8. **Use tiers** - Organize policies into security, platform, and application tiers
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

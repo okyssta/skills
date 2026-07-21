@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Hash cracking is an essential skill for penetration testers and security
   auditors to evaluate password strength. Hashcat is the world's fastest password
@@ -96,8 +95,4 @@ Hash cracking is an essential skill for penetration testers and security auditor
 - [ ] Results report shows password strength distribution
 - [ ] All operations performed within authorized scope
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

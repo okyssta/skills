@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect dangerous ACL misconfigurations in Active Directory using ldap3
   to identify GenericAll, WriteDACL, and WriteOwner abuse paths
@@ -89,8 +88,4 @@ This skill uses the ldap3 Python library to connect to a Domain Controller, quer
 }
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

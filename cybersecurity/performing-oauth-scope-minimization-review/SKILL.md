@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs OAuth 2.0 scope minimization review to identify over-permissioned
   third-party application integrations, excessive API scopes, unused token grants,
@@ -623,8 +622,4 @@ Priority 4 (Next Quarter): 31 stale grant revocations
 Estimated Scope Reduction:  34% of total permissions
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: team-cybersecurity
 category: cybersecurity
 description: 'Monitors dark web forums, marketplaces, paste sites, and ransomware
   leak sites for mentions of organizational assets, leaked credentials, threatened
@@ -145,8 +144,4 @@ For each dark web finding:
 - **Inadequate legal review**: Dark web monitoring must be reviewed by legal counsel — passive monitoring is generally lawful but active participation in criminal markets is not.
 - **No evidence preservation**: Dark web content disappears rapidly. Capture timestamped evidence immediately upon discovery using commercial service exports.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Triage and prioritize vulnerabilities using CISA's Stakeholder-Specific
   Vulnerability Categorization (SSVC) decision tree framework to produce actionable
@@ -214,8 +213,4 @@ print('All SSVC decision tests passed')
 - [FIRST EPSS API](https://www.first.org/epss/)
 - [CISA Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

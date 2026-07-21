@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers detecting sophisticated cyber-physical attacks that
   follow the Stuxnet attack pattern of modifying PLC logic while spoofing sensor readings
@@ -494,8 +493,4 @@ ENGINEERING WORKSTATION:
   USB connections: [N]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

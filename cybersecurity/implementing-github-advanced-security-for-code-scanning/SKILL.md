@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure GitHub Advanced Security with CodeQL to perform automated static
   analysis and vulnerability detection across repositories at enterprise scale.
@@ -213,8 +212,4 @@ The organization-level security overview provides:
 - [SARIF Specification](https://sarifweb.azurewebsites.net/)
 - [GitHub Security Overview](https://docs.github.com/en/code-security/security-overview/about-security-overview)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

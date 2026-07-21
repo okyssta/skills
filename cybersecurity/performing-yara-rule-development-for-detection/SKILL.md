@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Develop precise YARA rules for malware detection by identifying unique
   byte patterns, strings, and behavioral indicators in executable files while minimizing
@@ -344,8 +343,4 @@ def benchmark_rule(rule_text, scan_directory, iterations=3):
 - [ReversingLabs - Writing Detailed YARA Rules](https://www.reversinglabs.com/blog/writing-detailed-yara-rules-for-malware-detection)
 - [YARA Rule Crafting Deep Dive](https://cyberthreatintelligencenetwork.com/index.php/2024/09/11/yara-rule-crafting-a-deep-dive-into-signature-based-threat-hunting-strategies/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

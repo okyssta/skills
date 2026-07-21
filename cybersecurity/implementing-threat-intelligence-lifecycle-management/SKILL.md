@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement a structured threat intelligence lifecycle encompassing planning,
   collection, processing, analysis, dissemination, and feedback stages to produce
@@ -392,8 +391,4 @@ disseminator = IntelligenceDisseminator()
 - [STIX/TAXII Documentation](https://oasis-open.github.io/cti-documentation/)
 - [CISA Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

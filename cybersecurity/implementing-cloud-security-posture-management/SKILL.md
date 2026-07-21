@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing Cloud Security Posture Management (CSPM) to continuously
   monitor multi-cloud environments for misconfigurations, compliance violations, and
@@ -302,8 +301,4 @@ AUTO-REMEDIATION (Last 7 Days):
   Exceptions approved:        8
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

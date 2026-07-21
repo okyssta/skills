@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy and configure the Havoc C2 framework with teamserver, HTTPS listeners,
   redirectors, and Demon agents for authorized red team operations.
@@ -310,8 +309,4 @@ demon> rportfwd start 8080 TARGET_INTERNAL 80
 - RedTeamOps Havoc 101: https://github.com/WesleyWong420/RedTeamOps-Havoc-101
 - Deploying Havoc C2 via Terraform: https://www.100daysofredteam.com/p/red-team-infrastructure-deploying-havoc-c2-via-terraform
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

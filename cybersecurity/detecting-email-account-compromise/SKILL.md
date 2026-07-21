@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect compromised O365 and Google Workspace email accounts by analyzing
   inbox rule creation, suspicious sign-in locations, mail forwarding rules, and unusual
@@ -68,8 +67,4 @@ Email account compromise (EAC) is a prevalent attack vector where adversaries ga
 
 A JSON report listing compromised or suspicious accounts, malicious inbox rules detected, impossible travel events, suspicious OAuth grants, and recommended containment actions with severity ratings.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

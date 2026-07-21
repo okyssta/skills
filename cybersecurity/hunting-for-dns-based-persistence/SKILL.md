@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Hunt for DNS-based persistence mechanisms including DNS hijacking, dangling
   CNAME records, wildcard DNS abuse, and unauthorized zone modifications using passive
@@ -74,8 +73,4 @@ Correlate DNS anomalies with threat intelligence feeds, check resolution targets
 
 JSON report listing DNS anomalies with record type, historical changes, risk severity, and remediation recommendations for each finding.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

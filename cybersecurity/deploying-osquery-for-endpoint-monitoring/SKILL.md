@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploys and configures osquery for real-time endpoint monitoring using
   SQL-based queries to inspect running processes, open ports, installed software,
@@ -206,8 +205,4 @@ WHERE a.result != 'trusted';
 - **Not using differential mode**: Without differential logging, osquery logs all results every interval. Differential mode logs only changes.
 - **Missing event tables**: Some osquery tables require events framework enabled (process_events, socket_events). Enable with `--disable_events=false`.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

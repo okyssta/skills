@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Hardens Windows endpoints using CIS (Center for Internet Security) Benchmark
   recommendations to reduce attack surface, enforce security baselines, and meet compliance
@@ -211,8 +210,4 @@ Feed results into SIEM for drift detection and dashboard reporting.
 - **Forgetting local admin accounts**: CIS benchmarks assume domain-joined endpoints. Standalone systems require LGPO.exe or Microsoft Intune for baseline enforcement.
 - **No exception process**: Applying 100% of CIS recommendations is rarely feasible. Without a formal exception process, teams either ignore hardening or break applications.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

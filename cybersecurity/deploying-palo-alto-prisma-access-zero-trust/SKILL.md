@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploying Palo Alto Networks Prisma Access for SASE-based zero trust
   network access using GlobalProtect agents, ZTNA Connectors, security policy enforcement,
@@ -305,8 +304,4 @@ SECURITY (last 30 days):
   WildFire Submissions: 2,345
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

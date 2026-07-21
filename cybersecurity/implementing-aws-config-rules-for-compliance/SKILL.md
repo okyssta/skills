@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing AWS Config rules for continuous compliance monitoring of
   AWS resources, deploying managed and custom rules aligned to CIS and PCI DSS frameworks,
@@ -351,8 +350,4 @@ ACCOUNT COMPLIANCE RANKING:
   30. dev-sandbox (account-030):  68% compliant
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

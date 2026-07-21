@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure SAML 2.0 single sign-on for Google Workspace with a third-party
   identity provider, enabling centralized authentication and enforcing organization-wide
@@ -186,8 +185,4 @@ This is useful for allowing direct Google login from corporate network while enf
 - [Okta Google Workspace SAML Guide](https://saml-doc.okta.com/SAML_Docs/How-to-Enable-SAML-2.0-in-Google-Apps.html)
 - [SAML 2.0 Technical Overview - OASIS](https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

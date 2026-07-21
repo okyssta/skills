@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Model threat actors, intrusion sets, campaigns, and TTPs as a STIX 2.1
   knowledge graph in OpenCTI (Filigran) using the pycti Python client, connectors,
@@ -273,8 +272,4 @@ for r in rels:
 - [ ] MITRE ATT&CK connector enabled and importing techniques
 - [ ] Intrusion-set TTP profile queryable and exportable
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

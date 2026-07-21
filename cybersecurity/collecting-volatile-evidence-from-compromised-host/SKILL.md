@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Collect volatile forensic evidence from a compromised system following
   order of volatility, preserving memory, network connections, processes, and system
@@ -253,8 +252,4 @@ EOF
 - Evidence manifest with SHA256 checksums
 - Chain of custody documentation
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

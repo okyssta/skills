@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform DCSync attacks to replicate Active Directory credentials and
   establish domain persistence by extracting KRBTGT, Domain Admin, and service account
@@ -206,8 +205,4 @@ DCSync is an attack technique that abuses the Microsoft Directory Replication Se
 - [ ] Evidence documented with hash values and timestamps
 - [ ] Remediation recommendations provided (double KRBTGT reset, ACL audit)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Monitors Modbus TCP traffic on SCADA and ICS networks to detect anomalous
   function code usage, unauthorized register writes, and suspicious communication
@@ -349,8 +348,4 @@ for all scanned devices.
 indicators. Block FC 43 from non-engineering subnets at OT firewall.
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

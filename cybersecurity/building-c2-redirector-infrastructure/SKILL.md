@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Architect redirectors with nginx and Apache, malleable profiles, and
   OPSEC for resilient C2.
@@ -215,8 +214,4 @@ curl -k -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
 - [ ] Infrastructure rotation and decommissioning plan documented.
 - [ ] All activity confined to the authorized engagement scope.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

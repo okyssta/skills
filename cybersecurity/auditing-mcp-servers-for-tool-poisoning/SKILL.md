@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Scan Model Context Protocol servers and tool metadata for poisoning,
   SSRF, and unauthenticated exposure.
@@ -220,8 +219,4 @@ Document each finding with server, tool, evidence (the poisoned description / SS
 - [ ] Severity assigned and remediation documented for each finding
 - [ ] Re-scan scheduled to catch future rug pulls
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

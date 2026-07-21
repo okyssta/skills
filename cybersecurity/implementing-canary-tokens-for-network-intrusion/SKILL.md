@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Deploys DNS, HTTP, and AWS API key canary tokens across network infrastructure
   to detect unauthorized access and lateral movement. Integrates with webhook alerting
@@ -335,8 +334,4 @@ python scripts/agent.py --action inventory \
 - Grafana Canary Token Case Study: https://grafana.com/blog/2025/08/25/canary-tokens-learn-all-about-the-unsung-heroes-of-security-at-grafana-labs/
 - AWS Infrastructure Canarytoken: https://blog.thinkst.com/2025/09/introducing-the-aws-infrastructure-canarytoken.html
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

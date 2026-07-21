@@ -18,7 +18,7 @@ Load plan, review critically, execute all tasks, report when complete.
 
 **Announce at start:** "I'm using the executing-plans skill to implement this plan."
 
-**Note:** Tell your human partner that Superpowers works much better with access to subagents. The quality of its work will be significantly higher if run on a platform with subagent support (Hermes Agent, Hermes CLI, Codex App, and Copilot CLI all qualify; see the per-platform tool refs in `../using-superpowers/references/`). If subagents are available, use superpowers:delegate_task instead of this skill.
+**Note:** For best results, use Hermes Agent with `delegate_task` available. Subagent support enables the autonomous multi-task workflow this skill is designed for.
 
 ## The Process
 
@@ -75,8 +75,4 @@ After all tasks complete and verified:
 - **superpowers:git-worktree** - Ensures isolated workspace (creates one or verifies existing)
 - **superpowers:writing-plans** - Creates the plan this skill executes
 - **superpowers:finishing-a-development-branch** - Complete development after all tasks
-
----
-
-*Adapted for Hermes Agent from the Superpowers methodology ([obra/superpowers](https://github.com/obra/superpowers)). Original concepts modified for the Hermes subagent/delegate_task workflow.*
 

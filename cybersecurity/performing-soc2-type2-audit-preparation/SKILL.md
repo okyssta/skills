@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Automates SOC 2 Type II audit preparation including gap assessment against
   AICPA Trust Services Criteria (CC1-CC9), evidence collection from cloud providers
@@ -308,8 +307,4 @@ ir_evidence = {
 }
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

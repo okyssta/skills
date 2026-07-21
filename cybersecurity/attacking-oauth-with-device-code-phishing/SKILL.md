@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Run OAuth 2.0 device-code and illicit-consent phishing against Microsoft
   Entra ID to steal access and refresh tokens, bypass MFA, and pivot across Microsoft
@@ -244,8 +243,4 @@ Instead of device-code, register a malicious multi-tenant app and phish the vict
 - [ ] Accessible resources enumerated with ROADtools and recorded
 - [ ] Remediation recommendations (CA device-code block, FIDO2, consent restrictions) delivered
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

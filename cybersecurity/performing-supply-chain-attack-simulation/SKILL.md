@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Simulate and detect software supply chain attacks including typosquatting
   detection via Levenshtein distance, dependency confusion testing against private
@@ -66,8 +65,4 @@ Software supply chain attacks exploit trust in package registries through typosq
 
 JSON report with risk scores per package, detected attack vectors, hash verification results, and CVE findings.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

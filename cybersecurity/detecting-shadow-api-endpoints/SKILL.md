@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Discover and inventory shadow API endpoints that operate outside documented
   specifications using traffic analysis, code scanning, and API discovery platforms.
@@ -380,8 +379,4 @@ plugins:
 - Treblle Shadow API Tools: https://treblle.com/blog/top-tools-for-detecting-shadow-apis-and-how-treblle-differs
 - SecureLayer7 Shadow APIs: https://blog.securelayer7.net/shadow-apis-explained-risks-detection-and-prevention/
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

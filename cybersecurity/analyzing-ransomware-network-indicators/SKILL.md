@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Identify ransomware network indicators including C2 beaconing patterns,
   TOR exit node connections, data exfiltration flows, and encryption key exchange
@@ -68,8 +67,4 @@ Before and during ransomware execution, adversaries establish C2 channels, exfil
 - Data exfiltration flow analysis
 - Composite ransomware risk score with MITRE mapping (T1071, T1573, T1041)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Bypasses SSL/TLS certificate pinning implementations in Android and
   iOS applications to enable traffic interception during authorized security assessments.
@@ -244,8 +243,4 @@ After applying the bypass:
 - **Binary-level pinning**: Some apps validate certificates in native C/C++ code, which requires Interceptor.attach at native function addresses rather than Java/ObjC hooks.
 - **Dynamic pinning updates**: Apps using TrustKit or similar may fetch updated pins from a server. Monitor for pin rotation during testing.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

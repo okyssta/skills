@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Automates GDPR Data Subject Access Request (DSAR) workflows including
   identity verification, PII discovery across databases and files using regex and
@@ -303,8 +302,4 @@ for m in matches:
 - GDPR Article 12 (DSAR Modalities): https://gdpr-info.eu/art-12-gdpr/
 - Regulation (EU) 2025/2518 (Procedural Rules): Cross-border GDPR enforcement procedural rules
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

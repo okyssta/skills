@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Parses API Gateway access logs (AWS API Gateway, Kong, Nginx) to detect
   BOLA/IDOR attacks, rate limit bypass, credential scanning, and injection attempts.
@@ -81,8 +80,4 @@ scanner_ips = auth_failures.groupby("source_ip").size()
 scanners = scanner_ips[scanner_ips > 100]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

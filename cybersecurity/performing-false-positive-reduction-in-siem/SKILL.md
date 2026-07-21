@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform systematic SIEM false positive reduction through rule tuning,
   threshold adjustment, correlation refinement, and threat intelligence enrichment
@@ -232,8 +231,4 @@ earliest=-24h
 - [Prophet Security - Alert Tuning Best Practices](https://www.prophetsecurity.ai/blog/security-operations-center-soc-best-practices-alert-tuning)
 - [ManageEngine - Reducing SIEM Alert False Positives](https://www.manageengine.com/log-management/siem/reducing-siem-alert-false-positives.html)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

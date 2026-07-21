@@ -145,7 +145,3 @@ Run the command. Read the output. THEN claim the result.
 
 This is non-negotiable.
 
----
-
-*Adapted for Hermes Agent from the Superpowers methodology ([obra/superpowers](https://github.com/obra/superpowers)). Original concepts modified for the Hermes subagent/delegate_task workflow.*
-

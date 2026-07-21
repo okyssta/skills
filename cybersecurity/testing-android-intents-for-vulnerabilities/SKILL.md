@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Tests Android inter-process communication (IPC) through intents for
   vulnerabilities including intent injection, unauthorized component access, broadcast
@@ -195,8 +194,4 @@ run app.service.send com.target.app com.target.app.MessengerService \
 - **Implicit intents vs explicit**: Only implicit intents (action-based) are interceptable by other apps. Explicit intents (specifying target) are secure.
 - **Custom permissions**: Apps can define custom permissions with different protection levels (normal, dangerous, signature). Signature-level permissions are only grantable to apps signed with the same certificate.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement comprehensive API security testing using the 42Crunch platform
   to perform static audit and dynamic conformance scanning of OpenAPI specifications.
@@ -361,8 +360,4 @@ When 42Crunch identifies issues, follow this remediation process:
 - OWASP API Security Top 10 2023: https://owasp.org/API-Security/editions/2023/en/0x00-header/
 - Jenkins Plugin for 42Crunch: https://plugins.jenkins.io/42crunch-security-audit/
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

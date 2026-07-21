@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy and configure Suricata as a network intrusion prevention system
   with custom rules, Emerging Threats rulesets, and inline traffic inspection for
@@ -376,8 +375,4 @@ echo "rate_filter gen_id 1, sig_id 2100366, track by_src, count 10, seconds 60, 
 - [OISF Suricata GitHub](https://github.com/OISF/suricata)
 - [Suricata-Update Documentation](https://suricata-update.readthedocs.io/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

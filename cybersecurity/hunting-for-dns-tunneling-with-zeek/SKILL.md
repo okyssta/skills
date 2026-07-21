@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect DNS tunneling and data exfiltration by analyzing Zeek dns.log
   for high-entropy subdomain queries, excessive query volume, long query lengths,
@@ -148,8 +147,4 @@ Data Volume Estimate: [Bytes exfiltrated]
 Risk Level: [Critical/High/Medium/Low]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

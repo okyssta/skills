@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Detects typosquatting attacks in npm and PyPI package registries by
   analyzing package name similarity using Levenshtein distance and other string metrics,
@@ -177,8 +176,4 @@ Combine signals into a composite risk score and generate an actionable report:
 - MONITOR: Continue weekly scans for the full dependency watchlist
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

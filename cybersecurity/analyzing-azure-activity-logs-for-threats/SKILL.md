@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Queries Azure Monitor activity logs and sign-in logs via azure-monitor-query
   to detect suspicious administrative operations, impossible travel, privilege escalation,
@@ -87,8 +86,4 @@ AuditLogs
 '''
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

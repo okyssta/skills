@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure Fluentd and Fluent Bit for centralized log aggregation, routing,
   filtering, and enrichment across distributed infrastructure
@@ -67,8 +66,4 @@ This skill covers configuring Fluentd and Fluent Bit for centralized log collect
 - Log routing topology diagram (text-based)
 - Test event delivery confirmation
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

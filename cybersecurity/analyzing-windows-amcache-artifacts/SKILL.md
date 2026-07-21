@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Parses and analyzes the Windows Amcache.hve registry hive to extract
   evidence of program execution, application installation, and driver loading for
@@ -256,8 +255,4 @@ Combine Amcache data with other artifacts for a comprehensive timeline:
 - [ ] Amcache findings are correlated with Prefetch and ShimCache for execution confirmation
 - [ ] Final timeline integrates Amcache data with other forensic artifacts
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

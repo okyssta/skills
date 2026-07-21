@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Execute an internal network penetration test simulating an insider threat
   or post-breach attacker to identify lateral movement paths, privilege escalation
@@ -308,8 +307,4 @@ Attack Path 1: Domain Compromise via LLMNR Poisoning
 - Impacket: https://github.com/fortra/impacket
 - BloodHound: https://github.com/BloodHoundAD/BloodHound
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

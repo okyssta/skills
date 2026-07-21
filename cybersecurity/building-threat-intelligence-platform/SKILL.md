@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Building a Threat Intelligence Platform (TIP) involves deploying and
   integrating multiple CTI tools into a unified system for collecting, analyzing,
@@ -324,8 +323,4 @@ class TIPMetrics:
 - [Cortex Documentation](https://github.com/TheHive-Project/Cortex)
 - [MISP-OpenCTI Integration](https://docs.opencti.io/latest/deployment/connectors/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

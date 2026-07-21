@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Envelope encryption is a strategy where data is encrypted with a data
   encryption key (DEK), and the DEK itself is encrypted with a master key (KEK) managed
@@ -103,8 +102,4 @@ Envelope encryption is a strategy where data is encrypted with a data encryption
 - [ ] Encryption context is validated during decryption
 - [ ] Key rotation re-encrypts DEKs with new master key
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

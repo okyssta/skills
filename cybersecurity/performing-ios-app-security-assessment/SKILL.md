@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Performs comprehensive iOS application security assessments using Frida
   for dynamic instrumentation, Objection for runtime exploration, SSL pinning bypass
@@ -290,8 +289,4 @@ Store sensitive credentials with kSecAttrAccessibleWhenUnlockedThisDeviceOnly
 and enable biometric protection via kSecAccessControlBiometryCurrentSet.
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: devredious
 category: cybersecurity
 description: Pre-deployment security audit of Solidity smart contracts in a Foundry
   project. Combines static analysis (Slither, Aderyn), symbolic execution (Mythril),
@@ -167,8 +166,4 @@ affected contract/function/line, and remediation; plus the test/coverage summary
 single **PASS / FAIL** deploy gate. FAIL on any high/critical static finding, failing
 test, leaked secret, or coverage below the configured threshold on value-moving code.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

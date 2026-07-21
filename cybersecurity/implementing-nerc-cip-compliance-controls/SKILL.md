@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers implementing North American Electric Reliability Corporation
   Critical Infrastructure Protection (NERC CIP) compliance controls for Bulk Electric
@@ -434,8 +433,4 @@ COMPLIANCE STATUS BY STANDARD:
   CIP-013: [Status] - [N] gaps identified
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

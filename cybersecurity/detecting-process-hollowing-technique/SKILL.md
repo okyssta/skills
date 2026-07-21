@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect process hollowing (T1055.012) by analyzing memory-mapped sections,
   hollowed process indicators, and parent-child process anomalies in EDR telemetry.
@@ -109,8 +108,4 @@ User: [Account context]
 Risk Level: [Critical/High/Medium/Low]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

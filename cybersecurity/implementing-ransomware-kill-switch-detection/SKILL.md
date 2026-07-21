@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects and exploits ransomware kill switch mechanisms including mutex-based
   execution guards, domain-based kill switches, and registry-based termination checks.
@@ -227,8 +226,4 @@ During an active incident, scan endpoints for ransomware-associated mutexes:
 - **ANY.RUN**: Interactive malware sandbox that reports mutex creation during dynamic analysis
 - **PassiveDNS**: DNS monitoring infrastructure for detecting kill switch domain resolution attempts
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

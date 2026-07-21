@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Designs and implements a ransomware-resilient backup strategy following
   the 3-2-1-1-0 methodology (3 copies, 2 media types, 1 offsite, 1 immutable/air-gapped,
@@ -290,8 +289,4 @@ Document restore test results and maintain a recovery runbook with step-by-step 
 | 3 | 250 | 24hr | 48hr | Daily inc/Weekly full | Quarterly |
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detecting exposed AWS credentials in source code repositories, CI/CD
   pipelines, and configuration files using TruffleHog, git-secrets, and AWS-native
@@ -282,8 +281,4 @@ SUMMARY:
   Repositories with pre-commit hooks: 8 / 42
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Captures and analyzes network packet data using Wireshark and tshark
   to identify malicious traffic patterns, diagnose protocol issues, extract artifacts,
@@ -235,8 +234,4 @@ sha256sum capture.pcapng > capture_hash.txt
 - Response pattern: TXT records containing base64-encoded payloads
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

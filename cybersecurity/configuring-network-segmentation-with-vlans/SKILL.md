@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Designs and implements VLAN-based network segmentation on managed switches
   to isolate network zones, enforce access control between segments, and reduce the
@@ -427,8 +426,4 @@ show ip access-lists
 | VTP Transparent Mode | Enabled |
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

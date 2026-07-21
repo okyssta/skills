@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects lateral movement techniques including Pass-the-Hash, PsExec,
   WMI execution, RDP pivoting, and SMB-based spreading using SIEM correlation of Windows
@@ -311,8 +310,4 @@ User Account:     admin_compromised (Domain Admin)
 Containment:      All 5 hosts isolated at 14:45 UTC
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

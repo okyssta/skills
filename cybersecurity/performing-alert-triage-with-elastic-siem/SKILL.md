@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform systematic alert triage in Elastic Security SIEM to rapidly classify,
   prioritize, and investigate security alerts for SOC operations.
@@ -248,8 +247,4 @@ Elastic's Attack Discovery automatically:
 - [Elastic Blog - AI and 2025 SIEM Landscape](https://www.elastic.co/blog/ai-siem-landscape)
 - [Reducing False Positives with Elastic and Tines](https://www.elastic.co/blog/false-positives-automated-siem-investigations-elastic-tines)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

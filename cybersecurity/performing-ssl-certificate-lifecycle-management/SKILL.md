@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: SSL/TLS certificate lifecycle management encompasses the full process
   of requesting, issuing, deploying, monitoring, renewing, and revoking X.509 certificates.
@@ -96,8 +95,4 @@ SSL/TLS certificate lifecycle management encompasses the full process of request
 - [ ] OCSP checking detects revoked certificates
 - [ ] Certificate inventory tracks all deployed certificates
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performing authorized privilege escalation assessments in AWS environments
   to identify IAM misconfigurations that allow users or roles to elevate their permissions
@@ -291,8 +290,4 @@ PERMISSION BOUNDARIES IN PLACE: 0 / 47 IAM principals
 SCP GUARDRAILS BLOCKING ESCALATION: 0 / 3 tested vectors
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

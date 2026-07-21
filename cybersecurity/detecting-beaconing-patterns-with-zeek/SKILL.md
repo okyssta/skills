@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs statistical analysis of Zeek conn.log connection intervals
   to detect C2 beaconing patterns. Uses the ZAT library to load Zeek logs into Pandas
@@ -89,8 +88,4 @@ df = log_to_df.create_dataframe('conn.log')
 print(df[['id.orig_h', 'id.resp_h', 'ts', 'duration']].head())
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

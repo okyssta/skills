@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Integrate gitleaks and trufflehog into CI/CD pipelines to detect leaked
   secrets before deployment
@@ -91,8 +90,4 @@ The agent script produces a JSON report containing:
 }
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

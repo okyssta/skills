@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Test JWT implementations for critical vulnerabilities including algorithm
   confusion, none algorithm bypass, kid parameter injection, and weak secret exploitation
@@ -244,8 +243,4 @@ python3 jwt_tool.py <JWT_TOKEN> -S hs256 -p "discovered_secret" \
 - Set appropriate token expiration (exp) and implement token revocation
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

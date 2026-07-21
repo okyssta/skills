@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: A cryptographic audit systematically reviews an application's use of
   cryptographic primitives, protocols, and key management to identify vulnerabilities
@@ -89,8 +88,4 @@ A cryptographic audit systematically reviews an application's use of cryptograph
 - [ ] Report includes severity, location, and remediation
 - [ ] False positive rate is below 10%
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect DNS-based data exfiltration by analyzing Zeek dns.log for high-entropy
   subdomains and anomalous query patterns
@@ -91,8 +90,4 @@ This skill analyzes Zeek dns.log files (TSV format) to detect exfiltration indic
 }
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

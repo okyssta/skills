@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs purple team exercises by coordinating red team adversary emulation
   with blue team detection validation using MITRE ATT&CK-mapped attack scenarios,
@@ -311,8 +310,4 @@ POST-EXERCISE COVERAGE: 93% (14/15) — up from 73% at start
 REMAINING GAP: T1486 requires EDR file monitoring enhancement
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

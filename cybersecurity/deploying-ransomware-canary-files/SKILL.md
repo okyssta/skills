@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploys and monitors ransomware canary files across critical directories
   using Python''s watchdog library for real-time filesystem event detection. Places
@@ -105,8 +104,4 @@ Alert Channels: [email, slack, syslog]
 Action: Investigate immediately - potential ransomware activity
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

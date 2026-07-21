@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Parse Windows PowerShell Script Block Logs (Event ID 4104) from EVTX
   files to detect obfuscated commands, encoded payloads, and living-off-the-land techniques.
@@ -76,8 +75,4 @@ if "-encodedcommand" in script_text.lower():
 ### Reconstruct Multi-Block Script
 Scripts split across multiple 4104 events share a `ScriptBlockId`. Concatenate blocks ordered by `MessageNumber` to recover the full script.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

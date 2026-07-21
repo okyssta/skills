@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Detects and analyzes Bluetooth Low Energy (BLE) security attacks including
   sniffing, replay attacks, GATT enumeration abuse, and Man-in-the-Middle interception.
@@ -316,8 +315,4 @@ after use. Use LE Secure Connections for pairing to prevent passive
 capture of the pairing exchange.
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

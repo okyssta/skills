@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Uses Postman to perform structured API security testing by building
   collections that test for OWASP API Security Top 10 vulnerabilities including authentication
@@ -403,8 +402,4 @@ jobs:
 5. Standardize login error messages to prevent account enumeration
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

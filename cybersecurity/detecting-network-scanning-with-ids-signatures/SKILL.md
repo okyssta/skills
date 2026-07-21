@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect network reconnaissance and port scanning using Suricata and Snort
   IDS signatures, threshold-based detection rules, and traffic anomaly analysis to
@@ -310,8 +309,4 @@ if __name__ == '__main__':
 - [OPNsense Suricata Nmap Detection Rules](https://github.com/aleksibovellan/opnsense-suricata-nmaps)
 - [Emerging Threats Ruleset](https://rules.emergingthreats.net/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

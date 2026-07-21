@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Plan and execute authorized vishing (voice phishing) pretext calls to
   assess employee susceptibility to social engineering and evaluate security awareness
@@ -178,8 +177,4 @@ Track the following for each call:
 - The Art of Deception by Kevin Mitnick (Wiley)
 - NIST SP 800-50: Building an Information Technology Security Awareness and Training Program
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

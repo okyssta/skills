@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Monitor and analyze ransomware group data leak sites (DLS) to track victim
   postings, extract threat intelligence on group tactics, and assess sector-specific
@@ -345,8 +344,4 @@ generate_ransomware_intel_report(trends, risk, new_groups)
 - [H-ISAC: Ransomware Data Leak Sites Report](https://www.aha.org/h-isac-green-reports/2025-08-26-h-isac-tlp-ransomware-data-leak-sites-report-august-26-2025)
 - [CYFIRMA: Weekly Intelligence Reports](https://www.cyfirma.com/news/weekly-intelligence-report-16-january-2026/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

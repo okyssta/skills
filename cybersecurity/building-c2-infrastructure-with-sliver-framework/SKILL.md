@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build and configure a resilient command-and-control infrastructure using
   BishopFox's Sliver C2 framework with redirectors, HTTPS listeners, and multi-operator
@@ -209,8 +208,4 @@ Sliver is an open-source, cross-platform adversary emulation framework developed
 - [ ] Pivot functionality validated for internal network access
 - [ ] All C2 traffic encrypted and passing through redirectors
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

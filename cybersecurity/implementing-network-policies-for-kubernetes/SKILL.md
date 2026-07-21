@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Kubernetes NetworkPolicies provide pod-level network segmentation by
   defining ingress and egress rules that control traffic flow between pods, namespaces,
@@ -240,8 +239,4 @@ kubectl run frontend-test --image=busybox --labels=app=frontend --restart=Never 
 - [Cilium Network Policies](https://docs.cilium.io/en/stable/security/policy/)
 - [Network Policy Editor](https://editor.networkpolicy.io/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

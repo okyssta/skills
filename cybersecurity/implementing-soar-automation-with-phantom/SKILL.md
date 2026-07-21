@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements Security Orchestration, Automation, and Response (SOAR) workflows
   using Splunk SOAR (formerly Phantom) to automate alert triage, IOC enrichment, containment
@@ -421,8 +420,4 @@ Time Saved:        ~31 minutes
 Disposition:       True Positive — Escalated to IR
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill outlines methodologies for performing authorized penetration
   testing against AWS, Azure, and GCP cloud environments. It covers understanding
@@ -288,8 +287,4 @@ FINDING SUMMARY BY MITRE ATT&CK TACTIC:
   Total:               47 findings
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

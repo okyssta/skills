@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement MITRE ATT&CK coverage mapping to identify detection gaps, prioritize
   rule development, and measure SOC detection maturity against adversary techniques.
@@ -281,8 +280,4 @@ DATA_SOURCE_TECHNIQUE_MAP = {
 - [Datadog - Cloud SIEM MITRE ATT&CK Map](https://www.datadoghq.com/blog/cloud-siem-mitre-attack-map/)
 - [Picus Security - MITRE ATT&CK Framework Guide](https://www.picussecurity.com/mitre-attack-framework)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

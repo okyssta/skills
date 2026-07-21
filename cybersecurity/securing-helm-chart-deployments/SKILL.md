@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Secure Helm chart deployments by validating chart integrity, scanning
   templates for misconfigurations, and enforcing security contexts in Kubernetes releases.
@@ -294,8 +293,4 @@ jobs:
 9. **Review third-party charts** before deploying to production
 10. **Use Helm test hooks** to validate deployments post-install
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

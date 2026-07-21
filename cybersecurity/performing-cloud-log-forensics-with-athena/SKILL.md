@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Uses AWS Athena to query CloudTrail, VPC Flow Logs, S3 access logs,
   and ALB logs for forensic investigation. Covers CREATE TABLE DDL with partition
@@ -505,8 +504,4 @@ python agent.py \
     --regions us-east-1,us-west-2
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

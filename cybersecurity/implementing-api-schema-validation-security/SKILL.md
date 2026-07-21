@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement API schema validation using OpenAPI specifications and JSON
   Schema to enforce input/output contracts and prevent injection, data exposure, and
@@ -436,8 +435,4 @@ jobs:
 - Impart Security API Validation: https://www.impart.ai/blog/detect-and-fix-api-vulnerabilities-using-validation-secure-principles-and-real-time-response
 - OWASP API Security Top 10 2023: https://owasp.org/API-Security/editions/2023/en/0x00-header/
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

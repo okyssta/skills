@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect LSASS credential dumping, SAM database extraction, and NTDS.dit
   theft using Sysmon Event ID 10, Windows Security logs, and SIEM correlation rules
@@ -64,8 +63,4 @@ Credential dumping (MITRE ATT&CK T1003) is a post-exploitation technique where a
 
 JSON report containing detected credential dumping indicators with technique classification, severity ratings, process details, MITRE ATT&CK mapping, and Splunk/Elastic detection queries.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

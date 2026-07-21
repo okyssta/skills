@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Develop and implement OT-specific incident response playbooks aligned
   with SANS PICERL framework, IEC 62443, and NIST SP 800-82 that address unique ICS
@@ -392,8 +391,4 @@ RECOVERY STATUS:
   [system] - [restored/pending] - [ETA]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

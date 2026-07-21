@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Analyzes DNS query logs to detect data exfiltration via DNS tunneling,
   DGA domain communication, and covert C2 channels using entropy analysis, query volume
@@ -306,8 +305,4 @@ Containment:
   [DONE] Incident IR-2024-0448 created
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

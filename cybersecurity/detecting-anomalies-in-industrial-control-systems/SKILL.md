@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers deploying anomaly detection systems for industrial
   control environments using machine learning models trained on OT network baselines,
@@ -332,8 +331,4 @@ ANOMALIES DETECTED: [N]
   Observed: [Actual behavior]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

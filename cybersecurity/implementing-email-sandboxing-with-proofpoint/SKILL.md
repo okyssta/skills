@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Email sandboxing detonates suspicious attachments and URLs in isolated
   environments to detect zero-day malware and evasive phishing payloads. Proofpoint
@@ -114,8 +113,4 @@ Recommended attachment policy:
 - TAP Dashboard displays threat summary
 - SIEM receives and alerts on TAP events
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

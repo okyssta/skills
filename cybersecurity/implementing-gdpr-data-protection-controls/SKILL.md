@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: The General Data Protection Regulation (EU) 2016/679 (GDPR) is the EU's
   comprehensive data protection law governing the collection, processing, storage,
@@ -187,8 +186,4 @@ The regulation requires organizations to implement measures appropriate to the r
 - CNIL (France) GDPR Compliance Toolkit
 - Article 29 Working Party Guidelines on DPIAs
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

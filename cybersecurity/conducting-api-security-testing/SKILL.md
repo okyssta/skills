@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Conducts security testing of REST, GraphQL, and gRPC APIs to identify
   vulnerabilities in authentication, authorization, rate limiting, input validation,
@@ -196,8 +195,4 @@ owns the requested account before returning data:
   if (account.userId !== req.user.id) return res.status(403).json({error: "Forbidden"});
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

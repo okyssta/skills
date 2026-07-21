@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Investigates insider threat incidents involving employees, contractors,
   or trusted partners who misuse authorized access to steal data, sabotage systems,
@@ -259,8 +258,4 @@ RECOMMENDATIONS
 4. [Access control improvements]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

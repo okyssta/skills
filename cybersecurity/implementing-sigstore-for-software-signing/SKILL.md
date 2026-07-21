@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Implements Sigstore-based software signing and verification using Cosign
   keyless signing, Rekor transparency log verification, and Fulcio certificate authority
@@ -177,8 +176,4 @@ Embed signing and verification into build and deployment pipelines:
 **Policy Check**: Image signed by authorized CI workflow identity
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

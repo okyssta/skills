@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers implementing Open Policy Agent (OPA) and Gatekeeper
   for policy-as-code enforcement in Kubernetes and CI/CD pipelines. It addresses writing
@@ -326,8 +325,4 @@ AUDIT VIOLATIONS (warn):
     - Missing labels: {cost-center}
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

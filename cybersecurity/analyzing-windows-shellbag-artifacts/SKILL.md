@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze Windows Shellbag registry artifacts to reconstruct folder browsing
   activity, detect access to removable media and network shares, and establish user
@@ -223,8 +222,4 @@ Summary:
   CSV exported to:                /analysis/shellbag_output/
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Auditing Google Cloud Platform IAM permissions to identify overly permissive
   bindings, primitive role usage, service account key proliferation, and cross-project
@@ -326,8 +325,4 @@ RECOMMENDER SUGGESTIONS:
   Estimated permissions reduced:     2,847 individual permissions
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

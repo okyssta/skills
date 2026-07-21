@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze Windows LNK shortcut files and Jump List artifacts to establish
   evidence of file access, program execution, and user activity using LECmd, JLECmd,
@@ -291,8 +290,4 @@ Summary:
   CSV exported to:               /analysis/lnk_output/ and /analysis/jumplist_output/
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

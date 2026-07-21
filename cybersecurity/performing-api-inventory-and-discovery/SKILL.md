@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs API inventory and discovery to identify all API endpoints in
   an organization''s environment including documented, undocumented, shadow, zombie,
@@ -445,8 +444,4 @@ def detect_shadow_and_zombie_apis(discovered_endpoints, documented_endpoints):
    revealing full API schema and endpoint details
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

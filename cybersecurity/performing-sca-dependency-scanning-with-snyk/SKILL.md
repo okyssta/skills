@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers implementing Software Composition Analysis (SCA) using
   Snyk to detect vulnerable open-source dependencies in CI/CD pipelines. It addresses
@@ -266,8 +265,4 @@ LICENSE ISSUES:
 QUALITY GATE: FAILED (1 Critical with fix available)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

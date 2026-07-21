@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploys and configures Zeek (formerly Bro) network security monitor
   to passively analyze network traffic, generate structured logs, detect anomalous
@@ -411,8 +410,4 @@ sudo zeekctl netstats
 4. Block 45.33.32.156 and enforce SSH key-only authentication
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

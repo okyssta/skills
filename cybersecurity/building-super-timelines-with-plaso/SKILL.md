@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Generate log2timeline and Plaso super-timelines and triage them in Timesketch.
 domain: cybersecurity
@@ -166,8 +165,4 @@ Look for MACB timestamps that disagree with $UsnJrnl entries (timestomping), gap
 - [ ] Anti-forensic indicators (timestomping, log clearing) checked
 - [ ] Findings documented with corroborating cross-source events
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

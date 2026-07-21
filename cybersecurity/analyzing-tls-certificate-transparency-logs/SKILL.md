@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Queries Certificate Transparency logs via crt.sh and pycrtsh to detect
   phishing domains, unauthorized certificate issuance, and shadow IT. Monitors newly
@@ -83,8 +82,4 @@ for cert in certs:
     print(f"Issuer: {cert.get('issuer_name')}, Domain: {cert.get('name_value')}")
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

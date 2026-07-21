@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implement network segmentation based on the Purdue Enterprise Reference
   Architecture (PERA) model to separate industrial control system networks into hierarchical
@@ -450,8 +449,4 @@ FIREWALL RULES: [count] rules generated
 MIGRATION STEPS: [count] phases planned
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

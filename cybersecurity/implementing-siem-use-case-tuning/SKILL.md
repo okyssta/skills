@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Tune SIEM detection rules to reduce false positives by analyzing alert
   volumes, creating whitelists, adjusting thresholds, and measuring detection efficacy
@@ -65,8 +64,4 @@ SIEM use case tuning reduces alert fatigue by systematically analyzing detection
 
 JSON report with per-rule tuning recommendations including current FP rate, suggested threshold adjustments, whitelist entries, and projected alert reduction percentages.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

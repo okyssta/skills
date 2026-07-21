@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform rapid Sigma and keyword hunting across Windows event logs with
   Chainsaw.
@@ -179,8 +178,4 @@ chainsaw lint -r ./rules --kind sigma
 - [ ] SRUM and event-log-gap analysis performed where artifacts exist.
 - [ ] Findings (e.g., PowerShell T1059.001) documented for the hunt report.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

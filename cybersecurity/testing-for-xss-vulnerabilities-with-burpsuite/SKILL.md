@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Identifying and validating cross-site scripting vulnerabilities using
   Burp Suite's scanner, intruder, and repeater tools during authorized security assessments.
@@ -323,8 +322,4 @@ A WAF blocks common XSS patterns and CSP restricts inline scripts. Discover a JS
 5. Add X-Content-Type-Options: nosniff header
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

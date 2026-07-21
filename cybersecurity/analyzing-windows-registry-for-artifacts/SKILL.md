@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Extract and analyze Windows Registry hives to uncover user activity,
   installed software, autostart entries, and evidence of system compromise.
@@ -299,8 +298,4 @@ Registry Analysis Summary:
   Suspicious Findings:    3 items flagged for review
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

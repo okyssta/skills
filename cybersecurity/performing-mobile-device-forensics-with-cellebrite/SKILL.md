@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Acquire and analyze mobile device data using Cellebrite UFED and open-source
   tools to extract communications, location data, and application artifacts.
@@ -350,8 +349,4 @@ Mobile Forensics Summary:
     Locations:       /analysis/photo_locations.json
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

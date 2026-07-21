@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Perform comprehensive ICS/OT asset discovery using Claroty xDome platform,
   leveraging passive monitoring, Claroty Edge active queries, and integration ecosystem
@@ -515,8 +514,4 @@ CRITICAL FINDINGS:
   - [Unencrypted protocol concern]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

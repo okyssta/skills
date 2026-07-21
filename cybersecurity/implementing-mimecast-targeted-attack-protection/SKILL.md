@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy Mimecast Targeted Threat Protection including URL Protect, Attachment
   Protect, Impersonation Protect, and Internal Email Protect to defend against advanced
@@ -131,8 +130,4 @@ Mimecast Targeted Threat Protection (TTP) is a suite of advanced email security 
 - Pre-delivery hold catches weaponized URL before reaching inbox
 - False positive rate below organizational threshold after tuning
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

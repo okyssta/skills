@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Ed25519 is a high-performance digital signature algorithm using the Edwards
   curve Curve25519. It provides 128-bit security with 64-byte signatures and 32-byte
@@ -94,8 +93,4 @@ Ed25519 is a high-performance digital signature algorithm using the Edwards curv
 - [ ] File signing and verification works correctly
 - [ ] Performance meets or exceeds RSA-3072
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

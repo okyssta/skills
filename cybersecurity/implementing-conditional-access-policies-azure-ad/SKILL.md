@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure Microsoft Entra ID (Azure AD) Conditional Access policies for
   zero trust access control. Covers signal-based policy design, device compliance
@@ -72,8 +71,4 @@ Configure Microsoft Entra ID (Azure AD) Conditional Access policies for zero tru
 - [ ] Documentation and runbooks complete
 - [ ] Compliance evidence generated
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

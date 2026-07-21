@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect lateral movement in Azure AD/Entra ID environments using Microsoft
   Graph API audit logs, Azure Sentinel KQL hunting queries, and sign-in anomaly correlation
@@ -85,8 +84,4 @@ Create Sentinel playbooks (Logic Apps) to automatically revoke suspicious OAuth 
 
 JSON report containing detected lateral movement indicators, correlated event chains, affected identities, and recommended containment actions with MITRE ATT&CK technique mappings.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

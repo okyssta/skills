@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect MITRE ATT&CK T1547.001 registry Run key persistence by analyzing
   Sysmon Event ID 13 logs and registry queries to identify malicious auto-start entries.
@@ -68,8 +67,4 @@ Registry Run keys (T1547.001) are one of the most commonly used persistence mech
 
 A JSON report listing suspicious Run key entries with the registry path, value written, modifying process, timestamp, MITRE technique mapping, severity rating, and recommended Sigma detection rules.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

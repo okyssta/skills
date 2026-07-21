@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Use OWASP Threat Dragon to create data flow diagrams, identify threats
   using STRIDE and LINDDUN methodologies, and generate threat model reports for secure
@@ -206,8 +205,4 @@ Threat Dragon participates in the CycloneDX Threat Model Bill of Materials (TMBO
 - [STRIDE Threat Model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats)
 - [LINDDUN Privacy Threat Modeling](https://www.linddun.org/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

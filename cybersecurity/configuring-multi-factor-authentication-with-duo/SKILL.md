@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy Cisco Duo multi-factor authentication across enterprise applications,
   VPN, RDP, and SSH access points. This skill covers Duo integration methods, adaptive
@@ -156,8 +155,4 @@ Deploy Cisco Duo multi-factor authentication across enterprise applications, VPN
 - [ ] Bypass/emergency access procedures tested
 - [ ] MFA fatigue detection alerts configured
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

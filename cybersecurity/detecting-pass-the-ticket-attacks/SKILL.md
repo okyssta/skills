@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect Kerberos Pass-the-Ticket (PtT) attacks by analyzing Windows Event
   IDs 4768, 4769, and 4771 for anomalous ticket usage patterns in Splunk and Elastic
@@ -65,8 +64,4 @@ Pass-the-Ticket (PtT) is a credential theft technique (MITRE ATT&CK T1550.003) w
 
 JSON report containing detected PtT indicators including anomalous ticket requests, RC4 downgrades, cross-host ticket reuse events, and risk-scored users with MITRE ATT&CK technique mapping.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

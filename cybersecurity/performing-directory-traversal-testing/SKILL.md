@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Testing web applications for path traversal vulnerabilities that allow
   reading or writing arbitrary files on the server by manipulating file path parameters.
@@ -327,8 +326,4 @@ Original `../` stripped by filter. Successful bypass: `....//....//....//etc/pas
 5. Disable PHP wrappers (allow_url_include, allow_url_fopen) if not required
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

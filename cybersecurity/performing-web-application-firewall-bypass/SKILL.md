@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Bypass Web Application Firewall protections using encoding techniques,
   HTTP method manipulation, parameter pollution, and payload obfuscation to deliver
@@ -262,8 +261,4 @@ curl "http://target.com/page?q=%253Cscript%253Ealert(1)%253C%252Fscript%253E"
 - Implement request normalization before rule evaluation
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs memory forensics analysis using Volatility 3 to extract evidence
   of malware execution, process injection, network connections, and credential theft
@@ -287,8 +286,4 @@ C2 Domains: [extracted from beacon config]
 Mutexes:    Global\MSCTF.Shared.MUTEX.ZRQ
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

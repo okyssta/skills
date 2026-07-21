@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Integrates Static Application Security Testing (SAST), Dynamic Application
   Security Testing (DAST), and Software Composition Analysis (SCA) into CI/CD pipelines
@@ -393,8 +392,4 @@ pre-commit run --all-files  # Test against existing codebase
 - [ ] Pre-commit hooks catch secrets and SAST findings locally before push
 - [ ] Developer documentation explains how to interpret scan results and fix common findings
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

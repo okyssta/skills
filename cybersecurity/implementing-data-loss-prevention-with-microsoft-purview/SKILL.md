@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Implements data loss prevention policies using Microsoft Purview to
   protect sensitive information across Exchange Online, SharePoint, OneDrive, Teams,
@@ -606,8 +605,4 @@ Use Activity Explorer and the DLP alerts dashboard to monitor policy effectivene
   7% "Other"
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

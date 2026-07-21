@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing Google''s BeyondCorp zero trust access model to eliminate
   implicit trust from the network perimeter, enforce identity-aware access controls
@@ -338,8 +337,4 @@ VPN DECOMMISSION STATUS:
   Planned decommission:            2026-03-15
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

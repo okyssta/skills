@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement User and Entity Behavior Analytics using Elasticsearch/OpenSearch
   to build behavioral baselines, calculate anomaly scores, perform peer group analysis,
@@ -71,8 +70,4 @@ Combine multiple anomalous indicators (unusual hours + large downloads + new sys
 
 JSON report containing per-user risk scores, anomalous activity details, peer group deviations, and recommended investigation actions.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

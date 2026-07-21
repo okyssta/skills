@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy a Havoc team server with Yaotl profiles, generate evasive Demon
   agents with indirect syscalls and sleep obfuscation, and run post-exploitation and
@@ -281,8 +280,4 @@ Stop the team server (`Ctrl-C`) and revoke operator credentials at engagement en
 - [ ] SOCKS proxy or port-forward established for pivoting
 - [ ] Artifacts removed, agent exited, and team server stopped at cleanup
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

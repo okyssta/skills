@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Run targeted forensic artifact collection and module parsing with KAPE.
 domain: cybersecurity
@@ -188,8 +187,4 @@ Confirm KAPE's `CopyLog`, `ConsoleLog`, and `SkipLog` CSVs are present in the ta
 - [ ] File hashes recorded and verified against source
 - [ ] Batch `_kape.cli` validated for fleet deployment where applicable
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

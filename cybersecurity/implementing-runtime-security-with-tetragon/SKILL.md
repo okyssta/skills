@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement eBPF-based runtime security observability and enforcement in
   Kubernetes clusters using Cilium Tetragon for kernel-level threat detection and
@@ -293,8 +292,4 @@ spec:
 - [eBPF Security Observability with Tetragon - CoreWeave](https://docs.coreweave.com/security/tutorials/ebpf-observability)
 - [Kubernetes Security: eBPF & Tetragon for Runtime Monitoring](https://medium.com/@noah_h/kubernetes-security-ebpf-tetragon-for-runtime-monitoring-policy-enforcement-819b6ed97953)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

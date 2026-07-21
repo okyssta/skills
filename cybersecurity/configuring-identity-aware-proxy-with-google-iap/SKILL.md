@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Configuring Google Cloud Identity-Aware Proxy (IAP) to enforce per-request
   identity verification for Compute Engine, App Engine, Cloud Run, and GKE services
@@ -389,8 +388,4 @@ ACCESS LOGS (last 24h):
   Unique users:            134
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

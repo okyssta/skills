@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Parse and analyze Cobalt Strike Malleable C2 profiles using dissect.cobaltstrike
   and pyMalleableC2 to extract C2 indicators, detect evasion techniques, and generate
@@ -69,8 +68,4 @@ Cobalt Strike Malleable C2 profiles are domain-specific language scripts that cu
 
 A JSON report containing extracted C2 URIs, HTTP headers, user agents, sleep/jitter settings, process injection config, spawned process paths, DNS settings, and generated Suricata-compatible detection rules.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

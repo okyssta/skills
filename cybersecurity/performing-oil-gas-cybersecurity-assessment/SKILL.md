@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers conducting cybersecurity assessments specific to oil
   and gas facilities including upstream (exploration/production), midstream (pipeline/transport),
@@ -377,8 +376,4 @@ COMPLIANCE STATUS:
   IEC 62443: [N]% compliant
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

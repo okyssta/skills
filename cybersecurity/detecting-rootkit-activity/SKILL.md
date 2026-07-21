@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects rootkit presence on compromised systems by identifying hidden
   processes, hooked system calls, modified kernel structures, hidden files, and covert
@@ -313,8 +312,4 @@ REMEDIATION
 - Full system rebuild recommended for kernel-level compromise
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

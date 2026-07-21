@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build collaborative forensic incident timelines using Timesketch to ingest,
   normalize, and analyze multi-source event data for attack chain reconstruction and
@@ -264,8 +263,4 @@ target-query -f timesketch://timesketch.local/case-001 \
 - [Hunt and Hackett: Scalable Forensics with Dissect and Timesketch](https://www.huntandhackett.com/blog/scalable-forensics-timeline-analysis-using-dissect-and-timesketch)
 - [Plaso (log2timeline) Documentation](https://plaso.readthedocs.io/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Executes Atomic Red Team tests mapped to MITRE ATT&CK techniques, performs
   coverage gap analysis across the ATT&CK matrix, and runs detection validation loops
@@ -998,8 +997,4 @@ RECOMMENDATIONS
 [MEDIUM]   Increase lateral movement test coverage (3 of 7 tested)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Integrate AFL++ coverage-guided fuzz testing into CI/CD pipelines to
   discover memory corruption, input handling, and logic vulnerabilities in C/C++ and
@@ -292,8 +291,4 @@ afl-whatsup findings/
 - [Google Testing Handbook - AFL++](https://appsec.guide/docs/fuzzing/c-cpp/aflpp/)
 - [OWASP Fuzzing Guide](https://owasp.org/www-community/Fuzzing)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

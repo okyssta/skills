@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Perform security assessments of SCADA Human-Machine Interface (HMI)
   systems to identify vulnerabilities in web-based HMIs, thin-client configurations,
@@ -321,8 +320,4 @@ COMPLIANCE STATUS:
   IEC 62443 SL-A: [achieved level]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

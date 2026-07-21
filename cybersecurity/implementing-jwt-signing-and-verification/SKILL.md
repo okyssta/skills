@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: JSON Web Tokens (JWT) defined in RFC 7519 are compact, URL-safe tokens
   used for authentication and authorization in web applications. This skill covers
@@ -93,8 +92,4 @@ JSON Web Tokens (JWT) defined in RFC 7519 are compact, URL-safe tokens used for 
 - [ ] JWK key rotation works correctly
 - [ ] Claims validation enforces all required claims
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

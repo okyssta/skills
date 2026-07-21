@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Trivy is a comprehensive open-source vulnerability scanner by Aqua Security
   that detects vulnerabilities in OS packages, language-specific dependencies, misconfigurations,
@@ -269,8 +268,4 @@ echo "Exit code: $?"  # 0 = no vulns, 1 = vulns found
 - [Trivy GitHub Action](https://github.com/aquasecurity/trivy-action)
 - [Aqua Security - Trivy Scanner Guide](https://www.aquasec.com/products/trivy/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Detects prompt injection attacks targeting LLM-based applications using
   a multi-layered defense combining regex pattern matching for known attack signatures,
@@ -164,8 +163,4 @@ Review the JSON output for any prompts flagged with `injection_detected: true` a
 - **OWASP LLM Top 10**: Industry-standard risk taxonomy for LLM application security, with LLM01 dedicated to prompt injection
 - **deepset/prompt-injections**: Hugging Face dataset containing labeled prompt injection examples used for training and evaluating detection models
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

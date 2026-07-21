@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Configures Windows Group Policy Objects (GPO) to prevent ransomware
   execution and limit its spread. Implements AppLocker rules, Software Restriction
@@ -223,8 +222,4 @@ Get-MpPreference | Select-Object -ExpandProperty AttackSurfaceReductionRules_Act
 - **GPResult**: Command-line tool for verifying GPO application status on endpoints
 - **PowerShell Get-MpPreference**: Cmdlet for querying Microsoft Defender configuration including ASR and CFA status
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

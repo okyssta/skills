@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Create forensically sound bit-for-bit disk images using dd and dcfldd
   while preserving evidence integrity through hash verification.
@@ -247,8 +246,4 @@ Acquisition Summary:
   Verification:    PASSED - Hashes match
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

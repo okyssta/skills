@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Parses Software Bill of Materials (SBOM) in CycloneDX and SPDX JSON
   formats to identify supply chain vulnerabilities by correlating components against
@@ -301,8 +300,4 @@ LICENSE COMPLIANCE
 - CPE names in SBOMs may not exactly match NVD entries, requiring fuzzy matching
 - Transitive dependencies may include log4j even when it is not a direct dependency
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

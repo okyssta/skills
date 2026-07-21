@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill teaches security teams how to detect and respond to unauthorized
   cryptocurrency mining operations in cloud environments. It covers identifying cryptomining
@@ -339,8 +338,4 @@ REMEDIATION:
   - SCP deployed: deny ec2:RunInstances for GPU instance types without approval
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

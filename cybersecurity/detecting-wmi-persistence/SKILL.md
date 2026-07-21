@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect WMI event subscription persistence by analyzing Sysmon Event IDs
   19, 20, and 21 for malicious EventFilter, EventConsumer, and FilterToConsumerBinding
@@ -93,8 +92,4 @@ Risk Level: [Critical/High/Medium/Low]
 Recommended Action: [Remove subscription, investigate lateral movement]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing AWS CloudTrail log analysis for security monitoring, threat
   detection, and forensic investigation using Athena, CloudWatch Logs Insights, and
@@ -352,8 +351,4 @@ ALERTING STATUS:
   Alerts fired (last 7 days): 8
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

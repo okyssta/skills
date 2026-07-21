@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect C2 beaconing patterns in network traffic using frequency analysis,
   jitter detection, and domain reputation to identify compromised endpoints communicating
@@ -114,8 +113,4 @@ TI Match: [Yes/No - source]
 Risk Level: [Critical/High/Medium/Low]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

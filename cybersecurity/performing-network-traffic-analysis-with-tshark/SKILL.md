@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Automate network traffic analysis using tshark and pyshark for protocol
   statistics, suspicious flow detection, DNS anomaly identification, and IOC extraction
@@ -66,8 +65,4 @@ This skill automates packet capture analysis using tshark (Wireshark CLI) and py
 - Extracted IOCs (IPs, domains, URLs)
 - DNS anomaly analysis results
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

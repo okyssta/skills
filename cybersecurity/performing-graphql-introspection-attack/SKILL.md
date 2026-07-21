@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs GraphQL introspection attacks to extract the full API schema
   including types, queries, mutations, subscriptions, and field definitions from GraphQL
@@ -529,8 +528,4 @@ production database credentials, and execute admin-only mutations.
 6. Rate limit GraphQL requests per query, not just per HTTP request
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

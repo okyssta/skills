@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Verify TPM PCRs and measured-boot and remote-attestation integrity.
 domain: cybersecurity
@@ -179,8 +178,4 @@ sudo python scripts/agent.py --pcrs 0,1,2,3,4,5,6,7 --baseline golden_pcrs.json 
 - [ ] IMA runtime measurements reviewed where enabled.
 - [ ] Results documented per host with pass/fail and any drift evidence.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

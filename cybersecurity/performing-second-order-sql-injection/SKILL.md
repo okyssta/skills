@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and exploit second-order SQL injection vulnerabilities where malicious
   input is stored in a database and later executed in an unsafe SQL query during a
@@ -235,8 +234,4 @@ curl http://target.com/profile
 - Enable SQL query logging for detecting injection attempts
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

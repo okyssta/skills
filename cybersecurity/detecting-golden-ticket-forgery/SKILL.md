@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect Kerberos Golden Ticket forgery by analyzing Windows Event ID 4769
   for RC4 encryption downgrades (0x17), abnormal ticket lifetimes, and krbtgt account
@@ -65,8 +64,4 @@ A Golden Ticket attack (MITRE ATT&CK T1558.001) involves forging a Kerberos Tick
 
 JSON report with Golden Ticket indicators including RC4 downgrades, orphaned TGS requests, abnormal ticket lifetimes, and risk-scored alerts with MITRE ATT&CK technique mapping.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

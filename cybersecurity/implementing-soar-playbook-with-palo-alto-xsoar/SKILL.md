@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement automated incident response playbooks in Cortex XSOAR to orchestrate
   security workflows across SOC tools and reduce manual response time.
@@ -342,8 +341,4 @@ calculate_risk_score()
 - [XSOAR Common Playbooks Pack](https://www.paloaltonetworks.com/blog/security-operations/playbook-of-the-week-xsoar-common-playbook/)
 - [Cortex XSOAR Product Page](https://www.paloaltonetworks.com/cortex/cortex-xsoar)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect model stealing, model inversion, and membership inference performed
   through inference-API abuse by monitoring query patterns, applying output perturbation,
@@ -207,8 +206,4 @@ Wire step-2 findings into your SIEM. On a confirmed extraction pattern: throttle
 - [ ] Per-principal rate limiting enforced and validated.
 - [ ] Alerts routed to SIEM with response playbook (throttle, revoke, preserve evidence).
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

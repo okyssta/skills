@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detect lateral movement in network traffic using Zeek (formerly Bro)
   log analysis. Parses conn.log, smb_mapping.log, smb_files.log, dce_rpc.log, kerberos.log,
@@ -214,8 +213,4 @@ python3 agent.py /opt/zeek/logs/2026-03-18/  # Analyze a specific date
 - Cross-reference Zeek alerts with Sysmon Event ID 1 (Process Creation) on the target host to confirm end-to-end detection
 - Verify the agent correctly handles both TSV and JSON Zeek log formats
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

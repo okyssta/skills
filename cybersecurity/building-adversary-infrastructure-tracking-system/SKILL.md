@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build an automated system to track adversary infrastructure using passive
   DNS, certificate transparency, WHOIS data, and IP enrichment to map and monitor
@@ -348,8 +347,4 @@ monitor = InfrastructureMonitor(tracker, known_indicators=set())
 - [SecurityTrails API](https://securitytrails.com/corp/api)
 - [Hunt.io: Uncovering Malicious Infrastructure](https://hunt.io/blog/practical-guide-unconvering-malicious-infrastructure)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

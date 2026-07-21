@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implement secure conduit architecture for OT remote access following
   IEC 62443 zones and conduits model, deploying jump servers, MFA-enabled gateways,
@@ -377,8 +376,4 @@ POLICY COMPLIANCE:
   Prohibited Target Attempts: [count blocked]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

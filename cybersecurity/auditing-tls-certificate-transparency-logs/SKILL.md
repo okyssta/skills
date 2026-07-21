@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Monitors Certificate Transparency (CT) logs to detect unauthorized certificate
   issuance, discover subdomains via CT data, and alert on suspicious certificate activity
@@ -204,8 +203,4 @@ Verify log integrity and produce compliance evidence:
 | examp1e.com | 1 | ZeroSSL | Investigate phishing |
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

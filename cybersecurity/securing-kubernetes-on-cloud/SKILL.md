@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers hardening managed Kubernetes clusters on EKS, AKS,
   and GKE by implementing Pod Security Standards, network policies, workload identity,
@@ -386,8 +385,4 @@ HIGH FINDINGS:
   [K8S-006] RBAC ClusterRoleBinding grants cluster-admin to developers group
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

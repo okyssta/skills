@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Responds to phishing incidents by analyzing reported emails, extracting
   indicators, assessing credential compromise, quarantining malicious messages across
@@ -257,8 +256,4 @@ RECOMMENDATIONS
 4. Request domain takedown via registrar abuse contact
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

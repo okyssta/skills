@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Executes structured recovery from a ransomware incident following NIST
   and CISA frameworks, including environment isolation, forensic evidence preservation,
@@ -319,8 +318,4 @@ Throughout: SOC monitoring on high alert
 - [ ] Canary files deployed
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers implementing Okta as a centralized identity provider
   for cloud environments, configuring SSO integration with AWS, Azure, and GCP, deploying
@@ -280,8 +279,4 @@ RECOMMENDATIONS:
   [MEDIUM] Reduce session duration for admin roles from 8h to 4h
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

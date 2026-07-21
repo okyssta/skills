@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy Google BeyondCorp Enterprise zero trust access controls using
   Identity-Aware Proxy (IAP), context-aware access policies, device trust validation,
@@ -71,8 +70,4 @@ Query IAP audit logs, verify policy enforcement, and identify gaps in zero trust
 
 JSON report containing IAP-protected resources, access level definitions, policy binding audit results, and zero trust coverage metrics.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

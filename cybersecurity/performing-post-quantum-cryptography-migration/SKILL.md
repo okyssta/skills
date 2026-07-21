@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Assesses organizational readiness for post-quantum cryptography migration
   per NIST FIPS 203/204/205 standards. Performs cryptographic inventory scanning to
@@ -345,8 +344,4 @@ python scripts/agent.py --action scan_tls --target server.example.com:443
 - IETF Hybrid Key Exchange Draft: https://datatracker.ietf.org/doc/draft-ietf-tls-hybrid-design/
 - CycloneDX Crypto BOM: https://cyclonedx.org/use-cases/cryptographic-key/
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

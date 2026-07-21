@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze memory dumps using Volatility3 plugins to detect injected code,
   rootkits, credential theft, and malware artifacts in Windows, Linux, and macOS memory
@@ -238,8 +237,4 @@ if __name__ == "__main__":
 - [Memory Forensics with Volatility 3](https://newtonpaul.com/malware-analysis-memory-forensics-with-volatility-3/)
 - [MITRE ATT&CK T1055 - Process Injection](https://attack.mitre.org/techniques/T1055/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

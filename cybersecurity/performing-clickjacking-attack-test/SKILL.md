@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Testing web applications for clickjacking vulnerabilities by assessing
   frame embedding controls and crafting proof-of-concept overlay attacks during authorized
@@ -435,8 +434,4 @@ An OAuth consent screen allows framing. The attacker embeds the consent page and
 5. Implement SameSite=Strict cookies to reduce session availability in frames
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

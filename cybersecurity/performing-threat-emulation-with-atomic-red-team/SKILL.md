@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Executes Atomic Red Team tests for MITRE ATT&CK technique validation
   using the atomic-operator Python framework. Loads test definitions from YAML atomics,
@@ -84,8 +83,4 @@ for test in tests.get("atomic_tests", []):
     print(f"  Platforms: {test.get('supported_platforms', [])}")
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

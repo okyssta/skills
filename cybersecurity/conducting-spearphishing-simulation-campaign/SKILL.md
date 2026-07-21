@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Spearphishing simulation is a targeted social engineering attack vector
   used by red teams to gain initial access. Unlike broad phishing campaigns, spearphishing
@@ -139,8 +138,4 @@ Spearphishing simulation is a targeted social engineering attack vector used by 
 - [ ] Evidence collected for engagement report
 - [ ] Cleanup performed on infrastructure post-campaign
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

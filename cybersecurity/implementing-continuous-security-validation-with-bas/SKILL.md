@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy Breach and Attack Simulation tools to continuously validate security
   control effectiveness by safely emulating real-world attack techniques across the
@@ -261,8 +260,4 @@ Validation Schedule:
 - implementing-siem-use-cases-for-detection
 - implementing-threat-modeling-with-mitre-attack
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

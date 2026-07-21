@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Executes comprehensive red team exercises that simulate real-world adversary
   operations against an organization''s people, processes, and technology. The red
@@ -197,8 +196,4 @@ Convert red team findings into defensive improvements:
 4. Deploy memory-scanning EDR capability to detect process injection
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

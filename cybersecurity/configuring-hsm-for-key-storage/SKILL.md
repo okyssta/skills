@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Hardware Security Modules (HSMs) are tamper-resistant physical devices
   that safeguard cryptographic keys and perform cryptographic operations in a hardened
@@ -102,8 +101,4 @@ Application --> PKCS#11 API --> HSM Provider --> Hardware HSM
 - [ ] Keys cannot be exported (non-extractable)
 - [ ] Key listing shows all HSM-stored objects
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

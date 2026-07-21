@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Scan container images, filesystems, and Kubernetes manifests for vulnerabilities,
   misconfigurations, exposed secrets, and license compliance issues using Aqua Security
@@ -75,8 +74,4 @@ Add Trivy scanning as a pipeline gate that blocks builds with critical/high vuln
 
 JSON/table report listing CVEs with severity, CVSS scores, fixed versions, affected packages, misconfiguration findings, and exposed secrets with file locations.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

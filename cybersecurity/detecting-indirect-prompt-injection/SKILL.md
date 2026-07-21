@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and defend against prompt injection hidden in documents, web pages,
   and images consumed by an agent.
@@ -234,8 +233,4 @@ Run the pipeline over a labeled set of clean + injected artifacts, measure preci
 - [ ] Thresholds tuned and documented
 - [ ] Findings mapped to MITRE ATLAS AML.T0051.001 and OWASP LLM01:2025
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

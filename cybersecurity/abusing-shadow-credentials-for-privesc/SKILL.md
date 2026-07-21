@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Take over Active Directory user and computer accounts by writing alternate
   certificate keys to msDS-KeyCredentialLink (Shadow Credentials) with pyWhisker,
@@ -188,8 +187,4 @@ certipy shadow clear -u 'attacker@corp.local' -p 'Passw0rd!' \
 - [ ] Injected Key Credential removed / object restored
 - [ ] Enabling ACL path documented with remediation recommendation
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

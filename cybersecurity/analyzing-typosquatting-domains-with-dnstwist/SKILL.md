@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect typosquatting, homograph phishing, and brand impersonation domains
   using dnstwist to generate domain permutations and identify registered lookalike
@@ -327,8 +326,4 @@ generate_takedown_report(analysis["high"])
 - [Security Risk Advisors: Domain Monitoring](https://sra.io/blog/domain-monitoring-fast-and-cheap/)
 - [Conscia: How to Detect Typosquatting](https://conscia.com/blog/diving-deep-how-to-detect-typosquatting/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

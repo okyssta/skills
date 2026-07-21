@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Conduct systematic reviews of privileged accounts to validate access
   rights, identify excessive permissions, and enforce least privilege across PAM infrastructure.
@@ -177,8 +176,4 @@ Generate review reports including:
 - [Netwrix PAM Best Practices Guide](https://netwrix.com/en/resources/guides/privileged-account-management-best-practices/)
 - [StrongDM PAM Best Practices 2025](https://www.strongdm.com/blog/privileged-access-management-best-practices)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

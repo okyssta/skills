@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Implements AWS Nitro Enclave-based confidential computing environments
   with cryptographic attestation, KMS policy integration using PCR-based condition
@@ -465,8 +464,4 @@ Run the enclave and implement operational monitoring:
 - [FAIL] Health check endpoint does not verify enclave attestation freshness
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

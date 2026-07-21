@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement software supply chain integrity verification for container
   builds using the in-toto framework to create cryptographically signed attestations
@@ -305,8 +304,4 @@ in-toto attestations map directly to SLSA (Supply chain Levels for Software Arti
 - [SLSA Framework](https://slsa.dev/)
 - [Sigstore Integration](https://www.sigstore.dev/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

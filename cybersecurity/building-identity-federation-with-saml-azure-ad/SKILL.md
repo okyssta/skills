@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Establish SAML 2.0 identity federation between on-premises Active Directory
   and Azure AD (Microsoft Entra ID) for seamless cross-domain authentication and SSO
@@ -239,8 +238,4 @@ Remove-AdfsCertificate -CertificateType Token-Signing -Thumbprint $oldThumbprint
 - [Configure AD FS for Azure AD Federation](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-fed-management)
 - [SAML 2.0 Authentication - OASIS](https://docs.oasis-open.org/security/saml/v2.0/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

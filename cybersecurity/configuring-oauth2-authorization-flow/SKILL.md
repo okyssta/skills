@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure secure OAuth 2.0 authorization flows including Authorization
   Code with PKCE, Client Credentials, and Device Authorization Grant. This skill covers
@@ -148,8 +147,4 @@ PKCE (RFC 7636) prevents authorization code interception attacks:
 - [ ] Client Credentials flow works for service-to-service calls
 - [ ] Scopes correctly enforced at resource server
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

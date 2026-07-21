@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Use BloodHound and SharpHound to enumerate Active Directory relationships
   and identify attack paths from compromised users to Domain Admin.
@@ -241,8 +240,4 @@ Code Execution as SYSTEM
 - MITRE ATT&CK S0521: https://attack.mitre.org/software/S0521/
 - SpecterOps BloodHound Documentation: https://bloodhound.readthedocs.io/
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

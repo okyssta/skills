@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Systematically collects, categorizes, and distributes indicators of
   compromise (IOCs) during and after security incidents to enable detection, blocking,
@@ -272,8 +271,4 @@ Hash     | c3d4e5f6a7b8...         | 100        | Malicious .docm attachment
 TOTAL: 14 indicators | HIGH confidence avg: 91
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

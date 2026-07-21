@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and prevent ARP spoofing attacks using ARPWatch, Dynamic ARP Inspection,
   Wireshark analysis, and custom monitoring scripts to protect against man-in-the-middle
@@ -418,8 +417,4 @@ if __name__ == '__main__':
 - [Comparitech ARP Poisoning Guide](https://www.comparitech.com/blog/information-security/arp-poisoning-spoofing-detect-prevent/)
 - [Okta ARP Poisoning Techniques](https://www.okta.com/identity-101/arp-poisoning/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement continuous identity verification for zero trust using phishing-resistant
   MFA (FIDO2/WebAuthn), risk-based conditional access, and identity governance aligned
@@ -209,8 +208,4 @@ AI-driven analytics detect compromised identities through impossible travel dete
 - FIDO Alliance WebAuthn Specification
 - Microsoft Entra Conditional Access Documentation
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

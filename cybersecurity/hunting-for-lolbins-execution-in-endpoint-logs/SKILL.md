@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Hunt for adversary abuse of Living Off the Land Binaries (LOLBins) by
   analyzing endpoint process creation logs for suspicious execution patterns of legitimate
@@ -176,8 +175,4 @@ Network Activity: [Yes/No -- destination if applicable]
 Risk Level: [Critical/High/Medium/Low]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

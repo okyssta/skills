@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect risky OAuth application consent grants in Azure AD / Microsoft
   Entra ID using Microsoft Graph API, audit logs, and permission analysis to identify
@@ -65,8 +64,4 @@ Illicit consent grant attacks trick users into granting excessive permissions to
 - JSON report listing all OAuth apps with granted permissions, risk scores, unverified publishers, and suspicious consent patterns
 - Audit trail of consent grant events with user and IP details
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

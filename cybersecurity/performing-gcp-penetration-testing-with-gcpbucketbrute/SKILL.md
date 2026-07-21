@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform GCP security testing using GCPBucketBrute for storage bucket
   enumeration, gcloud IAM privilege escalation path analysis, and service account
@@ -67,8 +66,4 @@ This skill covers Google Cloud Platform security testing using GCPBucketBrute fo
 - Service account security assessment
 - Risk-scored findings with remediation recommendations
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

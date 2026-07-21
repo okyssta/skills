@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs systematic security testing of web applications following the
   OWASP Web Security Testing Guide (WSTG) methodology to identify vulnerabilities
@@ -209,8 +208,4 @@ the order's userId field before returning order data. Implement UUIDs instead
 of sequential integers for order identifiers to prevent enumeration.
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

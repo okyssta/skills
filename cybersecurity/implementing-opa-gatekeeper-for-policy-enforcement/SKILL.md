@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Enforce Kubernetes admission policies using OPA Gatekeeper with ConstraintTemplates,
   Rego rules, and the Gatekeeper policy library.
@@ -392,8 +391,4 @@ kubectl get --raw /metrics | grep gatekeeper
 6. **Test Rego policies** - Use `opa test` or Rego Playground before deploying
 7. **Combine with admission webhooks** - Layer Gatekeeper with Pod Security Admission for defense in depth
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

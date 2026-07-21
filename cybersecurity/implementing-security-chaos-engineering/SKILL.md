@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements security chaos engineering experiments that deliberately
   disable or degrade security controls to verify detection and response capabilities.
@@ -89,8 +88,4 @@ def run_experiment(setup_fn, verify_fn, rollback_fn, timeout=300):
     return result
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

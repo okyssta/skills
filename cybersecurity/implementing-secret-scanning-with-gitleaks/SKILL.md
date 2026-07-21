@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers implementing Gitleaks for detecting and preventing
   hardcoded secrets in git repositories. It addresses configuring pre-commit hooks,
@@ -345,8 +344,4 @@ QUALITY GATE: FAILED (3 new findings)
 Action: Rotate exposed credentials immediately.
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy privileged access management for database systems including Oracle,
   SQL Server, PostgreSQL, and MySQL. Covers session proxy configuration, credential
@@ -73,8 +72,4 @@ Deploy privileged access management for database systems including Oracle, SQL S
 - [ ] Documentation and runbooks complete
 - [ ] Compliance evidence generated
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

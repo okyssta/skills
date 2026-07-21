@@ -1,5 +1,4 @@
 ---
-author: andrewibrah
 category: cybersecurity
 description: 'Drive a federal system through the NIST Risk Management Framework (SP
   800-37 Rev 2) to an Authorization to Operate (ATO): Prepare, Categorize (FIPS 199),
@@ -142,8 +141,4 @@ Produce an **Authorization Package summary** using `assets/template.md`, contain
 
 Use `scripts/process.py` to select the right SP 800-53B baseline from a FIPS 199 categorization, summarize control-implementation status, and generate a POA&M table from a findings JSON.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

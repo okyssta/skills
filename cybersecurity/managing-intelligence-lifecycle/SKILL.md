@@ -1,5 +1,4 @@
 ---
-author: team-cybersecurity
 category: cybersecurity
 description: 'Manages the end-to-end cyber threat intelligence lifecycle from planning
   and direction through collection, processing, analysis, dissemination, and feedback
@@ -133,8 +132,4 @@ Track metrics quarterly: PIR coverage rate, IOC true positive rate, time-to-diss
 - **No metrics program**: Cannot demonstrate CTI program value without tracking detection contributions, true positive rates, and stakeholder satisfaction.
 - **Underfunded collection**: PIRs cannot be answered without appropriate collection sources; document and escalate gaps rather than producing low-confidence estimates.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

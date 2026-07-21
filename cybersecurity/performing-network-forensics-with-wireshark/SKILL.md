@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Capture and analyze network traffic using Wireshark and tshark to reconstruct
   network events, extract artifacts, and identify malicious communications.
@@ -319,8 +318,4 @@ Network Forensics Summary:
     Hashes:  3 file hashes flagged as malware
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

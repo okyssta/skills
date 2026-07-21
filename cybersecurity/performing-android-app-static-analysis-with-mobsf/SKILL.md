@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs automated static analysis of Android applications using Mobile
   Security Framework (MobSF) to identify hardcoded secrets, insecure permissions,
@@ -178,8 +177,4 @@ Add MobSF scanning as a build gate:
 - **Outdated MobSF rules**: Security rules evolve with Android API levels. Ensure MobSF is updated to match the target app's `targetSdkVersion`.
 - **Skipping native code analysis**: MobSF analyzes Java/Kotlin but has limited coverage of native C/C++ libraries. Use `checksec` and manual review for `.so` files.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

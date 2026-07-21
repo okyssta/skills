@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect NTLM relay attacks by analyzing Windows Event 4624 logon type
   3 with NTLMSSP authentication, identifying IP-to-hostname mismatches, Responder
@@ -66,8 +65,4 @@ NTLM relay attacks intercept and forward NTLM authentication messages to gain un
 
 JSON report with suspected relay events, IP-hostname correlation anomalies, SMB signing audit results, and MITRE ATT&CK mapping to T1557.001.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

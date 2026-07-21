@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Executes authorized phishing simulation campaigns to assess an organization''s
   susceptibility to email-based social engineering attacks. The tester designs realistic
@@ -202,8 +201,4 @@ Analyze campaign results and produce the assessment report:
 5. Schedule quarterly phishing simulations to track improvement
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

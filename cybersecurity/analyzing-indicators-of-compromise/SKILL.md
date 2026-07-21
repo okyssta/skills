@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Analyzes indicators of compromise (IOCs) including IP addresses, domains,
   file hashes, URLs, and email artifacts to determine maliciousness confidence, campaign
@@ -169,8 +168,4 @@ Export to STIX indicator object with confidence field set appropriately.
 - **No expiration policy**: IOCs without TTLs accumulate in blocklists indefinitely, generating false positives as infrastructure is repurposed by legitimate users.
 - **Over-relying on single source**: VirusTotal aggregates AV opinions — all may be wrong or lag behind emerging malware. Use 3+ independent sources for high-stakes decisions.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform forensic analysis of SQLite databases to recover deleted records
   from freelists and WAL files, decode encoded timestamps, and extract evidence from
@@ -371,8 +370,4 @@ Summary:
   Recovered DB: /analysis/sqlite_report/History_recovered.db
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

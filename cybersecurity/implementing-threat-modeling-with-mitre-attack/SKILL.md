@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements threat modeling using the MITRE ATT&CK framework to map adversary
   TTPs against organizational assets, assess detection coverage gaps, and prioritize
@@ -384,8 +383,4 @@ INVESTMENT RECOMMENDATION:
   Expected coverage improvement: 64% -> 76%
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

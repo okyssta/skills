@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Builds real-time incident response dashboards in Splunk, Elastic, or
   Grafana to provide SOC analysts and leadership with situational awareness during
@@ -311,8 +310,4 @@ Key Metrics:
 Business Impact: LOW — Finance file server offline, no customer-facing systems affected
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

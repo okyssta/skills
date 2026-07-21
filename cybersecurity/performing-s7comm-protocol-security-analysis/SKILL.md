@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Perform security analysis of Siemens S7comm and S7CommPlus protocols
   used by SIMATIC S7 PLCs to identify vulnerabilities including replay attacks, integrity
@@ -439,8 +438,4 @@ RECOMMENDATIONS:
   3. [Monitoring enhancement]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

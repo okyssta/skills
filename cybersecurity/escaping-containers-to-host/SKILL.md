@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Exploit privileged pods, host mounts, runC CVEs, and exposed Docker sockets
   to break out of a container and reach the underlying host during authorized container-security
@@ -279,8 +278,4 @@ kubectl get pod <pod> -o jsonpath='{.spec.containers[*].securityContext}'
 - [ ] Remediation guidance (drop privileges, remove socket mount, patch runtime) documented
 - [ ] All actions stayed within the authorized scope
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

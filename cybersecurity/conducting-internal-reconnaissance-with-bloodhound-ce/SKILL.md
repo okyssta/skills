@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Conduct internal Active Directory reconnaissance using BloodHound Community
   Edition to map attack paths, identify privilege escalation chains, and discover
@@ -195,8 +194,4 @@ BloodHound Community Edition (CE) is a modern, web-based Active Directory reconn
 - [ ] Attack paths prioritized by feasibility and stealth
 - [ ] Report generated with all identified paths and evidence
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

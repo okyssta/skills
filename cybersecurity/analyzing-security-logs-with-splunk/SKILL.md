@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Leverages Splunk Enterprise Security and SPL (Search Processing Language)
   to investigate security incidents through log correlation, timeline reconstruction,
@@ -255,8 +254,4 @@ RECOMMENDED DETECTIONS
 3. Behavioral rule for beacon-interval network traffic
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

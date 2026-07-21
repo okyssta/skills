@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Validate backup integrity through cryptographic hash verification, automated
   restore testing, corruption detection, and recoverability checks to ensure backups
@@ -188,8 +187,4 @@ python agent.py --entropy-scan /restore-test
 - CIS Controls v8: Control 11 - Data Recovery
 - CISA Ransomware Guide: https://www.cisa.gov/stopransomware
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

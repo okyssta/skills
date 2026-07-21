@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Hardening Docker containers for production involves applying security
   best practices aligned with CIS Docker Benchmark v1.8.0 to minimize attack surface,
@@ -239,8 +238,4 @@ docker ps -q | xargs docker inspect --format '{{.Id}}: User={{.Config.User}}'
 - [Docker Bench Security Tool](https://github.com/docker/docker-bench-security)
 - [Hadolint - Dockerfile Linter](https://github.com/hadolint/hadolint)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

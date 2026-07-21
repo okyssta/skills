@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers implementing automated security scanning for Infrastructure
   as Code (IaC) templates using tools like Checkov, tfsec, and KICS. It addresses
@@ -267,8 +266,4 @@ FAILED CHECKS:
 QUALITY GATE: FAILED (2 HIGH severity findings)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

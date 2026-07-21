@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure AWS Verified Access to provide VPN-less zero trust network
   access to internal applications using identity and device posture verification with
@@ -461,8 +460,4 @@ aws cloudwatch put-metric-alarm \
 - [Visual Guide to AWS Verified Access Setup](https://medium.com/@chaim_sanders/a-visual-guide-to-setting-up-aws-verified-access-1333466f7222)
 - [NIST SP 800-207 Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

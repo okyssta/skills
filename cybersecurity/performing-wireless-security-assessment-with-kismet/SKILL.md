@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Conduct wireless network security assessments using Kismet to detect
   rogue access points, hidden SSIDs, weak encryption, and unauthorized clients through
@@ -397,8 +396,4 @@ if __name__ == '__main__':
 - [NIST SP 800-153 - Wireless Network Security](https://csrc.nist.gov/publications/detail/sp/800-153/final)
 - [Wi-Fi Alliance WPA3 Specification](https://www.wi-fi.org/discover-wi-fi/security)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

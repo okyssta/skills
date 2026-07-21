@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Audit Kubernetes cluster security posture against CIS benchmarks using
   kube-bench with automated checks for control plane, worker nodes, and RBAC.
@@ -236,8 +235,4 @@ kubectl get clusterroles -o json | jq '.items[] | select(.rules[].resources[] ==
 6. **Track score over time** to measure security posture improvement
 7. **Combine with admission controllers** to prevent drift
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

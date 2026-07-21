@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing Zero Trust Network Access (ZTNA) in cloud environments
   by configuring identity-aware proxies, micro-segmentation, continuous verification
@@ -365,8 +364,4 @@ MIGRATION STATUS:
   VPN decommission:            Scheduled after Phase 3
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

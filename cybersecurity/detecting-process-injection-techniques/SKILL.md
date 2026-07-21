@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detects and analyzes process injection techniques used by malware including
   classic DLL injection, process hollowing, APC injection, thread hijacking, and reflective
@@ -365,8 +364,4 @@ T1071.001  Web Protocols (HTTPS C2)
 T1036.005  Match Legitimate Name (svchost.exe)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

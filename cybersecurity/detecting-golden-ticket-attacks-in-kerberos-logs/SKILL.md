@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect Golden Ticket attacks in Active Directory by analyzing Kerberos
   TGT anomalies including mismatched encryption types, impossible ticket lifetimes,
@@ -107,8 +106,4 @@ KRBTGT Last Reset: [Date]
 Risk Level: [Critical]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

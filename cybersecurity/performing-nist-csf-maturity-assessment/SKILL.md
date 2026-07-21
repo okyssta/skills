@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: The NIST Cybersecurity Framework (CSF) 2.0, released in February 2024,
   provides a comprehensive taxonomy for managing cybersecurity risk through six core
@@ -146,8 +145,4 @@ The NIST Cybersecurity Framework (CSF) 2.0, released in February 2024, provides 
 - NIST CSF 2.0 Quick Start Guides
 - CSF 2.0 Reference Tool: https://csrc.nist.gov/projects/cybersecurity-framework
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

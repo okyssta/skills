@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers implementing network segmentation in Operational Technology
   environments using VLANs, industrial firewalls, data diodes, and software-defined
@@ -497,8 +496,4 @@ VALIDATION RESULTS:
   Critical Failures: [N]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

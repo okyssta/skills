@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Uses Falco YAML rules for runtime threat detection in containers and
   Kubernetes, monitoring syscalls for shell spawns, file tampering, network anomalies,
@@ -87,8 +86,4 @@ falco -r /etc/falco/custom_rules.yaml -o json_output=true
 cat /var/log/falco/alerts.json | python3 -c "import json,sys; [print(json.loads(l)['output']) for l in sys.stdin]"
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

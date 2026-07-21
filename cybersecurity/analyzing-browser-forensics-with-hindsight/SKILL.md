@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze Chromium-based browser artifacts using Hindsight to extract browsing
   history, downloads, cookies, cached content, autofill data, saved passwords, and
@@ -302,8 +301,4 @@ Domain                   | Name              | Expires            | Secure | Htt
 Report saved to: /analysis/hindsight_output/Hindsight_Report.xlsx
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

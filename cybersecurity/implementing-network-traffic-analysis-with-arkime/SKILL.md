@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy and query Arkime (formerly Moloch) for full packet capture network
   traffic analysis. Uses the Arkime API v3 to search sessions, download PCAPs, analyze
@@ -73,8 +72,4 @@ Avg interval: 300s, Jitter: 4.2%
 Verdict: HIGH confidence C2 beaconing (jitter < 5%)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

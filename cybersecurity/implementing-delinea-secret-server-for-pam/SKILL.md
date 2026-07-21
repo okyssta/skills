@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements Delinea Secret Server for privileged access management (PAM)
   including secret vault configuration, role-based access policies, automated password
@@ -423,8 +422,4 @@ PCI-DSS Requirements:    8/8
 Password Age Violations: 3 (remediation in progress)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -247,7 +247,3 @@ git worktree prune  # Self-healing: clean up any stale registrations
 - `cd` to main repo root before worktree removal
 - Run `git worktree prune` after removal
 
----
-
-*Adapted for Hermes Agent from the Superpowers methodology ([obra/superpowers](https://github.com/obra/superpowers)). Original concepts modified for the Hermes subagent/delegate_task workflow.*
-

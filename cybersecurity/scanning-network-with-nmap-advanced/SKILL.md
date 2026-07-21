@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs advanced network reconnaissance using Nmap''s scripting engine,
   timing controls, evasion techniques, and output parsing to discover hosts, enumerate
@@ -214,8 +213,4 @@ nmap-parse-output full_tcp_scan.xml csv > scan_results.csv
 4. Change SNMP community strings from "public" on 10.10.3.77
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

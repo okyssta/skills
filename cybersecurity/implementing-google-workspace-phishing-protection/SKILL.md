@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure Google Workspace advanced phishing and malware protection settings
   including pre-delivery scanning, attachment protection, spoofing detection, and
@@ -109,8 +108,4 @@ Google Workspace provides advanced phishing and malware protection through the A
 - APP-enrolled accounts reject non-FIDO2 authentication attempts
 - SPF, DKIM, DMARC all pass for outbound messages
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

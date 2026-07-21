@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Hunt for adversary persistence through Windows Management Instrumentation
   event subscriptions by monitoring WMI consumer, filter, and binding creation events
@@ -143,8 +142,4 @@ User Context: [SYSTEM/User]
 Risk Level: [Critical/High/Medium/Low]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

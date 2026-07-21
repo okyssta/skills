@@ -301,7 +301,3 @@ From debugging sessions:
 - First-time fix rate: 95% vs 40%
 - New bugs introduced: Near zero vs common
 
----
-
-*Adapted for Hermes Agent from the Superpowers methodology ([obra/superpowers](https://github.com/obra/superpowers)). Original concepts modified for the Hermes subagent/delegate_task workflow.*
-

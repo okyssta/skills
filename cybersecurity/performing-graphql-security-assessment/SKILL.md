@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Assessing GraphQL API endpoints for introspection leaks, injection attacks,
   authorization flaws, and denial-of-service vulnerabilities during authorized security
@@ -341,8 +340,4 @@ A social network API allows querying `friends { friends { friends { ... } } }` u
 7. Parameterize all database queries in resolvers
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: URLScan.io is a free service for scanning and analyzing suspicious URLs.
   It captures screenshots, DOM content, HTTP transactions, JavaScript behavior, and
@@ -111,8 +110,4 @@ Use the `scripts/process.py` to automate URL scanning, extract IOCs, and cross-r
 - Generate IOC list from scan results
 - Cross-reference findings with at least 2 threat intelligence sources
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

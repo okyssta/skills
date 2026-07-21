@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements passwordless authentication using Microsoft Entra ID with
   FIDO2 security keys, Windows Hello for Business, Microsoft Authenticator passkeys,
@@ -551,8 +550,4 @@ Password Reset Tickets:  -82% reduction
 Avg Sign-In Time:        8.2s (passwordless) vs 24.1s (password)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

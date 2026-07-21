@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Parse Office 365 Unified Audit Logs via Microsoft Graph API to detect
   email forwarding rule creation, inbox delegation, suspicious OAuth app grants, and
@@ -65,8 +64,4 @@ Business Email Compromise (BEC) attacks often leave traces in Office 365 audit l
 - JSON report listing forwarding rules, delegation changes, OAuth grants, and suspicious audit events with risk scores
 - Timeline of compromise indicators with affected mailboxes
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect DLL side-loading attacks where adversaries place malicious DLLs
   alongside legitimate applications to hijack execution flow for defense evasion.
@@ -103,8 +102,4 @@ Host: [Hostname]
 Risk Level: [Critical/High/Medium/Low]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

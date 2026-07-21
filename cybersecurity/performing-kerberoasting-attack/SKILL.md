@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Kerberoasting is a post-exploitation technique that targets service accounts
   in Active Directory by requesting Kerberos TGS (Ticket Granting Service) tickets
@@ -111,8 +110,4 @@ Kerberoasting is a post-exploitation technique that targets service accounts in 
 - [ ] Cracked credentials validated
 - [ ] Access level of compromised accounts assessed
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

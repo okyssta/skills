@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Processes STIX 2.1 threat intelligence bundles delivered via TAXII 2.1
   servers, normalizing objects into platform-native schemas and routing them to appropriate
@@ -169,8 +168,4 @@ collection.add_objects(stix2.Bundle(new_indicator))
 - **Storing raw STIX blobs without indexing**: Storing bundles as opaque JSON prevents querying by indicator type or campaign. Parse into relational or graph database.
 - **Sharing TLP:RED content inadvertently**: Automated pipelines must filter marking definitions before routing to any shared platform or SIEM with broad analyst access.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

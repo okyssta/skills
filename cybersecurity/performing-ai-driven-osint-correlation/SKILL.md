@@ -1,5 +1,4 @@
 ---
-author: juliosuas
 category: cybersecurity
 description: Use AI and LLM-based reasoning to correlate findings across multiple
   OSINT sources—username enumeration, email lookups, social media profiles, domain
@@ -387,8 +386,4 @@ The final output is a structured JSON correlation report and a Markdown intellig
 - Ensure breach data timestamps are current and from reputable aggregators.
 - Validate that the final report does not include stale or retracted OSINT data.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

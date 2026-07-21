@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and investigate Azure service principal abuse including privilege
   escalation, credential compromise, admin consent bypass, and unauthorized enumeration
@@ -242,8 +241,4 @@ Create analytics rules for:
 - MITRE ATT&CK Cloud Matrix
 - Microsoft: Securing service principals in Entra ID
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

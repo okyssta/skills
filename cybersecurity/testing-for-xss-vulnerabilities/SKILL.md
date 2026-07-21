@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Tests web applications for Cross-Site Scripting (XSS) vulnerabilities
   by injecting JavaScript payloads into reflected, stored, and DOM-based contexts
@@ -206,8 +205,4 @@ refunds, and modify orders. Affects all 23 support agents who view customer tick
 4. Sanitize HTML input server-side using a whitelist approach (allow only safe tags)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

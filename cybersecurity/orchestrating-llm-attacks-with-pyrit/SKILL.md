@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build multi-turn, Crescendo, and Tree-of-Attacks-with-Pruning (TAP) automated
   attack chains against conversational LLM agents using Microsoft PyRIT, with adversarial
@@ -228,8 +227,4 @@ This skill uses MITRE ATLAS technique IDs.
 - [ ] Full conversation exported from memory as evidence.
 - [ ] Findings mapped to MITRE ATLAS and OWASP LLM Top 10 with turn counts and verdicts.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

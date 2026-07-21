@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers deploying HashiCorp Vault for centralized secrets
   management across cloud environments, including dynamic secret generation for databases
@@ -347,8 +346,4 @@ CREDENTIAL HYGIENE:
   Secrets Rotated This Month: 12,456
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy XM Cyber's continuous exposure management platform to map attack
   paths, identify choke points, and prioritize the 2% of exposures that threaten critical
@@ -263,8 +262,4 @@ Priority 4 (Standard - 90 days):
 - detecting-lateral-movement-in-network
 - exploiting-active-directory-with-bloodhound
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Inventory cryptography, deploy hybrid X25519 and ML-KEM, and prioritize
   harvest-now-decrypt-later data.
@@ -215,8 +214,4 @@ Centralize algorithm selection (config, not code), record key/cert expiry, and s
 - [ ] Production TLS terminator offers the hybrid group with classical fallback.
 - [ ] Crypto-agility/rotation plan documented and inventory re-run scheduled.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

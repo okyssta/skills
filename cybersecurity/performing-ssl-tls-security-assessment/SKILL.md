@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Assess SSL/TLS server configurations using the sslyze Python library
   to evaluate cipher suites, certificate chains, protocol versions, HSTS headers,
@@ -68,8 +67,4 @@ Produce a JSON report with compliance findings and remediation recommendations.
 
 JSON report with supported protocols, accepted cipher suites, certificate details, vulnerability results (Heartbleed, ROBOT), and HSTS status.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect process injection techniques (T1055) including CreateRemoteThread,
   process hollowing, and DLL injection via Sysmon Event IDs 8 and 10 and EDR process
@@ -68,8 +67,4 @@ Process injection (MITRE ATT&CK T1055) allows adversaries to execute code in the
 - MITRE ATT&CK sub-technique mapping (T1055.001-T1055.012)
 - False positive exclusion recommendations
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

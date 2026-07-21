@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Recover files from disk images and unallocated space using Foremost's
   header-footer signature carving to extract evidence regardless of file system state.
@@ -333,8 +332,4 @@ File Carving Summary:
   File Catalog: /cases/case-2024-001/analysis/carved_file_catalog.csv
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

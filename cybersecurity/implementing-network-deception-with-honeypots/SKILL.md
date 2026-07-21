@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy and manage network honeypots using OpenCanary, T-Pot, or Cowrie
   to detect unauthorized access, lateral movement, and attacker reconnaissance.
@@ -92,8 +91,4 @@ Commands Executed: [For SSH honeypots]
 Risk Level: [Critical/High/Medium/Low]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Map AWS and Azure attack paths and find exploitable misconfigurations
   with CloudFox.
@@ -208,8 +207,4 @@ so the blue team can correlate, and prefer running from an in-scope, attributabl
 - [ ] Findings exported to a structured directory for reporting
 - [ ] Enumeration confirmed to stay within authorized scope
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

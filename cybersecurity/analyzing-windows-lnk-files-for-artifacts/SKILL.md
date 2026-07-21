@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Parse Windows LNK shortcut files to extract target paths, timestamps,
   volume information, and machine identifiers for forensic timeline reconstruction.
@@ -328,8 +327,4 @@ LNK File Analysis Summary:
   Timeline: /cases/case-2024-001/analysis/lnk_analysis.csv
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

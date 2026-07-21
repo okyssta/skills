@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Threat actor infrastructure tracking involves monitoring and mapping
   adversary-controlled assets including command-and-control (C2) servers, phishing
@@ -307,8 +306,4 @@ def build_infrastructure_timeline(indicators):
 - [PassiveTotal API](https://api.passivetotal.org/api/docs/)
 - [JARM Fingerprinting](https://github.com/salesforce/jarm)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

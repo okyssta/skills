@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Conduct a comprehensive external network penetration test to identify
   vulnerabilities in internet-facing infrastructure using PTES methodology, reconnaissance,
@@ -358,8 +357,4 @@ meterpreter> keyscan_start
 - OSSTMM v3: https://www.isecom.org/OSSTMM.3.pdf
 - MITRE ATT&CK: https://attack.mitre.org/
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

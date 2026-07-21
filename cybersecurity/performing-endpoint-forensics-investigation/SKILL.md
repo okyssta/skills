@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs digital forensics investigation on compromised endpoints including
   memory acquisition, disk imaging, artifact analysis, and timeline reconstruction.
@@ -251,8 +250,4 @@ Structure forensic report:
 - **Not hashing evidence**: All evidence must be cryptographically hashed at collection time to prove integrity.
 - **Tunnel vision**: Focusing on one artifact when the timeline tells a broader story. Always build a comprehensive timeline.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

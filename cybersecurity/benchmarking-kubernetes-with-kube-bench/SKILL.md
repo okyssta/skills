@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Run CIS Kubernetes Benchmark checks and remediate findings with kube-bench.
 domain: cybersecurity
@@ -220,8 +219,4 @@ sudo kube-bench run --targets master,node --pgsql
 - [ ] Re-run confirms previously failing checks now PASS.
 - [ ] Results tracked over time (file archive or PostgreSQL).
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

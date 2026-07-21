@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure SSL/TLS inspection on network security devices to decrypt,
   inspect, and re-encrypt HTTPS traffic for threat detection while managing certificates,
@@ -292,8 +291,4 @@ show counter global filter category ssl
 - [NIST SP 800-52 Rev 2 - TLS Configuration](https://csrc.nist.gov/publications/detail/sp/800-52/rev-2/final)
 - [US-CERT Alert on HTTPS Inspection](https://www.cisa.gov/news-events/alerts/2017/03/13/https-interception-weakens-tls-security)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

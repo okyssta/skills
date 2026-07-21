@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect DCSync attacks where adversaries abuse Active Directory replication
   privileges to extract password hashes by monitoring for non-domain-controller accounts
@@ -155,8 +154,4 @@ Known Service Account: [Yes/No]
 Risk Assessment: [Critical - non-DC replication detected]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

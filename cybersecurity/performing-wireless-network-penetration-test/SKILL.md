@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Execute a wireless network penetration test to assess WiFi security by
   capturing handshakes, cracking WPA2/WPA3 keys, detecting rogue access points, and
@@ -265,8 +264,4 @@ reaver -i wlan0mon -b AA:BB:CC:DD:EE:03 -K 1 -vv
 - NIST SP 800-153: Guidelines for Securing WLANs
 - Hashcat WPA modes: https://hashcat.net/wiki/doku.php?id=example_hashes
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

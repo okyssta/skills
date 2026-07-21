@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Automate AWS GuardDuty threat detection findings processing using EventBridge
   and Lambda to enable real-time incident response, automatic quarantine of compromised
@@ -346,8 +345,4 @@ aws guardduty update-organization-configuration \
 - EventBridge Integration: https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings_eventbridge.html
 - GuardDuty Finding Types Reference
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

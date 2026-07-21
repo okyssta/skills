@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect data exfiltration through DNS tunneling by analyzing query entropy,
   subdomain length, query volume, TXT record abuse, and response payload sizes using
@@ -451,8 +450,4 @@ index=dns sourcetype=zeek:dns
 - [SANS Detecting DNS Tunneling](https://www.giac.org/paper/gcia/1116/detecting-dns-tunneling/108367)
 - [Fidelis DNS Tunneling Detection](https://fidelissecurity.com/threatgeek/learn/dns-tunneling-detection/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

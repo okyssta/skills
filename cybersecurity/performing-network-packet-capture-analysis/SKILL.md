@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform forensic analysis of network packet captures (PCAP/PCAPNG) using
   Wireshark, tshark, and tcpdump to reconstruct network communications, extract transferred
@@ -268,8 +267,4 @@ if __name__ == "__main__":
 - SANS Network Forensics: https://www.sans.org/cyber-security-courses/network-forensics/
 - Public PCAPs for Practice: https://www.netresec.com/?page=PcapFiles
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

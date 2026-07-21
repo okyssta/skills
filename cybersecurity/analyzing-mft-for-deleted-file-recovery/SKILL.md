@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Analyze the NTFS Master File Table ($MFT) to recover metadata and content
   of deleted files by examining MFT record entries, $LogFile, $UsnJrnl, and MFT slack
@@ -260,8 +259,4 @@ Full CSV report: /analysis/mft_output/mft_analysis.csv (395,264 rows)
 Timeline CSV: /analysis/mft_output/mft_timeline.csv
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

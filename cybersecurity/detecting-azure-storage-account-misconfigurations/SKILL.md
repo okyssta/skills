@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Audit Azure Blob and ADLS storage accounts for public access exposure,
   weak or long-lived SAS tokens, missing encryption at rest, disabled HTTPS-only traffic,
@@ -64,8 +63,4 @@ Azure Storage accounts are a frequent target for attackers due to misconfigured 
 
 JSON report with per-account findings, severity ratings (Critical/High/Medium/Low), and remediation recommendations aligned with CIS Azure Benchmark controls.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

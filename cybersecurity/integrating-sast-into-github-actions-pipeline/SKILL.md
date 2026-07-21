@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers integrating Static Application Security Testing (SAST)
   tools—CodeQL and Semgrep—into GitHub Actions CI/CD pipelines. It addresses configuring
@@ -334,8 +333,4 @@ QUALITY GATE: FAILED
 Action Required: Fix blocking findings before merge is permitted.
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

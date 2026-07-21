@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Run Microsoft Entra ID tenant reconnaissance, token acquisition and manipulation,
   and federation backdoor testing with the AADInternals PowerShell toolkit to validate
@@ -191,8 +190,4 @@ Capture exactly what recon revealed, which tokens/APIs were reachable, and wheth
 - [ ] Exposure documented with concrete impact
 - [ ] Hardening recommendations delivered (cert protection, federation monitoring, managed auth migration)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

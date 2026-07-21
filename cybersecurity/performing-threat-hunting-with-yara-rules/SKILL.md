@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Use YARA pattern-matching rules to hunt for malware, suspicious files,
   and indicators of compromise across filesystems and memory dumps. Covers rule authoring,
@@ -427,8 +426,4 @@ print("YARA hunting pipeline active. Monitoring /mnt/quarantine/ ...")
 - Confirm the continuous hunting pipeline generates alerts in JSONL format when test files are dropped
 - Cross-reference YARA matches against VirusTotal or sandbox results to validate detection accuracy
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

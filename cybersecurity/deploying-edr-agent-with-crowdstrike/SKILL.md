@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploys and configures CrowdStrike Falcon EDR agents across enterprise
   endpoints to enable real-time threat detection, behavioral analysis, and automated
@@ -266,8 +265,4 @@ reg query "HKLM\SYSTEM\CrowdStrike\{9b03c1d9-3138-44ed-9fae-d9f4c034b88d}\{16e04
 - **Conflicting security products**: Running multiple EDR/AV products causes performance issues and false positives. Coordinate exclusions or remove legacy AV before Falcon deployment.
 - **Sensor version pinning**: Falcon auto-updates sensors by default. Pin sensor versions in the console for change-controlled environments before testing new versions.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Scans GitHub Actions workflows and CI/CD pipeline configurations for
   supply chain attack vectors including unpinned actions, script injection via expressions,
@@ -84,8 +83,4 @@ for step in job.get("steps", []):
         print(f"Script injection risk: {run_cmd[:80]}")
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

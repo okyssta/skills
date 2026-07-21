@@ -1,5 +1,4 @@
 ---
-author: team-cybersecurity
 category: cybersecurity
 description: 'Correlates disparate security incidents, IOCs, and adversary behaviors
   across time and organizations to identify unified threat campaigns, attribute them
@@ -169,8 +168,4 @@ Structure the campaign report:
 - **Premature attribution**: Forcing campaign-to-actor attribution before evidence threshold is reached produces incorrect intelligence that persists in reports.
 - **Missing temporal analysis**: Events from different years may share infrastructure that was recycled by a different actor, not the same campaign.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

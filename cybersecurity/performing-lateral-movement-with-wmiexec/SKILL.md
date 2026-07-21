@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform lateral movement across Windows networks using WMI-based remote
   execution techniques including Impacket wmiexec.py, CrackMapExec, and native WMI
@@ -208,8 +207,4 @@ WMI (Windows Management Instrumentation) is a legitimate Windows administration 
 - [ ] No service creation artifacts on target systems
 - [ ] Evidence documented with command outputs and screenshots
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Runtime iOS app security testing with Objection (Frida): inspect keychain
   and filesystem data, explore app internals at runtime, and validate/bypass client-side
@@ -199,8 +198,4 @@ ios hooking search classes UITextField
 - **Swift name mangling**: Swift method names are mangled in the runtime. Use `ios hooking list classes` with grep to find demangled names.
 - **Non-persistent changes**: All Objection modifications are runtime-only and reset on app restart. Document findings immediately.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

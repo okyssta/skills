@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect process injection techniques (T1055) including classic DLL injection,
   process hollowing, and APC injection by analyzing Sysmon events for cross-process
@@ -171,8 +170,4 @@ Risk Level: [Critical/High/Medium/Low]
 ATT&CK Sub-Technique: [T1055.xxx]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

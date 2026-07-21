@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers analyzing Programmable Logic Controller (PLC) firmware
   for security vulnerabilities including hardcoded credentials, insecure update mechanisms,
@@ -505,8 +504,4 @@ VULNERABILITIES FOUND:
     Remediation: [Fix or mitigation]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements 802.1X port-based network access control using RADIUS authentication,
   PacketFence NAC, and switch configurations to enforce identity-based access policies,
@@ -442,8 +441,4 @@ wpa_cli -i eth0 status
 - RADIUS failover tested: Successful (critical VLAN activated in 3 seconds)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

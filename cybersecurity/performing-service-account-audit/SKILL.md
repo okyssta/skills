@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Audit service accounts across enterprise infrastructure to identify orphaned,
   over-privileged, and non-compliant accounts. This skill covers discovery of service
@@ -133,8 +132,4 @@ Audit service accounts across enterprise infrastructure to identify orphaned, ov
 - [ ] gMSA migration candidates identified
 - [ ] Compliance report generated
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

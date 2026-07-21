@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Extract embedded configuration from Agent Tesla RAT samples including
   SMTP/FTP/Telegram exfiltration credentials, keylogger settings, and C2 endpoints
@@ -198,8 +197,4 @@ if __name__ == "__main__":
 - [Trustwave - Agent Tesla Novel Loader](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/agent-teslas-new-ride-the-rise-of-a-novel-loader/)
 - [Malpedia - Agent Tesla](https://malpedia.caad.fkie.fraunhofer.de/details/win.agent_tesla)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and prevent privilege escalation in Kubernetes pods by monitoring
   security contexts, capabilities, and syscall patterns with Falco and OPA policies.
@@ -257,8 +256,4 @@ kubectl get pods --all-namespaces -o json | \
 7. **Audit RBAC changes** with Kubernetes audit logging
 8. **Use seccomp profiles** to restrict syscalls
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

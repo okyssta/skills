@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Builds a structured ransomware incident response playbook aligned with
   the CISA StopRansomware Guide and NIST Cybersecurity Framework. Covers preparation,
@@ -187,8 +186,4 @@ Post-Incident Report Template:
 - **MITRE ATT&CK**: Technique framework for mapping ransomware TTPs to detection opportunities
 - **Velociraptor**: Endpoint visibility tool for rapid triage and forensic artifact collection during incidents
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

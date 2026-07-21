@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Identifying sensitive data exposure vulnerabilities including API key
   leakage, PII in responses, insecure storage, and unprotected data transmission during
@@ -369,8 +368,4 @@ The `.git` directory is accessible on the production server. Using git-dumper, t
 8. Implement secret scanning in CI/CD pipeline (trufflehog/gitleaks)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

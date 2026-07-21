@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploying Cloudflare Access with Cloudflare Tunnel to provide zero trust
   access to self-hosted and private applications, configuring identity-aware access
@@ -394,8 +393,4 @@ ACCESS METRICS (last 30 days):
   Avg Session Duration: 6.2 hours
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Detecting misconfigured Azure Storage accounts including publicly accessible
   blob containers, missing encryption settings, overly permissive SAS tokens, disabled
@@ -274,8 +273,4 @@ SUMMARY:
   Keys not rotated in 90+ days:        14 / 24
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

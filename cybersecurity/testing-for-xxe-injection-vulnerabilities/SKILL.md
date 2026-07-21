@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Discovering and exploiting XML External Entity injection vulnerabilities
   to read server files, perform SSRF, and exfiltrate data during authorized penetration
@@ -358,8 +357,4 @@ A resume upload feature processes DOCX files. Injecting XXE into the `[Content_T
 5. Apply least-privilege file system permissions for the web server user
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

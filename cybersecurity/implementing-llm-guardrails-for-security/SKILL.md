@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Implements input and output validation guardrails for LLM-powered applications
   to prevent prompt injection, data leakage, toxic content generation, and hallucinated
@@ -218,8 +217,4 @@ python agent.py --file interaction_logs.txt --mode full --output json > guardrai
 - **Colang 2.0**: Event-driven interaction modeling language for defining guardrail flows with Python-like syntax, supporting multi-turn dialog control
 - **OpenAI Guardrails Python**: OpenAI's client-side guardrails library for prompt injection detection and content policy enforcement
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

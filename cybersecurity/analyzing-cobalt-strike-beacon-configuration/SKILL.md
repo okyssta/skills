@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Extract and analyze Cobalt Strike beacon configuration from PE files
   and memory dumps to identify C2 infrastructure, malleable profiles, and operator
@@ -389,8 +388,4 @@ def analyze_c2_profile(beacon_config):
 - [Cobalt Strike Staging and Config Extraction](https://blog.securehat.co.uk/cobaltstrike/extracting-config-from-cobaltstrike-stager-shellcode)
 - [MITRE ATT&CK - Cobalt Strike S0154](https://attack.mitre.org/software/S0154/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

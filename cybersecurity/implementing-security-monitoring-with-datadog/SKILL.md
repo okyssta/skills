@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implements security monitoring using Datadog Cloud SIEM, Cloud Security
   Management (CSM), and Workload Protection to detect threats, enforce compliance,
@@ -412,8 +411,4 @@ with ApiClient(configuration) as api_client:
 - [ ] Suppression queries are configured to reduce false positives on noisy rules
 - [ ] Security Signals API returns results programmatically for automation integration
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

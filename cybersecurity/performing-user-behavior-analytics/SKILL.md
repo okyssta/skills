@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs User and Entity Behavior Analytics (UEBA) to detect anomalous
   user activities including impossible travel, unusual access patterns, privilege
@@ -261,8 +260,4 @@ INVESTIGATION STATUS:
   mwilson:     Pending HR context — employee on notice period, monitoring increased
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement GCP Organization Policy constraints to enforce security guardrails
   across the entire resource hierarchy, restricting risky configurations and ensuring
@@ -278,8 +277,4 @@ gcloud asset search-all-resources \
 - GCP Policy Intelligence: https://cloud.google.com/policy-intelligence
 - CIS GCP Foundations Benchmark
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

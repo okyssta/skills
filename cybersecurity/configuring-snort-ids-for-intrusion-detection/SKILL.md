@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Installs, configures, and tunes Snort 3 intrusion detection system to
   monitor network traffic for malicious activity using custom and community rulesets,
@@ -413,8 +412,4 @@ snort -c /usr/local/etc/snort/snort.lua --daq-dir /usr/local/lib/daq -T 2>&1 | g
 - Added 3 custom rules for PHI exfiltration detection
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

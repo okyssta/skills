@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Conduct a sector-specific threat landscape assessment by analyzing threat
   actor targeting patterns, common attack vectors, and industry-specific vulnerabilities
@@ -296,8 +295,4 @@ generate_sector_report(assessment)
 - [H-ISAC Healthcare Sector](https://h-isac.org/)
 - [CyCognito: Threat Intelligence Lifecycle](https://www.cycognito.com/learn/threat-intelligence/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

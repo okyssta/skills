@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Analyzes malware command-and-control (C2) communication protocols to
   understand beacon patterns, command structures, data encoding, and infrastructure.
@@ -404,8 +403,4 @@ SID 9000011:      JA3 TLS fingerprint
 SID 9000013:      C2 certificate match
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

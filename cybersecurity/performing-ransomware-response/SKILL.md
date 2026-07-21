@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Executes a structured ransomware incident response from initial detection
   through containment, forensic analysis, decryption assessment, recovery, and post-incident
@@ -234,8 +233,4 @@ POST-INCIDENT ACTIONS
 5. Regulatory notifications filed (GDPR 72-hour, state AG)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy Runtime Application Self-Protection (RASP) agents to detect and
   block attacks from within application runtime, covering OpenRASP integration, attack
@@ -74,8 +73,4 @@ Forward RASP alerts to the SIEM for correlation with WAF, IDS, and authenticatio
 
 JSON report containing RASP policy audit results, detected attack attempts with stack traces, blocked requests summary, and coverage assessment against OWASP Top 10.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

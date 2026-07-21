@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and test for OWASP API3:2023 Broken Object Property Level Authorization
   vulnerabilities including excessive data exposure and mass assignment attacks.
@@ -409,8 +408,4 @@ def update_user(user_id, request_data, requesting_user):
 - API Security News BOPLA: https://apisecurity.io/owasp-api-security-top-10/api3-2023-broken-object-property-level-authorization/
 - CloudDefense BOPLA: https://www.clouddefense.ai/owasp/2023/3
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and extract hidden data embedded in images, audio, and other media
   files using steganalysis tools to uncover covert communication channels.
@@ -351,8 +350,4 @@ Steganalysis Summary:
   Report: /cases/case-2024-001/analysis/steg_report.json
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

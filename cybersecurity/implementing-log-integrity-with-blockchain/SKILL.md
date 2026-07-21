@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build an append-only log integrity chain using SHA-256 hash chaining
   for tamper detection. Each log entry is hashed with the previous entry's hash to
@@ -70,8 +69,4 @@ python scripts/agent.py --log-file /var/log/syslog --chain-file log_chain.json -
 ### Tamper Detection
 If entry 42 is modified, chain_hash[42] will not match SHA256(chain_hash[41] + ...), and all entries from 42 onward will be flagged as invalid.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

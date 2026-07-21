@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Implements eBPF-based security monitoring using Cilium Tetragon for
   real-time process execution tracking, network connection observability, file access
@@ -382,8 +381,4 @@ tetra getevents -o json | jq -c 'select(.process_kprobe != null)' | \
   done
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

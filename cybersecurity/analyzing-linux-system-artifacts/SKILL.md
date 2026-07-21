@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Examine Linux system artifacts including auth logs, cron jobs, shell
   history, and system configuration to uncover evidence of compromise or unauthorized
@@ -338,8 +337,4 @@ Linux Forensics Summary:
   Report: /cases/case-2024-001/linux/analysis/
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

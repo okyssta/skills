@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement API abuse detection using token bucket, sliding window, and
   adaptive rate limiting algorithms to prevent DDoS, brute force, and credential stuffing
@@ -397,8 +396,4 @@ Content-Type: application/json
 - Redis Rate Limiting: https://redis.io/glossary/rate-limiting/
 - Rakuten SixthSense API Rate Limiting: https://sixthsense.rakuten.com/blog/API-Rate-Limiting-A-Critical-Layer-for-API-Protection
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

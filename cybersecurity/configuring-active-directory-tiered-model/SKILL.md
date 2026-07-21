@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement Microsoft's Enhanced Security Admin Environment (ESAE) tiered
   administration model for Active Directory. Covers Tier 0/1/2 separation, privileged
@@ -73,8 +72,4 @@ Implement Microsoft's Enhanced Security Admin Environment (ESAE) tiered administ
 - [ ] Documentation and runbooks complete
 - [ ] Compliance evidence generated
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Indicator lifecycle management tracks IOCs from initial discovery through
   validation, enrichment, deployment, monitoring, and eventual retirement. This skill
@@ -147,8 +146,4 @@ class IOCLifecycle:
 - [STIX Indicator Valid From/Until](https://docs.oasis-open.org/cti/stix/v2.1/stix-v2.1.html)
 - [IOC Quality Framework](https://www.first.org/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

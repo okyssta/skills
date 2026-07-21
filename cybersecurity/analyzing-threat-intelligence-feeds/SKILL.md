@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Analyzes structured and unstructured threat intelligence feeds to extract
   actionable indicators, adversary tactics, and campaign context. Use when ingesting
@@ -127,8 +126,4 @@ Export enriched indicators via TAXII 2.1 push to SIEM (Splunk, Microsoft Sentine
 - **TLP violation**: Redistributing RED-classified intelligence outside authorized boundaries violates sharing agreements and trust relationships.
 - **Over-blocking on low-confidence indicators**: Indicators with confidence below 50 should trigger detection-only rules, not blocking, to avoid operational disruption.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

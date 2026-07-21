@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Classify and prioritize security incidents using structured IR playbooks
   to determine severity, assign response teams, and initiate appropriate response
@@ -231,8 +230,4 @@ curl -X PATCH "https://thehive.local/api/v1/case/$CASE_ID" \
 - Escalation notification to appropriate stakeholders
 - Initial timeline of events from alert data
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

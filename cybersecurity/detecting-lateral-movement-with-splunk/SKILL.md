@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect adversary lateral movement across networks using Splunk SPL queries
   against Windows authentication logs, SMB traffic, and remote service abuse.
@@ -109,8 +108,4 @@ Risk Level: [Critical/High/Medium/Low]
 Lateral Movement Path: [A -> B -> C -> D]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

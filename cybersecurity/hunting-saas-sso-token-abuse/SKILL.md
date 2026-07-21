@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect SSO and OAuth token replay and SaaS lateral movement.
 domain: cybersecurity
@@ -223,8 +222,4 @@ Detection should pair with controls that make stolen tokens far less useful:
 - [ ] Effective queries promoted to standing detection rules
 - [ ] False-positive baseline (VPN/proxy egress) documented
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Builds vendor-agnostic detection rules using the Sigma rule format for
   threat detection across SIEM platforms including Splunk, Elastic, and Microsoft
@@ -69,7 +68,7 @@ description: Detects process accessing lsass.exe memory, indicative of credentia
 references:
     - https://attack.mitre.org/techniques/T1003/001/
     - https://github.com/gentilkiwi/mimikatz
-author: mahipal
+author: community
 date: 2024/03/15
 modified: 2024/03/15
 tags:
@@ -333,8 +332,4 @@ Testing:
   Performance:       Avg execution 3.2s on 50M events/day
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

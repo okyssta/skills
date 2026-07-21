@@ -1,5 +1,4 @@
 ---
-author: andrewibrah
 category: cybersecurity
 description: 'Implement the HIPAA Security Rule (45 CFR Part 164 Subpart C) to protect
   electronic protected health information (ePHI): conduct the required risk analysis,
@@ -141,8 +140,4 @@ Produce a **HIPAA Security Rule Gap Assessment** using `assets/template.md`, con
 
 Use `scripts/process.py` to score a safeguard-status JSON across the §164.308/310/312 standards, weight required gaps above addressable ones, and emit the gap table plus a remediation-priority list.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy and configure Velociraptor for scalable endpoint forensic artifact
   collection during incident response using VQL queries, hunts, and pre-built artifact
@@ -297,8 +296,4 @@ Monitoring:
 - [Velociraptor GitHub Repository](https://github.com/Velocidex/velociraptor)
 - [Pen Test Partners: Large-Scale Velociraptor](https://www.pentestpartners.com/security-blog/using-velociraptor-for-large-scale-endpoint-visibility-and-rapid-threat-hunting/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

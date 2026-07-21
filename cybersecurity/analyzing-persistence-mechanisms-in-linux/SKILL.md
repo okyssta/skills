@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect and analyze Linux persistence mechanisms including crontab entries,
   systemd service units, LD_PRELOAD hijacking, bashrc modifications, and authorized_keys
@@ -68,8 +67,4 @@ Adversaries establish persistence on Linux systems through crontab jobs, systemd
 - MITRE ATT&CK technique mapping (T1053, T1543, T1574, T1546)
 - Remediation commands for each detected persistence mechanism
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

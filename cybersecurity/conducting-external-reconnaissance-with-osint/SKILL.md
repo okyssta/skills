@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Conducts external reconnaissance using Open Source Intelligence (OSINT)
   techniques to map an organization''s external attack surface without directly interacting
@@ -192,8 +191,4 @@ Identify the technologies, frameworks, and services used by the target:
 4. Implement GitHub secret scanning across all organization repositories
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

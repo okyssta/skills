@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy CyberArk Secure Cloud Access to eliminate standing privileges
   in hybrid and multi-cloud environments using just-in-time access with time, entitlement,
@@ -250,8 +249,4 @@ Phase 4: GOVERNANCE (Ongoing)
 - [CyberArk Blueprint - Zero Standing Privilege](https://docs.cyberark.com/cyberark-blueprint/latest/en/content/zero-standing-privilege.htm)
 - [CyberArk Secure Cloud Access Documentation](https://docs.cyberark.com/ispss-access/latest/en/content/getstarted/acc-frst-page.htm)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

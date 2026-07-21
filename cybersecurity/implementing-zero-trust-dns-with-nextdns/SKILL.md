@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement NextDNS as a zero trust DNS filtering layer with encrypted
   resolution, threat intelligence blocking, privacy protection, and organizational
@@ -367,8 +366,4 @@ Tier 3 - Compliance (Organization-specific):
 - [RFC 8484: DNS Queries over HTTPS (DoH)](https://tools.ietf.org/html/rfc8484)
 - [RFC 7858: DNS over TLS (DoT)](https://tools.ietf.org/html/rfc7858)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers implementing code signing for build artifacts to ensure
   integrity and authenticity throughout the software supply chain. It addresses signing
@@ -233,8 +232,4 @@ TRANSPARENCY LOG:
   Verification: https://search.sigstore.dev
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

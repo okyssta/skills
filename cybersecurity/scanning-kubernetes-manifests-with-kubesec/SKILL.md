@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Perform security risk analysis on Kubernetes resource manifests using
   Kubesec to identify misconfigurations, privilege escalation risks, and deviations
@@ -307,8 +306,4 @@ webhooks:
 - [CIS Kubernetes Benchmark](https://www.cisecurity.org/benchmark/kubernetes)
 - [Kubernetes Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

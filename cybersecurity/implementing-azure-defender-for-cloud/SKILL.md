@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing Microsoft Defender for Cloud to enable cloud security posture
   management, workload protection across VMs, containers, databases, and storage,
@@ -319,8 +318,4 @@ SECURITY ALERTS (Last 7 Days):
   Low severity:     28
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

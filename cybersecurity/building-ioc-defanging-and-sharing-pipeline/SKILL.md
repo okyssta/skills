@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Build an automated pipeline to defang indicators of compromise (URLs,
   IPs, domains, emails) for safe sharing and distribute them in STIX format through
@@ -379,8 +378,4 @@ distributor.push_to_misp(
 - [Grokipedia: Defanging](https://grokipedia.com/page/defanging)
 - [Hunt.io: Best IOC Feeds](https://hunt.io/glossary/best-ioc-feeds)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

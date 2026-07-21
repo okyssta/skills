@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement Kubernetes Pod Security Admission to enforce baseline and restricted
   security profiles at namespace level using built-in admission controller.
@@ -325,8 +324,4 @@ kubectl get namespaces -L pod-security.kubernetes.io/enforce
 7. **Use restricted profile** for all production workloads
 8. **Document exemptions** with clear justification
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

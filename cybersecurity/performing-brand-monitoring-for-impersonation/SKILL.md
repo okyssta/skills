@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Monitor for brand impersonation attacks across domains, social media,
   mobile apps, and dark web channels to detect phishing campaigns, fake sites, and
@@ -259,8 +258,4 @@ Regards,
 - [Flare: Digital Brand Protection](https://flare.io/glossary/digital-brand-protection/)
 - [dnstwist GitHub](https://github.com/elceef/dnstwist)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

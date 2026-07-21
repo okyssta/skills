@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy and configure Rapid7 InsightVM Security Console and Scan Engines
   for authenticated and unauthenticated vulnerability scanning across enterprise environments.
@@ -365,8 +364,4 @@ for site in sites:
 - implementing-wazuh-for-vulnerability-detection
 - performing-remediation-validation-scanning
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

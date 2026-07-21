@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Performs entitlement review and access certification campaigns using
   SailPoint IdentityIQ including manager certifications, targeted entitlement reviews,
@@ -465,8 +464,4 @@ Campaign Signed:        2026-02-14 by compliance-admin
 Audit Evidence:         Exported to /reports/Q1-2026-cert-evidence.pdf
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

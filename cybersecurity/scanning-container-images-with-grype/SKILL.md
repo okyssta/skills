@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Scan container images for known vulnerabilities using Anchore Grype with
   SBOM-based matching and configurable severity thresholds.
@@ -235,8 +234,4 @@ grype db list
 6. **Automate database updates** - Keep the vulnerability database current in CI runners
 7. **Compare scans** - Track vulnerability count over time for regression detection
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'This skill covers detecting cyber attacks targeting Supervisory Control
   and Data Acquisition (SCADA) systems including man-in-the-middle attacks on industrial
@@ -714,8 +713,4 @@ RECOMMENDED RESPONSE:
   3. [Escalation path]
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

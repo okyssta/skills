@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Implements external attack surface management (EASM) using Shodan, Censys,
   and ProjectDiscovery tools (subfinder, httpx, nuclei) for asset discovery, subdomain
@@ -229,8 +228,4 @@ python agent.py \
     --output multi_domain_report.json
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

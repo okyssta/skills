@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: AES (Advanced Encryption Standard) is a symmetric block cipher standardized
   by NIST (FIPS 197) used to protect classified and sensitive data. This skill covers
@@ -114,8 +113,4 @@ Never use raw passwords as encryption keys. Always derive keys using:
 - [ ] Large files (>1GB) can be processed via streaming
 - [ ] Encrypted file format includes all necessary metadata
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

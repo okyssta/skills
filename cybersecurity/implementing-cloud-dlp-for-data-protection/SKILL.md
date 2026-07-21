@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Implementing Cloud Data Loss Prevention (DLP) using Amazon Macie, Azure
   Information Protection, and Google Cloud DLP API to discover, classify, and protect
@@ -453,8 +452,4 @@ REMEDIATION ACTIONS:
   Sensitivity labels applied:        45,200
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement Amazon Macie to automatically discover, classify, and protect
   sensitive data in S3 buckets using machine learning and pattern matching for PII,
@@ -324,8 +323,4 @@ aws macie2 list-classification-jobs \
 - Supported File Types for Macie Analysis
 - GDPR and CCPA Compliance with Macie
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

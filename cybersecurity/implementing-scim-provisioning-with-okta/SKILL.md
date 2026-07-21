@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Implement automated user provisioning and deprovisioning using SCIM 2.0
   protocol with Okta as the identity provider.
@@ -227,8 +226,4 @@ Okta provides an automated SCIM test suite (via Runscope/BlazeMeter) that valida
 - [Build a SCIM API Service - Okta](https://developer.okta.com/docs/guides/scim-provisioning-integration-prepare/main/)
 - [SCIM Core Schema RFC 7643](https://tools.ietf.org/html/rfc7643)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

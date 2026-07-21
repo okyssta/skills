@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Plant canarytokens and honey credentials and alert on breach.
 domain: cybersecurity
@@ -233,8 +232,4 @@ Record each deployed token (type, memo, location, alert channel, D3FEND mapping)
 - [ ] Token inventory exported (type, memo, location, alert channel, D3-DF/D3-DUC mapping).
 - [ ] No tokens committed to public repositories or planted on out-of-scope systems.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

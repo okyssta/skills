@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Write multi-event correlation rules that detect APT lateral movement
   by chaining Windows authentication events, process execution telemetry, and network
@@ -92,8 +91,4 @@ detection:
 level: high
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

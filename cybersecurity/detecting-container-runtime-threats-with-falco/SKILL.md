@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Write and deploy Falco rules with the modern eBPF driver to detect container
   escape, namespace abuse, privileged mounts, and anomalous syscalls at runtime in
@@ -288,8 +287,4 @@ helm upgrade falco falcosecurity/falco -n falco --reuse-values \
 - [ ] Alerts forwarded to the SIEM via Falcosidekick
 - [ ] Rule tags include the relevant MITRE technique IDs
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

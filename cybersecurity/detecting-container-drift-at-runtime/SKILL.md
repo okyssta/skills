@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect unauthorized modifications to running containers by monitoring
   for binary execution drift, file system changes, and configuration deviations from
@@ -245,8 +244,4 @@ For Azure Kubernetes environments, Microsoft Defender provides built-in binary d
 - [Ensure Immutability of Containers at Runtime](https://notes.kodekloud.com/docs/Certified-Kubernetes-Security-Specialist-CKS/Monitoring-Logging-and-Runtime-Security/Ensure-Immutability-of-Containers-at-Runtime/)
 - [Falco Runtime Security](https://falco.org/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

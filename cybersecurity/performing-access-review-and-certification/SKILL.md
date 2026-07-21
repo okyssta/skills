@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Conduct systematic access reviews and certifications to ensure users
   have appropriate access rights aligned with their roles. This skill covers review
@@ -147,8 +146,4 @@ Conduct systematic access reviews and certifications to ensure users have approp
 - [ ] SOD violations identified and documented
 - [ ] Exceptions documented with business justification and expiry
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

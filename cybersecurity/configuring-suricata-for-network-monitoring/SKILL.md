@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Deploys and configures Suricata IDS/IPS with Emerging Threats rulesets,
   EVE JSON logging, and custom rules for real-time network traffic inspection, threat
@@ -408,8 +407,4 @@ cat /var/log/suricata/eve.json | jq 'select(.event_type=="stats") | .stats.captu
 2. SID 9000002: DNS tunneling from 10.10.3.45 to suspect-domain.xyz (98 alerts)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

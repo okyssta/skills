@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Open Source Intelligence (OSINT) gathering is the first active phase
   of a red team engagement, where operators collect publicly available information
@@ -143,8 +142,4 @@ Open Source Intelligence (OSINT) gathering is the first active phase of a red te
 - [ ] Attack surface map documented
 - [ ] OSINT report compiled for engagement team
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

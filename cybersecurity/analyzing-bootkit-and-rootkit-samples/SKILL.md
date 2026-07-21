@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Analyzes bootkit and advanced rootkit malware that infects the Master
   Boot Record (MBR), Volume Boot Record (VBR), or UEFI firmware to gain persistence
@@ -362,8 +361,4 @@ REMEDIATION
 5. Update firmware to latest version (patches CVE-2022-21894)
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

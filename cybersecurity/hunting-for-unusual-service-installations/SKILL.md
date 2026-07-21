@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect suspicious Windows service installations (MITRE ATT&CK T1543.003)
   by parsing System event logs for Event ID 7045, analyzing service binary paths,
@@ -66,8 +65,4 @@ Attackers frequently install malicious Windows services for persistence and priv
 - JSON report listing all new service installations with risk scores, suspicious indicators, and remediation recommendations
 - Timeline of service installation events with binary path analysis
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

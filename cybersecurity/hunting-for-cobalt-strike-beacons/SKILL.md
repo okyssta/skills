@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Detect Cobalt Strike beacon network activity using default TLS certificate
   signatures (serial 8BB00EE), JA3/JA3S/JARM fingerprints, HTTP C2 profile pattern
@@ -74,8 +73,4 @@ Combine multiple indicators (TLS + timing + HTTP profile) into a composite beaco
 
 JSON report containing detected beacon candidates with confidence scores, TLS fingerprints, timing analysis, HTTP profile matches, and recommended response actions.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

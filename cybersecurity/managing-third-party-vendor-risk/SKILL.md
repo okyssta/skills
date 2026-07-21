@@ -1,5 +1,4 @@
 ---
-author: andrewibrah
 category: cybersecurity
 description: 'Build and run a third-party / vendor risk management (TPRM) program
   aligned to NIST SP 800-161 C-SCRM and NIST CSF 2.0 GV.SC: inventory and tier vendors
@@ -148,8 +147,4 @@ Produce a **Vendor Risk Assessment** using `assets/template.md`, containing:
 
 Use `scripts/process.py` to compute a vendor's inherent-risk tier from a profile JSON, set the assessment depth and reassessment cadence, and flag missing evidence for the assigned tier.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

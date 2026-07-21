@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Produce Sigma-based EVTX timelines and summaries with Hayabusa.
 domain: cybersecurity
@@ -170,8 +169,4 @@ On the affected machine (Administrator), analyze local logs without exporting fi
 - [ ] Targeted IOC searches run with keyword/regex.
 - [ ] Findings (e.g., PowerShell T1059.001 detections) documented in the incident timeline.
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

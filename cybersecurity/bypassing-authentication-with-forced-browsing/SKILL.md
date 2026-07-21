@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Discovering and accessing unprotected pages, APIs, and administrative
   interfaces by enumerating URLs and bypassing authentication controls during authorized
@@ -284,8 +283,4 @@ The `/actuator/env` endpoint is exposed without authentication, revealing enviro
 5. Use a reverse proxy to restrict access to internal-only endpoints
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

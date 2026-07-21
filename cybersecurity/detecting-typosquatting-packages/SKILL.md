@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Flag misspelled, brandjacked, and typosquatted package names across npm,
   PyPI, and crates.io before installation using edit-distance, keyboard-proximity,
@@ -233,8 +232,4 @@ jobs:
 - [ ] CI/CD gate screens new dependency names on every pull request
 - [ ] No suspect package installed outside a disposable sandbox
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

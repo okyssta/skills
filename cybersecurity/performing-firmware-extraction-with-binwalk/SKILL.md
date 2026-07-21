@@ -1,5 +1,4 @@
 ---
-author: mukul975
 category: cybersecurity
 description: 'Performs firmware image extraction and analysis using binwalk to identify
   embedded filesystems, compressed archives, bootloaders, kernel images, and cryptographic
@@ -268,8 +267,4 @@ SECURITY FINDINGS
 [LOW]      UPnP service enabled by default
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

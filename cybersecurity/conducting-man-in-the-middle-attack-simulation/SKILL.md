@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: 'Simulates man-in-the-middle attacks using Ettercap, mitmproxy, and Bettercap
   in authorized environments to intercept, analyze, and modify network traffic for
@@ -296,8 +295,4 @@ sha256sum mitm_capture.flow mitm_evidence.pcapng >> mitm_report.txt
 4. Configure application to reject connections from non-pinned certificates
 ```
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Nikto is an open-source web server and web application scanner that tests
   against over 7,000 potentially dangerous files/programs, checks for outdated versions
@@ -245,8 +244,4 @@ for item in tree.findall('.//item'):
 - scanning-apis-for-security-vulnerabilities
 - performing-network-vulnerability-assessment
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

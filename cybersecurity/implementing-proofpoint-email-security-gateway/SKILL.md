@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Deploy and configure Proofpoint Email Protection as a secure email gateway
   to detect and block phishing, malware, BEC, and spam before messages reach user
@@ -134,8 +133,4 @@ Proofpoint Email Protection is a cloud-native secure email gateway (SEG) that ac
 - False positive rate below 0.1% after initial tuning period
 - DMARC/SPF/DKIM authentication passes for all legitimate outbound mail
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

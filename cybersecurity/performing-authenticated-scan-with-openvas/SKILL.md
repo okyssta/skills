@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure and execute authenticated vulnerability scans using OpenVAS/Greenbone
   Vulnerability Management with SSH and SMB credentials for comprehensive host-level
@@ -273,8 +272,4 @@ gvm-cli socket --socketpath /run/gvmd/gvmd.sock --gmp-username admin --gmp-passw
 - [python-gvm Library](https://github.com/greenbone/python-gvm)
 - [GVM Docker Deployment](https://greenbone.github.io/docs/latest/22.4/container/)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

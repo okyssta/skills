@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Configure IAM permission boundaries in AWS to delegate role creation
   to developers while enforcing maximum privilege limits set by the security team.
@@ -267,8 +266,4 @@ resource "aws_iam_role" "app_role" {
 - [AWS Example Permission Boundary - GitHub](https://github.com/aws-samples/example-permissions-boundary)
 - [AWS Prescriptive Guidance - Creating Permission Boundaries](https://docs.aws.amazon.com/prescriptive-guidance/latest/transitioning-to-multiple-aws-accounts/creating-a-permissions-boundary.html)
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 

@@ -1,5 +1,4 @@
 ---
-author: mahipal
 category: cybersecurity
 description: Patch management is the systematic process of identifying, testing, deploying,
   and verifying software updates to remediate vulnerabilities across an organization's
@@ -322,8 +321,4 @@ curl -k -X POST "https://nessus:8834/scans/$VERIFY_SCAN_ID/launch" \
 - implementing-vulnerability-remediation-sla
 - implementing-continuous-vulnerability-monitoring
 
-
----
-
-*Adapted for Hermes Agent from Anthropic Cybersecurity Skills ([mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)).*
 
