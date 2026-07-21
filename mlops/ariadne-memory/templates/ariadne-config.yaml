@@ -1,0 +1,51 @@
+# Ariadne Configuration for Hermes
+
+Add to your `~/.hermes/config.yaml`:
+
+```yaml
+memory:
+  memory_enabled: true
+  user_profile_enabled: true
+  memory_char_limit: 2200
+  user_char_limit: 1375
+  provider: ariadne
+  nudge_interval: 10
+  flush_min_turns: 6
+```
+
+## Database Locations
+
+- Main: `~/.hermes/ariadne/memory.db`
+- Shared surface: `~/.hermes/ariadne/shared/memory.db`
+
+## Environment Variables (Optional)
+
+```bash
+# Override default database paths
+ARIADNE_DB_PATH=~/.hermes/ariadne/memory.db
+ARIADNE_SHARED_DB_PATH=~/.hermes/ariadne/shared/memory.db
+```
+
+## Embedding Models
+
+| Model | Dimensions | Speed | Quality |
+|-------|------------|-------|---------|
+| `all-MiniLM-L6-v2` | 384 | Fast | Good |
+| `all-mpnet-base-v2` | 768 | Medium | Better |
+| `BAAI/bge-large-en-v1.5` | 1024 | Slow | Best |
+
+## AriadneConfig Options
+
+```python
+from arriadne import AriadneConfig
+
+config = AriadneConfig(
+    db_path="memory.db",
+    embedding_dim=384,
+    faiss_type="auto",           # auto | flat_ip | ivf_flat
+    dedup_threshold=0.8,         # MinHash similarity threshold
+    retention_half_life=86400,   # 1 day in seconds
+    ivf_threshold=10000,         # Upgrade to IVF at this size
+    max_memories=100000,         # Eviction trigger
+)
+```

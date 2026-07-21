@@ -1,0 +1,65 @@
+plugins {
+    id 'java'
+}
+
+// EDIT THESE VALUES FOR YOUR PLUGIN
+group = 'com.yourdomain'  // e.g., dev.darkxx
+version = '1.0.0'         // Match or increment from original plugin
+description = 'Your Plugin Description'
+
+java {
+    // SET BASED ON TARGET PAPER VERSION:
+    // Paper 1.16.x: Java 16
+    // Paper 1.17.x-1.18.x: Java 16
+    // Paper 1.19.x-1.20.x: Java 17
+    // Paper 1.21.x: Java 21
+    // Paper 26.x: Java 25
+    sourceCompatibility = JavaVersion.VERSION_21
+    targetCompatibility = JavaVersion.VERSION_21
+}
+
+repositories {
+    mavenCentral()
+    maven { url = 'https://repo.papermc.io/repository/maven-public/' }
+}
+
+// ADJUST DEPENDENCIES AS NEEDED
+dependencies {
+    // PAPER API - VERSION DEPENDS ON TARGET SERVER
+    // For Paper 1.20.4: paper-api:1.20.4-R0.1-SNAPSHOT
+    // For Paper 1.21.4: paper-api:1.21.4-R0.1-SNAPSHOT
+    // For Paper 26.1.2: Use 1.21.4-R0.1-SNAPSHOT (API compatible)
+    compileOnly 'io.papermc.paper:paper-api:1.21.4-R0.1-SNAPSHOT'
+    
+    // COMMON DEPENDENCIES (UNCOMMENT AS NEEDED)
+    // compileOnly 'net.kyori:adventure-api:4.12.0'
+    // compileOnly 'net.kyori:adventure-platform-bukkit:4.12.0'
+    // compileOnly 'me.clip:placeholderapi:2.12.2'
+    // compileOnly 'com.github.DevRocks800:HolographicDisplays:3.3.0'
+    // compileOnly 'org.bukkit:WorldGuard-bukkit:7.0.9'
+}
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+jar {
+    // SET YOUR PLUGIN'S JAR NAME
+    archiveFileName = 'your-plugin-name-${version}.jar'
+    // To preserve original name: archiveFileName = 'original-name.jar'
+}
+
+// CORE RESOURCES TO COPY (ADJUST AS NEEDED)
+processResources {
+    from(sourceSets.main.resources) {
+        include 'plugin.yml'
+        include '*.yml'
+        include '*.yaml'
+        include 'lang/**'
+        include 'messages/**'
+        include 'menus/**'
+        include 'config/**'
+        include 'templates/**'
+        include 'schematics/**'
+    }
+}

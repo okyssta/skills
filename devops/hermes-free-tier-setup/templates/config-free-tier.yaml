@@ -1,0 +1,458 @@
+# ──────────────────────────────────────────────────────────────────────
+# HERMES AGENT — FREE TIER OPTIMIZED CONFIGURATION (COMPLETE)
+# Best free models, fallback chains, and auxiliary setup for 100% free usage
+# Research date: July 2026 | Covers: OpenRouter, Groq, Google AI Studio, NVIDIA NIM,
+# OpenCode Zen, NovitaAI, Hugging Face, Ollama, vLLM, Cohere, GitHub Models, Cloudflare
+# ──────────────────────────────────────────────────────────────────────
+
+# ═══════════════════════════════════════════════════════════════════════
+# MAIN MODEL — BEST FREE MODEL (Nemotron 3 Ultra on OpenRouter)
+# ═══════════════════════════════════════════════════════════════════════
+# NVIDIA Nemotron 3 Ultra (free): 550B MoE, 1M context, best reasoning/orchestration
+model:
+  provider: openrouter
+  default: nvidia/nemotron-3-ultra-550b-a55b:free
+  base_url: ""
+  api_mode: chat_completions
+
+# ═══════════════════════════════════════════════════════════════════════
+# FALLBACK PROVIDER CHAIN — PRIMARY MODEL FAILOVER (20 layers)
+# Order: Best reasoning → Fastest → Coding specialist → Long context → Local → Others
+# ═══════════════════════════════════════════════════════════════════════
+fallback_providers:
+  # 1️⃣ PRIMARY FALLBACK: Nemotron 3 Super (smaller MoE, still 1M context, 12B active)
+  - provider: openrouter
+    model: nvidia/nemotron-3-super-120b-a12b:free
+
+  # 2️⃣ SPEED FALLBACK: Groq Llama 3.3 70B (320 tok/s on LPU, 1K req/day, 500K tokens/day)
+  - provider: groq
+    model: llama-3.3-70b-versatile
+
+  # 3️⃣ CODING SPECIALIST: Poolside Laguna M.1 (best free coding agent, 256K context)
+  - provider: openrouter
+    model: poolside/laguna-m.1:free
+
+  # 4️⃣ LONG CONTEXT: Google AI Studio Gemini 2.5 Flash (1M context, 1,500 RPD)
+  - provider: gemini
+    model: gemini-2.5-flash
+
+  # 5️⃣ LOCAL FALLBACK: Ollama Qwen3.5 27B (zero cost, no limits, needs 16GB VRAM)
+  - provider: custom
+    model: qwen3.5:27b
+    base_url: http://localhost:11434/v1
+    key_env: OLLAMA_API_KEY
+
+  # 6️⃣ COHERE CODER: North Mini Code (3B active, 256K, Apache 2.0)
+  - provider: openrouter
+    model: cohere/north-mini-code:free
+
+  # 7️⃣ MULTIMODAL: Gemma 4 31B (images + text, 256K, Apache 2.0)
+  - provider: openrouter
+    model: google/gemma-4-31b-it:free
+
+  # 8️⃣ GPT-OSS: OpenAI's open MoE (117B, 5.1B active, 131K context)
+  - provider: openrouter
+    model: openai/gpt-oss-120b:free
+
+  # 9️⃣ FAST CODING: Laguna XS 2.1 (33B-A3B, FP8 quant, 256K context)
+  - provider: openrouter
+    model: poolside/laguna-xs-2.1:free
+
+  # 🔟 NVIDIA NIM: If you have NIM credits (40 RPM, credits don't expire)
+  - provider: nvidia
+    model: nvidia/nemotron-3-ultra
+
+  # 1️⃣1️⃣ OPENCODE ZEN FREE: MiMo-V2.5 Free (coding optimized, free tier)
+  - provider: opencode-zen
+    model: mimo-v2.5-free
+
+  # 1️⃣2️⃣ OPENCODE ZEN FREE: North Mini Code Free (Cohere coder, free)
+  - provider: opencode-zen
+    model: north-mini-code-free
+
+  # 1️⃣3️⃣ OPENCODE ZEN FREE: Nemotron 3 Ultra Free (NVIDIA via OpenCode)
+  - provider: opencode-zen
+    model: nemotron-3-ultra-free
+
+  # 1️⃣4️⃣ OPENCODE ZEN FREE: Big Pickle (stealth model, free)
+  - provider: opencode-zen
+    model: big-pickle
+
+  # 1️⃣5️⃣ OPENCODE ZEN FREE: DeepSeek V4 Flash Free
+  - provider: opencode-zen
+    model: deepseek-v4-flash-free
+
+  # 1️⃣6️⃣ NOVITAAI: Cost-efficient, free credits on signup
+  - provider: novita
+    model: google/gemma-4-31b-it
+
+  # 1️⃣7️⃣ HUGGING FACE: Community models via Inference Providers
+  - provider: huggingface
+    model: meta-llama/Llama-3.3-70B-Instruct
+
+  # 1️⃣8️⃣ GITHUB MODELS: Frontier access (GPT-4o, Claude 3.5 Sonnet, Llama, Phi)
+  - provider: github-models
+    model: gpt-4o
+
+  # 1️⃣9️⃣ CLOUDFLARE WORKERS AI: Edge deployment (20+ models, 10K neurons/day)
+  - provider: cloudflare
+    model: "@cf/meta/llama-3.3-70b-instruct"
+
+  # 2️⃣0️⃣ KIMI/MOONSHOT: Long context (free tier, 128K+ context)
+  - provider: kimi-coding
+    model: kimi-k2.6
+
+# ═══════════════════════════════════════════════════════════════════════
+# AUXILIARY MODELS — Optimized free models for each side task
+# Each auxiliary task has its own optimized free model + fallback chain
+# ═══════════════════════════════════════════════════════════════════════
+
+auxiliary:
+  # ──────────────────────────────────────────────────────────────────
+  # VISION — Image analysis, screenshots, browser vision
+  # Best free: Gemma 4 31B (multimodal, 256K context, Apache 2.0)
+  # ──────────────────────────────────────────────────────────────────
+  vision:
+    provider: openrouter
+    model: google/gemma-4-31b-it:free
+    timeout: 120
+    download_timeout: 30
+    fallback_chain:
+      - provider: gemini
+        model: gemini-2.5-flash
+      - provider: openrouter
+        model: nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free
+      - provider: openrouter
+        model: google/gemma-4-26b-a4b-it:free
+      - provider: opencode-zen
+        model: big-pickle
+      - provider: novita
+        model: google/gemma-4-31b-it
+
+  # ──────────────────────────────────────────────────────────────────
+  # COMPRESSION — Context summarization (needs speed, not reasoning)
+  # Best free: GPT-OSS 20B or Nemotron Nano (fast, cheap reasoning)
+  # ──────────────────────────────────────────────────────────────────
+  compression:
+    provider: openrouter
+    model: openai/gpt-oss-20b:free
+    timeout: 60
+    fallback_chain:
+      - provider: openrouter
+        model: nvidia/nemotron-3-nano-30b-a3b:free
+      - provider: openrouter
+        model: nvidia/nemotron-nano-9b-v2:free
+      - provider: groq
+        model: llama-3.1-8b-instant
+      - provider: gemini
+        model: gemini-2.5-flash-lite
+      - provider: opencode-zen
+        model: deepseek-v4-flash-free
+      - provider: novita
+        model: google/gemma-4-26b-a4b-it
+
+  # ──────────────────────────────────────────────────────────────────
+  # WEB EXTRACT — Web page summarization (same pattern as compression)
+  # ──────────────────────────────────────────────────────────────────
+  web_extract:
+    provider: openrouter
+    model: openai/gpt-oss-20b:free
+    timeout: 90
+    fallback_chain:
+      - provider: openrouter
+        model: nvidia/nemotron-3-nano-30b-a3b:free
+      - provider: gemini
+        model: gemini-2.5-flash-lite
+      - provider: groq
+        model: llama-3.1-8b-instant
+      - provider: opencode-zen
+        model: deepseek-v4-flash-free
+      - provider: novita
+        model: google/gemma-4-26b-a4b-it
+
+  # ──────────────────────────────────────────────────────────────────
+  # TITLE GENERATION — Session titles (cheap, fast, frequent)
+  # Best free: Gemma 4 26B MoE or Ring 2.6
+  # ──────────────────────────────────────────────────────────────────
+  title_generation:
+    provider: openrouter
+    model: google/gemma-4-26b-a4b-it:free
+    timeout: 30
+    fallback_chain:
+      - provider: openrouter
+        model: inclusionai/ring-2.6-1t:free
+      - provider: openrouter
+        model: nvidia/nemotron-3-nano-30b-a3b:free
+      - provider: groq
+        model: llama-3.1-8b-instant
+      - provider: opencode-zen
+        model: north-mini-code-free
+      - provider: novita
+        model: google/gemma-4-26b-a4b-it
+
+  # ──────────────────────────────────────────────────────────────────
+  # APPROVAL — Smart command approval (needs reasoning, not speed)
+  # Best free: Nemotron 3 Nano or Cohere North Mini Code
+  # ──────────────────────────────────────────────────────────────────
+  approval:
+    provider: openrouter
+    model: nvidia/nemotron-3-nano-30b-a3b:free
+    timeout: 30
+    fallback_chain:
+      - provider: openrouter
+        model: cohere/north-mini-code:free
+      - provider: openrouter
+        model: openai/gpt-oss-20b:free
+      - provider: gemini
+        model: gemini-2.5-flash
+      - provider: opencode-zen
+        model: big-pickle
+
+  # ──────────────────────────────────────────────────────────────────
+  # SKILLS HUB — Skill search/discovery (lightweight)
+  # ──────────────────────────────────────────────────────────────────
+  skills_hub:
+    provider: auto
+    model: ""
+    timeout: 30
+    fallback_chain:
+      - provider: openrouter
+        model: openai/gpt-oss-20b:free
+      - provider: groq
+        model: llama-3.1-8b-instant
+      - provider: opencode-zen
+        model: deepseek-v4-flash-free
+
+  # ──────────────────────────────────────────────────────────────────
+  # MCP — MCP tool routing (lightweight)
+  # ──────────────────────────────────────────────────────────────────
+  mcp:
+    provider: auto
+    model: ""
+    timeout: 30
+    fallback_chain:
+      - provider: openrouter
+        model: openai/gpt-oss-20b:free
+      - provider: groq
+        model: llama-3.1-8b-instant
+      - provider: opencode-zen
+        model: deepseek-v4-flash-free
+
+  # ──────────────────────────────────────────────────────────────────
+  # TRIAGE SPECIFIER — Kanban task specification expansion
+  # ──────────────────────────────────────────────────────────────────
+  triage_specifier:
+    provider: openrouter
+    model: nvidia/nemotron-3-nano-30b-a3b:free
+    timeout: 60
+    fallback_chain:
+      - provider: openrouter
+        model: cohere/north-mini-code:free
+      - provider: openrouter
+        model: openai/gpt-oss-20b:free
+      - provider: opencode-zen
+        model: big-pickle
+
+  # ──────────────────────────────────────────────────────────────────
+  # KANBAN DECOMPOSER — Task decomposition (reasoning needed)
+  # ──────────────────────────────────────────────────────────────────
+  kanban_decomposer:
+    provider: openrouter
+    model: nvidia/nemotron-3-super-120b-a12b:free
+    timeout: 120
+    fallback_chain:
+      - provider: openrouter
+        model: nvidia/nemotron-3-ultra-550b-a55b:free
+      - provider: gemini
+        model: gemini-2.5-flash
+      - provider: opencode-zen
+        model: nemotron-3-ultra-free
+
+  # ──────────────────────────────────────────────────────────────────
+  # PROFILE DESCRIBER — Profile description generation
+  # ──────────────────────────────────────────────────────────────────
+  profile_describer:
+    provider: openrouter
+    model: google/gemma-4-26b-a4b-it:free
+    timeout: 30
+    fallback_chain:
+      - provider: openrouter
+        model: inclusionai/ring-2.6-1t:free
+      - provider: opencode-zen
+        model: north-mini-code-free
+
+  # ──────────────────────────────────────────────────────────────────
+  # CURATOR — Skill curation review (can run long, use cheaper model)
+  # ──────────────────────────────────────────────────────────────────
+  curator:
+    provider: openrouter
+    model: openai/gpt-oss-20b:free
+    timeout: 300
+    fallback_chain:
+      # ═══════════════════════════════════════════════════════════════════════
+      # CUSTOM PROVIDERS — Free/Open endpoints you can add
+      # ═══════════════════════════════════════════════════════════════════════
+      custom_providers:
+        # Local Ollama (zero cost, no rate limits, needs 64K+ context config)
+        - name: ollama-local
+          base_url: http://localhost:11434/v1
+          key_env: OLLAMA_API_KEY
+          api_mode: chat_completions
+          model: qwen3.5:27b
+
+        # Local vLLM (if you have GPU, high throughput)
+        - name: vllm-local
+          base_url: http://localhost:8000/v1
+          key_env: VLLM_API_KEY
+          api_mode: chat_completions
+          model: local-model
+
+        # SGLang local (fast serving with RadixAttention)
+        - name: sglang-local
+          base_url: http://localhost:30000/v1
+          key_env: SGLANG_API_KEY
+          api_mode: chat_completions
+          model: local-model
+
+        # LM Studio (desktop app with local models)
+        - name: lmstudio-local
+          base_url: http://localhost:1234/v1
+          key_env: LM_API_KEY
+          api_mode: chat_completions
+          model: local-model
+    - env: OPENROUTER_API_KEY
+    # Add more keys to multiply quota:
+    # - env: OPENROUTER_API_KEY_2
+    # - env: OPENROUTER_API_KEY_3
+  groq:
+    - env: GROQ_API_KEY
+    # - env: GROQ_API_KEY_2
+  gemini:
+    - env: GOOGLE_API_KEY
+    # - env: GOOGLE_API_KEY_2
+  nvidia:
+    - env: NVIDIA_API_KEY
+    # - env: NVIDIA_API_KEY_2
+  opencode-zen:
+    - env: OPENCODE_ZEN_API_KEY
+  novita:
+    - env: NOVITA_API_KEY
+  huggingface:
+    - env: HF_TOKEN
+  github-models:
+    - env: GITHUB_MODELS_TOKEN
+  cloudflare:
+    - env: CLOUDFLARE_API_TOKEN
+  kimi-coding:
+    - env: KIMI_API_KEY
+
+# ═══════════════════════════════════════════════════════════════════════
+# OPTIMIZATION SETTINGS FOR FREE TIER
+# ═══════════════════════════════════════════════════════════════════════
+
+# Context compression — critical for free tier (saves ~80% tokens)
+compression:
+  enabled: true
+  threshold: 0.5
+  target_ratio: 0.2
+  protect_last_n: 20
+  protect_first_n: 3
+
+# Prompt caching — saves tokens on repeated context
+prompt_caching:
+  cache_ttl: 5m
+
+# Streaming — enables token-by-token for better UX
+streaming:
+  enabled: true
+
+# Tool loop guardrails — prevent infinite loops burning free quota
+tool_loop_guardrails:
+  warnings_enabled: true
+  hard_stop_enabled: true
+  warn_after:
+    exact_failure: 2
+    same_tool_failure: 3
+    idempotent_no_progress: 2
+  hard_stop_after:
+    exact_failure: 5
+    same_tool_failure: 8
+    idempotent_no_progress: 5
+
+# Code execution timeout
+code_execution:
+  timeout: 300
+  max_tool_calls: 50
+
+# Agent settings for free tier
+agent:
+  max_turns: 150
+  verbose: false
+  reasoning_effort: medium
+
+# ──────────────────────────────────────────────────────────────────────
+# ENVIRONMENT VARIABLES NEEDED (add to ~/.hermes/.env)
+# ──────────────────────────────────────────────────────────────────────
+# CORE PROVIDERS (priority order):
+# OPENROUTER_API_KEY=sk-or-v1-xxxx        # Primary (openrouter.ai) - 200 req/day free
+# GROQ_API_KEY=gsk_xxxx                   # Speed fallback (console.groq.com) - 1K req/day
+# GOOGLE_API_KEY=xxxx                     # Long context (aistudio.google.com) - 1,500 RPD
+# NVIDIA_API_KEY=xxxx                     # NIM fallback (build.nvidia.com) - credits, no expiry
+
+# ADDITIONAL FREE PROVIDERS:
+# OPENCODE_ZEN_API_KEY=xxxx               # opencode.ai/auth - 5 free models
+# NOVITA_API_KEY=xxxx                     # novita.ai - free credits on signup
+# HF_TOKEN=hf_xxxx                        # huggingface.co - monthly free credits
+# GITHUB_MODELS_TOKEN=ghp_xxxx            # GitHub Models (GitHub token)
+# CLOUDFLARE_API_TOKEN=xxxx               # Cloudflare Workers AI (10K neurons/day)
+# KIMI_API_KEY=xxxx                       # Kimi/Moonshot (kimi.moonshot.cn)
+# COHERE_API_KEY=xxxx                     # Cohere (cohere.com) - ~100 RPD
+# MISTRAL_API_KEY=xxxx                    # Mistral (mistral.ai) - 1B tokens/month
+# CEREBRAS_API_KEY=xxxx                   # Cerebras (cerebras.ai) - 1M tokens/day
+
+# LOCAL (optional, zero cost):
+# OLLAMA_API_KEY=xxx                      # Optional for local Ollama
+# VLLM_API_KEY=xxx                        # Optional for local vLLM
+# SGLANG_API_KEY=xxx                      # Optional for local SGLang
+# LM_API_KEY=xxx                          # Optional for LM Studio
+# LITELLM_MASTER_KEY=xxx                  # Optional for your LiteLLM proxy
+
+# ──────────────────────────────────────────────────────────────────────
+# KEY STACKING (multiply limits 3-5x per provider)
+# ──────────────────────────────────────────────────────────────────────
+# OPENROUTER_API_KEY_2=sk-or-v1-yyyy
+# OPENROUTER_API_KEY_3=sk-or-v1-zzzz
+# GROQ_API_KEY_2=gsk_yyyy
+# GOOGLE_API_KEY_2=AIzaSyyyy
+# NVIDIA_API_KEY_2=yyyy
+
+# ──────────────────────────────────────────────────────────────────────
+# RATE LIMIT QUICK REFERENCE (as of July 2026)
+# ──────────────────────────────────────────────────────────────────────
+# Provider              | RPM  | RPD/Month     | Context | Context  | Best For
+# ───────────────────── | ---- | ----------- | -------- | ------------------------
+# OpenRouter (free) | 20 | 50/day (1K*) | 1M | Variety, routing
+# Groq | 30 | 1,000/day | 128K | Speed (320 tok/s)
+# Google AI Studio | 15 | 1,500/day | 1M | Long context
+# NVIDIA NIM | 40 | Free credits | 128K | Experimentation
+# OpenCode Zen (free) | N/A | Unlimited free | Varies | Coding models
+# NovitaAI | N/A | Free credits | 262K | Cost-efficient
+# Hugging Face | Var | Monthly creds | Model | Niche models
+# GitHub Models | 15 | 150-1K/day | 128K | Frontier access
+# Cloudflare | High | 10K neurons | 8K | Edge
+# Cohere | 10-20 | ~100/day | 128K | RAG (non-comm)
+# Mistral | Var | 1B tokens/mo | 256K | High volume
+# Cerebras | 30 | 1M tokens/day | 1M | Batch throughput
+# Ollama (local) | ∞ | ∞ | 128K+ | Zero cost, privacy
+# ──────────────────────────────────────────────────────────────────────
+# * 1,000/day with $10 lifetime top-up on OpenRouter
+#
+# ESTIMATED HERMES TASKS/DAY (accounting for 6-20K token overhead per request):
+# - Groq: ~25-50 tasks/day (500K token budget on 70B)
+# - OpenRouter: ~15-30 tasks/day (200 req limit)
+# - Google AI Studio: ~20-40 tasks/day (1,500 RPD)
+# - OpenCode Zen: Unlimited on free models
+# - Local Ollama: Unlimited (hardware dependent)
+#
+# STRATEGY: Stack 3-5 keys per provider → multiply limits 3-5x
+# ──────────────────────────────────────────────────────────────────────

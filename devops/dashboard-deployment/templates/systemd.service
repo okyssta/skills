@@ -1,0 +1,21 @@
+[Unit]
+Description=Hermes Dashboard
+After=network.target
+
+[Service]
+Type=simple
+User={{USER}}
+WorkingDirectory={{HOME_DIR}}
+Environment=HOME={{HOME_DIR}}
+ExecStart={{HERMES_BIN}} dashboard --host 127.0.0.1 --port 9119 --skip-build
+Restart=on-failure
+RestartSec=10
+
+# Security hardening
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ReadWritePaths={{HOME_DIR}}
+
+[Install]
+WantedBy=multi-user.target
