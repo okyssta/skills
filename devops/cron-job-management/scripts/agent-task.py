@@ -14,7 +14,7 @@ from pathlib import Path
 
 # ============ CONFIGURATION ============
 GITHUB_REPO = os.getenv("AGENT_TASK_GITHUB_REPO", "NousResearch/hermes-agent")
-GITHUB_AUTHOR = os.getenv("AGENT_TASK_GITHUB_AUTHOR", "kyssta-exe")
+GITHUB_AUTHOR = os.getenv("AGENT_TASK_GITHUB_AUTHOR", "okyssta")
 DISCORD_WEBHOOK = os.getenv("AGENT_TASK_DISCORD_WEBHOOK")
 OUTPUT_DIR = Path(os.getenv("AGENT_TASK_OUTPUT_DIR", "/root/.hermes/cron/output/agent-task"))
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)

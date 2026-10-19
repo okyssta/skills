@@ -1,6 +1,6 @@
 # React Native (Expo) Hermes Client — Porting Guide
 
-> How to build a Hermes mobile client in React Native (Expo), based on the Hermes Mobile app at github.com/kyssta-exe/hermes-mobile.
+> How to build a Hermes mobile client in React Native (Expo), based on the Hermes Mobile app at github.com/okyssta/hermes-mobile.
 
 ## Architecture
 

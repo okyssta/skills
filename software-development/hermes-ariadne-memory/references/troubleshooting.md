@@ -47,7 +47,7 @@ RUN pip install "ariadne-memory[embeddings]"
 ```
 **Fix**:
 ```bash
-git clone https://github.com/kyssta-exe/Ariadne.git /tmp/ariadne-repo
+git clone https://github.com/okyssta/Ariadne.git /tmp/ariadne-repo
 cp -r /tmp/ariadne-repo/plugin ~/.hermes/plugins/ariadne
 ```
 
@@ -166,4 +166,4 @@ Expected output for working keyword-only setup:
 - [Hermes Integration Guide](https://ariadne.mantes.net/guide/hermes)
 - [API Reference](https://ariadne.mantes.net/api/)
 - [Benchmarks](https://ariadne.mantes.net/benchmarks)
-- [GitHub Issues](https://github.com/kyssta-exe/Ariadne/issues)
+- [GitHub Issues](https://github.com/okyssta/Ariadne/issues)

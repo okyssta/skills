@@ -90,7 +90,7 @@ fantasy-sky-menu.mp3, fantasy-magic-theme.mp3
 4 rewarded ad placements targeting $300+/month at 400 DAU.
 
 ## Git Setup
-- Private repo: https://github.com/kyssta-exe/DMT
+- Private repo: https://github.com/okyssta/DMT
 - .gitignore: node_modules/, dist/, assets/raw/
 - First commit pitfall: accidentally included node_modules (5000+ files), fixed with git rm --cached + force push
 

@@ -110,7 +110,7 @@ Each skill directory has:
 1. Install [Hermes Agent](https://hermes-agent.nousresearch.com/)
 2. Copy a skill to `~/.hermes/skills/<category>/<name>/`:
    ```bash
-   git clone https://github.com/kyssta-exe/skills.git
+   git clone https://github.com/okyssta/skills.git
    cp -r skills/cybersecurity/analyzing-memory-dumps-with-volatility ~/.hermes/skills/cybersecurity/
    ```
 3. Hermes automatically picks up skills placed in the skills directory
